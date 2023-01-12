@@ -1,0 +1,1442 @@
+Animal Name,Class,Order,Family,Is_Endangered,Length(cm),Lifespan(years),Weight(kg),Diet,Asia,Europe,Africa,South-America,North-America,Central-America,Antarctica,Oceania,Ocean,Eurasia
+Aardvark,13,Tubulidentata,Orycteropodidae,0.0,162.5,23.0,70.0,4,0,0,1,0,0,0,0,0,0,0
+Aardwolf,13,Carnivora,Hyaenidae,0.0,93.98,15.0,10.909090909090908,0,0,0,1,0,0,0,0,0,0,0
+Abyssinian Guinea Pig,13,Rodentia,Caviidae,0.0,1114.242495994122,10.0,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Acadian Flycatcher,4,Passeriformes,Tyrannidae,0.0,14.478000000000002,3.0,0.0127572716448375,3,0,0,0,1,1,1,0,0,0,0
+Addax,13,Artiodactyla,Bovidae,1.0,124.46,22.0,1601.274827419837,2,0,0,1,0,0,0,0,0,0,0
+Adelie Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,15.0,4.5,0,1,0,0,0,0,0,1,0,1,1
+Aesculapian snake,16,Squamata,Colubridae,0.0,146.304,27.5,1601.274827419837,0,1,1,0,0,0,0,0,0,0,0
+African Bullfrog,2,Anura,Pyxicephalidae,0.0,1841.5,45.0,4.286452994166795,0,0,0,1,0,0,0,0,0,0,0
+African Bush Elephant,13,Proboscidea,Elephantidae,0.0,1114.242495994122,65.0,301.5,2,0,0,1,0,0,0,0,0,0,0
+African Civet,13,Carnivora,Viverridae,0.0,1114.242495994122,17.5,2.95,4,0,0,1,0,0,0,0,0,0,0
+African Clawed Frog,2,Anura,Pipidae,0.0,725.0,11.5,4.320987654320987,0,0,0,1,0,0,0,0,0,0,0
+African Fish Eagle,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,18.0,2.7895963930291847,0,0,0,1,0,0,0,0,0,0,0
+African Forest Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,65.0,451.5,2,0,0,1,0,0,0,0,0,0,0
+African Golden Cat,13,Carnivora,Felidae,1.0,81.28,12.0,11.339822735890994,0,0,0,1,0,0,0,0,0,0,0
+African Grey Parrot,4,Psittaciformes,Psittacidae,1.0,33.02,41.5,0.4713103135453875,2,0,0,1,0,0,0,0,0,0,0
+African Jacana,4,Charadriformes,Jacanidae,0.0,26.67,7.5,0.2267959403526676,0,0,0,1,0,0,0,0,0,0,0
+African Palm Civet,13,Carnivora,Nandiniidae,0.0,1114.242495994122,17.5,2.95,4,0,0,1,0,0,0,0,0,0,0
+African Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,12.5,3.5,0,0,0,1,0,0,0,0,0,1,0
+African Tree Toad,2,Anura,Bufonidae,0.0,315.0,4.0,0.1234567901234567,0,0,0,1,0,0,0,0,0,0,0
+African Wild Dog,13,Carnivora,Canidae,1.0,9250.0,11.5,26.5,0,0,0,1,0,0,0,0,0,0,0
+Agama Lizard,16,Squamata,Agamidae,0.0,2100.0,25.0,1.5,4,0,0,1,0,0,0,0,0,0,0
+Alaskan Pollock,0,Gadiformes,Gadidae,0.0,60.96,12.0,0.9090909090909092,0,1,0,0,0,1,0,0,0,1,1
+Albacore Tuna,0,Scombriformes,Scombridae,0.0,260.0,11.0,36.36363636363636,0,0,0,0,0,0,0,0,0,1,0
+Albatross,4,Procellariiformes,Diomedeidae,0.0,280.0,50.0,16.0,0,0,0,1,1,1,0,0,1,1,0
+Albertonectes,16,Plesiosauria,Elasmosauridae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Aldabra Giant Tortoise,16,Testudines,Testudinidae,1.0,10500.0,167.5,200.0,2,0,0,0,0,0,0,0,0,1,0
+Alligator Gar,0,Lepisosteiformes,Lepisosteidae,0.0,650.0,50.0,159.0909090909091,0,0,0,0,0,1,1,0,0,0,0
+Allosaurus,16,Saurischia,Allosauridae,1.0,1188.72,28.0,3343.0,0,0,1,1,0,1,0,0,1,1,1
+Alpaca,13,Artiodactyla,Camelidae,0.0,17250.0,17.5,29.937132022752223,2,0,0,0,1,0,0,0,0,0,0
+Alpine Goat,13,Artiodactyla,Bovidae,0.0,1114.242495994122,16.5,70.45454545454545,2,0,1,0,0,1,0,0,0,0,0
+Amano Shrimp,12,Decapoda,Atyidae,0.0,5.08,2.5,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Amazon River Dolphin (Pink Dolphin),13,Cetacea,Platanistoidea,1.0,1114.242495994122,15.0,150.0,0,0,0,0,1,0,0,0,0,0,0
+American Alligator,16,Crocodilia,Alligatoridae,0.0,350.0,45.0,272.0,0,1,0,0,0,1,0,0,0,1,0
+American Eel,0,Anguilliformes,Anguillidae,1.0,121.92,17.5,7.711079460405876,4,0,0,0,0,1,1,0,0,1,0
+American Paddlefish,0,Acipenseriformes,Polyodontidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,5,0,0,0,0,1,0,0,0,0,0
+American Robin,4,Passeriformes,Turdidae,0.0,24.13,2.0,76.0,4,0,1,0,0,1,1,0,0,0,0
+American Toad,2,Anura,Bufonidae,0.0,7500.0,10.0,0.4545454545454545,4,0,0,0,0,1,0,0,0,0,0
+Amethystine Python (Scrub Python),16,Squamata,Pythonidae,0.0,1114.242495994122,20.0,1601.274827419837,4,1,0,0,0,0,0,0,1,1,0
+Amur Leopard,13,Carnivora,Felidae,1.0,13500.0,12.5,36.5,0,1,0,0,0,0,0,0,0,0,1
+Anaconda,16,Squamata,Boidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Angelfish,0,Perciformes,Pomacanthidae,0.0,25.4,15.0,0.9071858188712796,4,0,0,0,0,0,0,0,0,1,0
+Angelshark,8,Squatiniformes,Squatinidae,1.0,106.68,30.0,81.64672369841516,4,0,1,1,0,0,0,0,0,0,0
+Angora Ferret,13,Carnivora,Mustelidae,0.0,49.53,7.0,1.3636363636363635,0,0,1,0,0,1,0,0,0,0,0
+Angora Goat,13,Artiodactyla,Bovidae,0.0,8850.0,10.0,91.0,2,1,1,1,1,1,0,0,1,1,1
+Anna’s Hummingbird,4,Apodiformes,Trochilidae,0.0,8.89,8.0,4.5,4,0,0,0,0,1,0,0,0,0,0
+Anole Lizard,16,Squamata,Dactyloidae,0.0,30.48,4.5,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Ant,11,Hymenoptera,Formicidae,0.0,1350.0,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Antarctic scale worm,14,Phyllodocida,Polynoidae,0.0,2000.0,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Anteater,13,Xenarthra,Myrmecophagidae,0.0,150.0,14.5,29.0,4,0,0,0,1,0,1,0,0,0,0
+Antelope,13,Artiodactyla,Bovidae,0.0,1114.242495994122,17.5,700.0,2,1,0,1,0,1,0,0,0,0,1
+Anteosaurus,16,Therapsida,Anteosauridae,1.0,533.4,19.474841669993218,545.4545454545454,0,0,0,1,0,0,0,0,0,0,0
+Apennine Wolf,13,Carnivora,Canidea,1.0,128.27,10.0,29.937132022752223,0,0,1,0,0,0,0,0,0,0,0
+Arabian Cobra,16,Squamata,Elapidae,0.0,243.84,25.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Arabian Wolf,13,Carnivora,Canidae,1.0,1114.242495994122,9.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Archaeoindris,13,Primates,Palaeopropithecidae,1.0,1114.242495994122,19.474841669993218,255.0,2,0,0,1,0,0,0,0,0,0,0
+Archaeotherium,13,Artiodactyla,Entelodontidae,1.0,16.51,19.474841669993218,68.4090909090909,2,0,0,0,0,1,0,0,0,0,0
+Archerfish,0,Perciformes,Toxotidae,0.0,27.94,3.0,1.587575183024739,3,1,0,0,0,0,0,0,1,1,0
+Arctic Char,0,Salmoniformes,Salmonidae,0.0,20.5,20.0,6.136363636363636,0,0,1,0,0,1,0,0,0,1,1
+Arctic Fox,13,Carnivora,Canidae,0.0,9000.0,8.5,5.4,0,0,1,0,0,1,0,0,0,0,1
+Arctic Hare,13,Lagomorpha,Leporidae,0.0,5750.0,5.5,4.5,2,0,0,0,0,1,0,0,0,0,0
+Arctic Wolf,13,Carnivora,Canidae,0.0,7550.0,8.5,32.5,0,0,0,0,0,1,0,0,0,0,0
+Arctotherium,13,Carnivora,Ursidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Argentavis Magnificens,4,Cathartiformes,Teratornithidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Arizona Coral Snake,16,Squamata,Elapidae,0.0,46.99,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Armadillo,13,Cingulata,Dasypodidae,1.0,5550.0,8.0,17.0,4,0,0,0,1,1,1,0,0,0,0
+Armadillo Lizard,16,Squamata,Cordylidae,0.0,9.525,25.0,0.1058201058201058,0,0,0,1,0,0,0,0,0,0,0
+Armored Catfish,0,Siluriformes,Loricariidae,0.0,17.78,6.5,1.3636363636363635,2,0,0,0,1,1,0,0,0,0,0
+Armyworm,11,Lepidoptera,Noctuidae,0.0,1.98501,0.1794520547945205,103.0,2,1,1,1,1,1,1,0,0,0,0
+Arsinoitherium,13,Embrithopoda,Arsinoitheriidae,1.0,725.0,19.474841669993218,2505.0,2,1,0,1,0,0,0,0,0,0,0
+Arthropleura,9,Arthropleurida,Arthropleuridae,1.0,144.78,19.474841669993218,49.99999999999999,2,0,1,0,0,1,0,0,0,0,0
+Aruba Rattlesnake,16,Squamata,Viperidae,1.0,76.2,19.474841669993218,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Asian Arowana,0,Osteoglossiformes,Osteoglossidae,1.0,200.0,60.0,10.9,0,1,0,0,0,0,0,0,0,0,0
+Asian Carp,0,Cypriniformes,Cyprinidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Asian Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,62.5,1.5,2,1,0,0,0,0,0,0,0,0,0
+Asian Giant Hornet,11,Hymenoptera,Vespidae,0.0,410.0,0.3333333333333333,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Asian Palm Civet,13,Carnivora,Viverridae,1.0,1114.242495994122,17.5,2.95,0,1,0,0,0,0,0,0,0,0,0
+Asian Vine Snake,16,Squmata,Colubridae,0.0,114.3,8.5,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Asian Water Monitor,16,Squamata,Varanidae,0.0,198.12,18.0,17.91691992270777,0,1,0,0,0,0,0,0,0,0,0
+Asiatic Black Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,20.0,145.0,4,1,0,0,0,0,0,0,0,0,1
+Asp,16,Squamata,Viperidae,0.0,76.2,17.5,1601.274827419837,4,0,1,0,0,0,0,0,0,0,0
+Assassin Bug,11,Hemiptera,Reduviidae,0.0,1114.242495994122,19.474841669993218,5.5e-06,0,1,1,1,1,1,1,1,1,1,1
+Atlantic Salmon,0,Salmoniformes,Salmonidae,0.0,1114.242495994122,19.474841669993218,4.513249448884615,4,0,0,0,0,0,0,0,0,1,0
+Atlantic Sturgeon,0,Acipenseriformes,Acipenseridae,1.0,289.56,32.5,249.47610018960185,4,0,0,0,0,1,0,0,0,0,0
+Atlas Beetle,11,Coleoptera,Scarabaeidae,0.0,5250.0,1.0,1601.274827419837,2,1,0,0,0,0,0,0,0,0,0
+Aurochs,13,Artiodactyla,Bovidae,1.0,1114.242495994122,20.0,180.5,4,1,1,0,0,1,0,0,0,0,0
+Australian Flathead Perch,0,Perciformes,Serranidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Avocet,4,Charadriiformes,Recurvirostridae,0.0,4350.0,12.5,9.523809523809524,0,1,1,0,1,1,0,0,1,1,1
+Axanthic Ball Python,16,Squamata,Pythonidae,0.0,121.92,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Axolotl,2,Caudata,Ambystomatidae,1.0,3000.0,15.0,4.585537918871252,0,0,0,0,0,1,1,0,0,0,0
+Aye-aye,13,Primates,Daubentoniidae,1.0,3500.0,16.5,2.35,4,0,0,1,0,0,0,0,0,0,0
+Babirusa,13,Artiodactyla,Suidae,1.0,99.06,10.0,95.45454545454544,4,1,0,0,0,0,0,0,0,0,0
+Baboon,13,Primates,Cercopithecidae,0.0,1114.242495994122,27.5,29.5,4,1,0,1,0,0,0,0,0,0,0
+Bactrian Camel,13,Artiodactyla,Camelidae,1.0,1114.242495994122,42.5,708.0,2,1,0,0,0,0,0,0,0,0,0
+Badger,13,Carnivora,Mustelidae,0.0,2700.0,9.0,9.0,4,0,1,0,0,0,0,0,0,0,0
+Baiji,13,Cetartiodactyla,Lipotidae,1.0,243.84,24.0,167.27272727272725,0,1,1,1,1,1,1,1,1,1,1
+Baird’s Rat Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Bald Eagle,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,17.5,4.681818181818182,0,0,0,0,0,1,0,0,0,0,0
+Baleen Whale,13,Artiodactyla,Eschrichtiidae,1.0,1219.2,100.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Balkan Lynx,13,Carnivora,Felidae,1.0,105.029,21.0,21.45494461630576,0,0,1,0,0,0,0,0,0,0,0
+Ball Python,16,Squamata,Pythonidae,0.0,182.88,30.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Banana Ball Python,16,Squamata,Pythonidae,0.0,250.0,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Banana Cinnamon Ball Python,16,Squamata,Pythonidae,0.0,152.4,25.0,2.948353911331658,4,0,0,1,0,0,0,0,0,0,0
+Banana Eel,0,Anguilliformes,Muraenidae,0.0,60.96,13.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Banana Spider,3,Araneae,Araneidae,0.0,175.0,19.474841669993218,0.0059533934342575,0,1,0,1,0,1,0,0,1,1,0
+Banded Palm Civet,13,Carnivora,Viverridae,1.0,1114.242495994122,17.5,2.95,0,1,0,0,0,0,0,0,0,0,0
+Banded Water Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Bandicoot,13,Peramelemorphia,Peramelidae,1.0,5450.0,5.0,0.9,4,0,0,0,0,0,0,0,1,1,0
+Barb,0,Cypriniformes,Cyprinidae,0.0,19.05,5.0,1601.274827419837,4,1,0,1,1,0,0,0,0,0,1
+Barinasuchus,16,Crocodylia,Sebecidae,1.0,2600.0,19.474841669993218,1655.614119440085,0,0,0,0,1,0,0,0,0,0,0
+Barn Owl,4,Strigiformes,Tytonidae,0.0,1114.242495994122,7.5,14.991181657848324,0,1,1,1,1,1,1,0,1,1,1
+Barn Swallow,4,Passeriformes,Hirundinidae,0.0,1700.0,19.474841669993218,8.409090909090908,0,1,1,1,1,1,1,0,1,1,1
+Barosaurus,16,Saurischia,Diplodocidae,1.0,2499.36,25.0,0.02,2,0,0,0,0,1,0,0,0,0,0
+Barracuda,0,Perciformes,Sphyraenidae,0.0,125.0,12.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Barramundi Fish,0,Perciformes,Latidae,0.0,320.0,19.474841669993218,54.54545454545454,0,0,0,0,0,0,0,0,0,1,0
+Barred Owl,4,Strigiformes,Strigidae,0.0,1945.0,18.0,0.6350300732098956,0,0,0,0,0,1,1,0,0,0,0
+Barylambda,13,Cimolesta,Barylambdidae,1.0,243.84,19.474841669993218,649.9986392212718,2,1,1,1,1,1,1,1,1,1,1
+Basilisk Lizard,16,Squamata,Corytophanidae,0.0,76.2,7.0,0.2523104836423428,0,0,0,0,1,0,1,0,0,0,0
+Basilosaurus,13,Artiodactyla,Basilosauridae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,0,1,0,1,0,0,0,1,0
+Basking Shark,8,Lamniformes,Cetorhinidae,0.0,900.0,60.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Bat,13,Chiroptera,Microchiroptera,0.0,9150.0,20.0,0.0529100529100529,4,1,1,1,1,1,1,0,1,1,1
+Bat-Eared Fox,13,Carnivora,Canidae,0.0,1114.242495994122,11.5,1601.274827419837,3,0,0,1,0,0,0,0,0,0,0
+Baya,4,Passeriformes,Ploceidae,0.0,1114.242495994122,12.5,0.5114638447971781,4,1,0,0,0,0,0,0,0,0,0
+Bea-Tzu,13,Carnivora,Canidae,0.0,35.56,12.5,8.618265279277155,4,0,0,0,0,1,0,0,0,0,0
+Beabull,13,Carnivora,Canidae,0.0,16.0,11.0,15.87575183024739,4,0,0,0,0,1,0,0,0,0,0
+Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,25.0,238.5,4,1,1,0,1,1,1,0,0,0,1
+Bearded Dragon,16,Squamata,Agamidae,0.0,5550.0,10.5,13.403880070546736,4,0,0,0,0,0,0,0,1,1,0
+Bearded Vulture,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,0,0,0,0,0,0,0
+Beauty rat snake,16,Squamata,Colubridae,1.0,152.4,20.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,1
+Beaver,13,Rodentia,Castoridae,0.0,10000.0,11.0,21.5,2,0,1,0,0,1,0,0,0,1,1
+Bed Bugs,11,Hemiptera,Cimicidae,0.0,600.0,0.9166666666666666,1601.274827419837,4,1,1,1,1,1,1,1,1,1,1
+Bee-Eater,4,Coraciiformes,Meropidae,0.0,24.13,4.5,0.049611611952146,3,1,1,1,0,0,0,0,1,1,0
+Beetle,11,Endopterygota,Coleoptera,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Belted Kingfisher,4,Coraciiformes,Alcedinidae,0.0,1114.242495994122,14.0,1.9400352733686064,4,0,0,0,0,1,1,0,0,0,0
+Beluga Sturgeon,0,Acipenseriformes,Acipenseridae,1.0,609.6,50.0,114.0786167230634,0,0,0,0,0,0,0,0,0,1,0
+Beluga Sturgeon,0,Acipenseriformes,Acipenseridae,1.0,609.6,50.0,114.0786167230634,0,0,0,0,0,0,0,0,0,1,0
+Bengal Tiger,13,Carnivora,Felidae,1.0,284.99999999999994,21.5,220.0,0,1,0,0,0,0,0,0,0,0,0
+Betta Fish (Siamese Fighting Fish),0,Perciformes,Osphronemidae,0.0,700.0,4.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Bhutan Takin,13,Artiodactyla,Bovidae,1.0,176.53,18.0,299.37132022752223,2,1,0,0,0,0,0,0,0,0,0
+Bighorn Sheep,13,Artiodactyla,Bovidae,0.0,17000.0,12.5,88.5,2,0,0,0,0,1,1,0,0,0,0
+Bilby,13,Peramelemorphia,Thylacomyidae,1.0,41.9735,10.0,1.5444838566283534,4,0,0,0,0,0,0,0,1,1,0
+Binturong,13,Carnivora,Viverridae,1.0,7800.0,17.5,12.0,4,1,0,0,0,0,0,0,0,0,0
+Bird Of Paradise,4,Passeriformes,Paradisaeidae,0.0,1114.242495994122,6.5,8.465608465608465,4,1,0,0,0,0,0,0,1,1,0
+Bismarck Ringed Python,16,Squamata,Pythonidae,0.0,152.4,20.0,1601.274827419837,4,1,1,1,1,1,1,1,1,1,1
+Bison,13,Artiodactyla,Bovidae,0.0,235.0,17.5,0.5,2,0,0,0,0,1,0,0,0,0,0
+Black and White Warbler,4,Passeriformes,Parulidae,0.0,11.938,19.474841669993218,0.0141747462720417,3,0,1,0,1,1,1,0,0,0,0
+Black Mamba,16,Squamata,Elapidae,0.0,775.0,11.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Black Pastel Ball Python,16,Squamata,Pythonidae,0.0,121.92,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Black Rat Snake,16,Squamata,Colubridae,0.0,175.26,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Black Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,345.0,47.5,400.5,2,0,0,1,0,0,0,0,0,0,0
+Black Throat Monitor,16,Squamata,Varanidae,0.0,1114.242495994122,25.0,27.215574566138383,0,0,0,1,0,0,0,0,0,0,0
+Black Wasp,11,Hymenoptera,Sphecidae,0.0,2750.0,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Black Widow Spider,3,Araneae,Theridiidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,1,1,1,0,1,1,1
+Black-Bellied Whistling Duck,4,Anseriformes,Anatidae,0.0,38.1,10.0,0.8391468824559335,4,0,0,0,1,1,0,0,0,0,0
+Black-Capped Chickadee,4,Passeriformes,Paridae,0.0,13.0175,7.25,0.01020581731587,4,0,0,0,0,1,0,0,0,0,0
+Black-Footed Ferret,13,Carnivora,Mustelidae,1.0,53.34,4.0,0.9090909090909092,0,0,0,0,0,1,0,0,0,0,0
+Blacknose Shark,8,Carcharhiniformes,Carcharhinidae,1.0,106.68,17.75,1601.274827419837,0,0,0,0,0,0,1,0,0,1,0
+Blackpoll Warbler,4,Passeriformes,Parulidae,0.0,13.97,4.5,0.0127572716448375,4,0,1,0,0,1,0,0,0,0,0
+Blacktip Reef Shark,8,Carcharhiniformes,Carcharhinidae,1.0,182.88,20.0,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Bladefin Basslet,0,Perciformes,Serranidae,0.0,5.842,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Blanket Octopus,7,Octopoda,Tremoctopodidae,0.0,11.43,2.75,3.636363636363636,0,0,0,0,0,0,0,0,0,1,0
+Blind Snake,16,Squamata,Typhlopidae,0.0,2200.0,19.474841669993218,1601.274827419837,0,1,0,1,1,1,1,0,1,1,0
+Blister Beetle,11,Coleoptera,Meloidae,0.0,175.0,0.1666666666666666,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Blobfish,0,Scorpaeniformes,Psychrolutidae,1.0,5080.0,19.474841669993218,14.5,4,0,0,0,0,0,0,0,0,1,0
+Blood Python,16,Squamata,Pythonidae,0.0,650.0,25.0,13.607787283069191,0,1,0,0,0,0,0,0,0,0,0
+Blue Belly Lizard,16,Squamata,Phyrnosomatidae,0.0,16.002000000000002,6.0,0.0283494925440834,0,0,0,0,0,1,1,0,0,0,0
+Blue Catfish,0,Siluriformes,Ictaluridae,0.0,113.03,17.0,39.77272727272727,4,0,0,0,0,1,1,0,0,0,0
+Blue Eyed Pleco,0,Siluriformes,Loricaridae,0.0,3000.0,15.0,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Blue Gray Gnatcatcher,4,Passeriformes,Polioptilidae,0.0,11.43,19.474841669993218,0.0074074074074074,3,0,0,0,0,1,1,0,0,0,0
+Blue grosbeak,4,Passeriforme,Cardinalidae,0.0,16.51,19.474841669993218,0.0287747349322447,4,0,0,0,0,1,1,0,0,0,0
+Blue Iguana,16,Squamata,Iguanidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,1,0,0,0,0
+Blue Jay,4,Passeriformes,Corvidae,0.0,26.67,7.0,0.109347442680776,4,0,0,0,0,1,0,0,0,0,0
+Blue Racer,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Blue Shark,8,Carcharhiniformes,Carcharhinidae,0.0,335.28000000000003,15.0,41.0501583039254,0,0,0,0,0,0,0,0,0,1,0
+Blue Tanager (Blue-Grey Tanager),4,Passeriformes,Thraupidae,0.0,17.017999999999997,12.0,0.0354368656801043,4,0,0,0,1,1,1,0,0,0,0
+Blue Tit,4,Passeriformes,Paridae,0.0,1114.242495994122,10.0,0.201058201058201,4,1,1,1,0,0,0,0,0,0,0
+Blue Whale,13,Cetacea,Balaenopteridae,1.0,2750.0,85.0,59.090909090909086,0,0,0,0,0,0,0,0,0,1,0
+Blue-Ringed Octopus,7,Octopoda,Octopodidae,0.0,1114.242495994122,2.0,1.9400352733686064,0,0,0,0,0,0,0,0,0,1,0
+Bluefin Tuna,0,Scombriformes,Scombridae,1.0,300.0,40.0,0.4545454545454545,0,0,0,0,0,0,0,0,0,1,0
+Bluegill,0,Perciformes,Centrarchidae,0.0,29.21,5.0,0.8181818181818181,0,0,0,0,0,1,1,0,0,0,0
+Bobcat,13,Carnivora,Felidae,0.0,8250.0,13.5,9.7,0,0,0,0,0,1,1,0,0,0,0
+Bobolink,4,Passeriformes,Icteridae,0.0,17.017999999999997,19.474841669993218,1601.274827419837,4,0,0,0,1,1,0,0,0,0,0
+Boiga,16,Squamata,Colubridae,0.0,76.2,13.5,1601.274827419837,0,1,0,0,0,0,0,0,1,1,0
+Bongo,13,Artiodactyla,Bovidae,0.0,210.0,14.0,185.0,2,0,0,1,0,0,0,0,0,0,0
+Bonito Fish,0,Scombriformes,Scombridae,0.0,121.92,7.0,11.339822735890994,0,0,0,0,0,0,0,0,0,1,0
+Bonnethead Shark,8,Carcharhiniformes,Sphyrnidae,0.0,2950.0,19.474841669993218,3.492665402654426,4,0,0,0,0,0,0,0,0,1,0
+Bonobo,13,Primates,Hominidae,1.0,1114.242495994122,40.0,37.5,4,0,0,1,0,0,0,0,0,0,0
+Booby,4,Pelecaniformes,Sulidae,0.0,1114.242495994122,14.5,1.35,0,0,0,0,1,0,1,0,0,1,0
+Boomslang,16,Squamata,Colubridae,0.0,1114.242495994122,8.5,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Bornean Orang-utan,13,Primates,Hominidae,1.0,1114.242495994122,35.0,60.0,4,1,0,0,0,0,0,0,0,0,0
+Borneo Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,62.5,1.5,2,1,0,0,0,0,0,0,0,1,0
+Bottlenose Dolphin,13,Cetacea,Delphinidae,0.0,325.0,27.5,250.0,4,0,0,0,0,0,0,0,0,1,0
+Bowfin,0,Amiiformes,Amiidae,0.0,8000.0,11.0,9.545454545454543,0,0,0,0,0,1,1,0,0,0,0
+Bowhead Whale,13,Artiodactyla,Balaenidae,0.0,1676.4,200.0,0.0875,2,0,0,1,0,0,0,0,0,0,0
+Box Turtle,16,Testudines,Emydidae,1.0,13.97,100.0,0.5681818181818181,4,0,0,0,0,1,1,0,0,0,0
+Brahminy Blindsnake,16,Squamata,Squamata,0.0,13.843,19.474841669993218,1601.274827419837,0,1,0,1,1,1,1,0,1,1,0
+Brazilian Treehopper,11,Hemiptera,Membracidae,0.0,550.0,19.474841669993218,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Bredl’s Python,16,Squamata,Pythonidae,0.0,220.98,25.0,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Bronze Whaler Shark,8,Selachimorpha,Carcharhinidae,0.0,220.5,27.5,138.63636363636363,0,0,0,0,0,0,0,0,0,1,0
+Bronze-winged Jacana,4,Charadriiformes,Jacanidae,0.0,27.94,19.474841669993218,0.2409706866247094,4,1,0,0,0,0,0,0,0,0,0
+Brook Trout,0,Salmoniformes,Salmonidae,0.0,44.45,6.0,1.814371637742559,0,0,0,0,0,1,0,0,0,0,0
+Brookesia Micra,16,Squamata,Chamaeleonidae,0.0,2.7940000000000005,10.0,0.0001899416000453,0,0,0,1,0,0,0,0,0,0,0
+Brown Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,25.0,263.0,4,1,1,0,0,1,0,0,0,0,1
+Brown Headed Cowbird,4,Passeriformes,Icteridae,0.0,35.052,16.0,0.041106764188921,4,0,1,0,0,1,1,0,0,0,0
+Brown Hyena,13,Carnivora,Hyaenidae,0.0,144.78,13.5,40.59656539448976,4,0,0,1,0,0,0,0,0,0,0
+Brown Snake,16,Squamata,Elapidae,1.0,124.05360000000002,15.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Brown Tree Snake,16,Squamata,Colubridae,0.0,182.88,12.5,2.267964547178199,4,1,0,0,0,0,0,0,1,1,0
+Brown Water Snake,16,Squamata,Colubridae,0.0,144.78,9.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Budgerigar,4,Psittaciformes,Psittacidae,0.0,1114.242495994122,4.5,1.2345679012345678,4,0,0,0,0,0,0,0,1,1,0
+Buffalo,13,Artiodactyla,Bovidae,0.0,175.0,18.5,753.5,2,0,0,1,0,0,0,0,0,0,0
+Buffalo Fish,0,Cypriniformes,Catostomidae,0.0,91.44,21.5,27.215574566138383,4,0,0,0,0,1,1,0,0,0,0
+Bull and Terrier,13,Carnivora,Canidae,1.0,1114.242495994122,11.0,21.545663198192887,4,0,1,0,0,0,0,0,0,0,0
+Bull Shark,8,Carcharhiniformes,Carcharhinidae,0.0,280.0,20.5,160.0,0,0,0,0,0,0,0,0,0,1,0
+Bull Trout,0,Salmoniformes,Salmonidae,1.0,93.98,11.0,13.636363636363637,0,0,0,0,0,1,0,0,0,0,0
+Bullfrog,2,Anura,Ranidae,0.0,1200.0,8.0,14.109347442680775,0,0,0,0,0,1,1,0,0,1,0
+Bullsnake,16,Squamata,Colubridae,0.0,121.92,21.0,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Bumblebee,11,Hymenoptera,Apidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,2,1,1,1,0,1,0,0,0,0,1
+Burmese Python,16,Squamata,Pythonidae,1.0,701.04,20.0,90.71858188712795,0,1,0,0,0,0,0,0,0,0,0
+Burrowing Frog,2,Anura,Myobatrachidae,0.0,800.0,12.5,1.763668430335097,0,0,0,0,0,0,0,0,1,1,0
+Burrowing Owl,4,Strigiformes,Strigidae,0.0,1114.242495994122,8.5,188500.0,0,0,0,0,1,1,1,0,0,0,0
+Bush Baby,13,Primates,Galagidae,0.0,16.51,16.0,1.477272727272727,4,0,0,1,0,0,0,0,0,0,0
+Bush Viper,16,Squamata,Viperidae,0.0,53.34,15.0,2.834955683972749,0,0,0,1,0,0,0,0,0,0,0
+Bushmaster Snake,16,Squamata,Viperidae,1.0,930.0,18.0,1601.274827419837,4,0,0,0,1,0,1,0,0,0,0
+Butterfly Fish,0,Perciformes,Chaetodontidae,1.0,30.48,7.5,50.0,4,0,0,0,0,0,0,0,0,1,0
+Cactus Mouse,13,Rodentia,Cricetidae,0.0,18.415,19.474841669993218,0.0354497354497354,4,0,0,0,0,1,0,0,0,0,0
+Cactus Wren,4,Passeriformes,Troglodytidae,0.0,18.542,8.5,0.040114531949878,3,0,0,0,0,1,1,0,0,0,0
+Caecilian,2,Gymnophiona,Caecilidae,0.0,10.16,13.0,0.9979044007584076,0,1,0,1,1,0,1,0,0,0,0
+Caiman,16,Crocodilia,Alligatoridae,0.0,375.0,30.0,153.0,0,0,0,0,1,0,1,0,0,0,0
+Caiman Lizard,16,Squamata,Teiidae,0.0,89.99999999999999,10.0,4.5,0,0,0,0,1,0,0,0,0,0,0
+California Kingsnake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Camel,13,Artiodactyla,Camelidae,0.0,285.0,45.0,495.0,2,1,0,1,0,0,0,0,1,1,1
+Camel Cricket,11,Orthoptera,Rhaphidophoridae,0.0,3.175,1.5,20000.0,4,1,1,0,1,1,1,0,1,1,1
+Camel Spider,3,Solifugae,Solpugidae,0.0,11.43,1.0,0.0705467372134038,0,1,0,0,0,1,1,0,0,0,0
+Canada Lynx,13,Carnivora,Felidae,0.0,3550.0,14.0,14.5,0,0,0,0,0,1,0,0,0,0,0
+Canada Warbler,4,Passeriformes,Parulidae,0.0,13.462000000000002,7.0,1.105630209219255,4,0,0,0,1,1,0,0,0,0,0
+Canadian Horse,13,Perissodactyla,Equidae,1.0,520.0,27.5,476.0,2,0,0,0,0,1,0,0,0,0,0
+Cape Lion,13,Carnivora,Felidae,1.0,198.12,25.0,272.15574566138383,0,0,0,1,0,0,0,0,0,0,0
+Capybara,13,Rodentia,Caviidae,0.0,11500.0,9.0,50.0,2,0,0,0,1,0,0,0,0,0,0
+Caracal,13,Carnivora,Felidae,0.0,1114.242495994122,13.5,14.5,0,1,0,1,0,0,0,0,0,0,0
+Cardinal,4,Passeriformes,Cardinalidae,0.0,19.685,9.0,0.0326019164256959,4,0,0,0,0,1,0,0,0,0,0
+Caribbean Reef Shark,8,Carcharhiniformes,Carcharhinidae,1.0,259.08,14.0,68.03893641534596,4,0,0,0,0,0,0,0,0,1,0
+Caribou,13,Artiodactyla,Cervidae,1.0,187.96,15.0,200.22727272727272,2,0,1,0,0,1,0,0,0,0,1
+Carolina Parakeet,4,Psittaciformes,Psittacidae,1.0,31.75,30.0,280.0,4,0,0,0,0,1,0,0,0,0,0
+Carp,0,Cypriniformes,Cyprinidae,0.0,2450.0,40.0,22.27272727272727,4,1,0,0,0,0,0,0,0,0,0
+Carpenter Ant,11,Hymenoptera,Formicidae,0.0,900.0,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Carpet Viper,16,Squamata,Viperidae,0.0,59.69,24.0,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Cashmere Goat,13,Artiodactyla,Bovidae,0.0,1114.242495994122,11.0,1601.274827419837,2,1,1,0,0,1,0,0,1,1,0
+Cassowary,4,Casuariiformes,Casuariidae,0.0,1114.242495994122,50.0,41.75,4,0,0,0,0,0,0,0,1,1,0
+Cat-Eyed Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Catahoula Bulldog,13,Carnivora,Canidae,0.0,1114.242495994122,12.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Caucasian Shepherd,13,Carnivora,Canidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,1,0,0,0,0,0,0,0,1
+Cave Bear,13,Carnivora,Ursidae,1.0,700.0,20.0,45.81288385299961,4,0,1,0,0,0,0,0,0,0,0
+Cedar Waxwing,4,Passeriformes,Bombycillidae,0.0,16.51,8.0,0.0311844417984918,4,0,0,0,0,1,1,0,0,0,0
+Central Ranges Taipan,16,Squamata,Elapidae,0.0,91.44,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Cervalces latifrons (Broad-Fronted Moose),13,Artiodactyla,Cervidae,1.0,21.59,19.474841669993218,1043.2636917019713,2,1,1,0,0,1,0,0,0,0,0
+Chameleon,16,Squamata,Chamaeleonidae,0.0,3565.0,6.0,1.005,4,1,0,1,0,0,0,0,0,0,0
+Chamois,13,Artiodactyla,Bovidae,0.0,1114.242495994122,20.0,52.5,2,0,1,0,0,0,0,0,0,0,0
+Checkered Garter Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Cheetah,13,Carnivora,Felidae,1.0,1114.242495994122,11.0,52.5,0,1,0,1,0,0,0,0,0,0,1
+Chestnut-Sided Warbler,4,Passeriformes,Parulidae,0.0,12.954,6.0,0.0127572716448375,3,0,1,0,1,1,1,0,0,0,0
+Chicken,4,Galliformes,Phasianidae,0.0,3750.0,3.0,2.0,4,1,1,1,1,1,1,0,1,1,1
+Chicken Snake,16,Squamata,Colubridae,0.0,167.64,14.0,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Chigger,3,Trombidiformes,Trombiculidae,0.0,191.77,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Chimpanzee,13,Primates,Hominidae,1.0,1114.242495994122,55.0,48.0,4,0,0,1,0,0,0,0,0,0,0
+Chinchilla,13,Rodentia,Chinchillidae,1.0,3000.0,14.0,15.873015873015872,2,0,0,0,1,0,0,0,0,0,0
+Chinese Alligator,16,Crocodilia,Alligatoridae,1.0,579.5,50.0,40.82336184920758,0,1,0,0,0,0,0,0,0,0,0
+Chinese Cobra,16,squamata,Elapidae,1.0,201.168,12.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Chinese Geese,4,Anseriformes,Anatidae,0.0,45.72,17.5,1601.274827419837,2,1,0,0,0,0,0,0,0,0,1
+Chinese Paddlefish,0,Acipenseriformes,Polyodontidae,1.0,1500.0,19.474841669993218,450.9090909090909,0,1,0,0,0,0,0,0,0,0,0
+Chinese Water Deer,13,Artiodactyla,Cervidae,0.0,91.44,11.0,10.681818181818182,2,1,0,0,0,0,0,0,0,0,0
+Chinook Salmon,0,Salmoniformes,Salmonidae,0.0,325.0,7.0,94.5,0,0,0,0,0,0,0,0,0,1,0
+Chinstrap Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,17.5,4.5,0,0,0,0,0,0,0,1,0,1,0
+Chipmunk,13,Rodentia,Sciuridae,0.0,1114.242495994122,6.0,2.998236331569665,4,0,0,0,0,1,0,0,0,0,1
+Chipping Sparrow,4,Passeriformes,Passerellidae,0.0,12.7,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Chiton,15,Chitonida,Chitonidae,0.0,21.7297,10.5,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Christmas Beetle,11,Coleoptera,Scarabaeidae,0.0,2750.0,0.1923076923076923,1601.274827419837,2,0,0,1,0,0,0,0,1,1,0
+Christmas Island Red Crab,12,Decapoda,Gecarcinidae,0.0,460.0,25.0,0.4819413732494188,4,0,0,0,0,0,0,0,1,1,0
+Cichlid,0,Perciformes,Cichlidae,0.0,91.44,8.0,3.175150366049478,4,0,0,1,1,0,1,0,0,0,0
+Cinereous Vulture,4,Accipitriformes,Accipitridae,0.0,114.6048,30.0,11.113026281173171,0,1,1,0,0,0,0,0,0,0,1
+Cinnamon Ball Python,16,Squamata,Pythonidae,0.0,167.64,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Cinnamon Bear,13,Carinvora,Ursidae,0.0,1114.242495994122,30.0,181.8181818181818,4,0,0,0,0,1,0,0,0,0,0
+Cinnamon Ferret,13,Carnivora,Mustelidae,0.0,35.56,8.5,1.587575183024739,0,0,0,0,0,1,0,0,0,0,0
+Clark’s Grebe,4,Podicipediformes,Podicipedidae,0.0,64.77,19.474841669993218,0.9879798151613086,0,0,0,0,0,1,0,0,0,0,0
+Clouded Leopard,13,Carnivora,Felidae,1.0,8500.0,14.0,20.5,0,1,0,0,0,0,0,0,0,0,0
+Clownfish,0,Perciformes,Pomacentridae,0.0,1400.0,8.0,250000.0,4,0,0,0,0,0,0,0,0,1,0
+Coastal Carpet Python,16,Squamata,Pythonidae,0.0,289.56,20.0,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Coastal Taipan,16,Squamata,Elapidae,0.0,236.22,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Coati,13,Carnivora,Procyonidae,0.0,1114.242495994122,11.5,5.5,4,0,0,0,1,1,1,0,0,0,0
+Cobia Fish,0,Carangiformes,Rachycentridae,0.0,198.12,15.0,61.235042773811365,0,0,0,0,0,0,0,0,0,1,0
+Cockatoo,4,Psittaciformes,Cacatuidae,1.0,5300.0,45.0,68.4090909090909,4,1,0,0,0,0,0,0,1,1,0
+Cockle,5,Cardiida,Cardiidae,0.0,8.128,7.5,0.0249475534387934,2,0,0,0,0,0,0,0,0,1,0
+Codfish,0,Gadiformes,Gadidae,1.0,13850.0,20.0,122.5,0,0,0,0,0,0,0,0,0,1,0
+Codling Moth,11,Lepidoptera,Tortricidae,0.0,1200.0,0.1767123287671232,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Collared Peccary,13,Atriodactyla,Tayassuidae,0.0,1114.242495994122,10.0,18.0,4,0,0,0,1,0,1,0,0,0,0
+Colossal Squid,7,Oegopsida,Cranchiidae,0.0,3000.0,19.474841669993218,590.9090909090909,0,0,0,0,0,0,0,0,0,1,0
+Comb-crested Jacana,4,Charadriiformes,Jacanidae,0.0,23.495,4.8,0.1091455462947213,4,1,0,0,0,0,0,0,1,1,0
+Comet Moth,11,Lepidoptera,Saturniidae,0.0,1114.242495994122,0.0328767123287671,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Common Buzzard,4,Accipitriformes,Accipitridae,0.0,5400.0,16.0,31.746031746031743,0,1,1,1,0,0,0,0,0,0,1
+Common Carp,0,Cypriniformes,Cyprinidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,0,0,0,0,0,0,0,0
+Common European Adder,16,Squamata,Viperidae,0.0,76.2,12.5,1601.274827419837,0,1,1,0,0,0,0,0,0,0,1
+Common Frog,2,Anura,Ranidae,0.0,800.0,7.5,1.763668430335097,0,0,1,0,0,0,0,0,0,0,0
+Common Grackle,4,Passeriformes,Icteridae,0.0,30.48,5.6,0.1077280716675171,4,0,0,0,0,1,1,0,0,0,0
+Common Green Magpie,4,Passeriformes,Corvidae,0.0,36.83,20.0,0.1275727164483755,0,1,0,0,0,0,0,0,0,0,0
+Common House Spider,3,aranae,Theridiidae,0.0,0.4953,1.0,0.0283494925440834,0,1,1,1,1,1,1,0,1,1,1
+Common Loon,4,Gaviiformes,Gaviidae,0.0,7200.0,20.0,4.0,4,0,1,0,0,1,0,0,0,0,0
+Common Raven,4,Passeriformes,Corvidae,0.0,63.5,28.5,1.1566619190608811,4,1,1,1,0,1,1,0,0,0,1
+Common Toad,2,Anura,Bufonidae,0.0,1400.0,3.0,1.763668430335097,0,0,1,0,0,0,0,0,0,0,0
+Common Yellowthroat,4,Passeriformes,Parulidae,0.0,11.938,10.0,0.008504847763225,3,0,0,0,0,1,1,0,0,0,0
+Conger Eel,0,Anguilliformes,Congridae,0.0,167.64,20.0,38.63636363636363,0,0,0,0,0,0,0,0,0,1,0
+Conure,4,Psittaciformes,Arinae,1.0,38.1,15.0,0.0065203832851391,4,0,0,0,1,1,1,0,0,0,0
+Cookiecutter Shark,8,Squaliformes,Dalatiidae,0.0,45.72,25.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Cooper’s Hawk,4,Accipitriformes,Accipitridae,0.0,40.5,12.0,0.575,0,0,0,0,0,1,1,0,0,0,0
+Corella,4,Psittaciformes,Cacatuidae,0.0,41.91,80.0,0.0049611611952146,4,1,0,0,0,0,1,0,1,1,0
+Corn Snake,16,Squamata,Colubridae,0.0,1114.242495994122,15.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Coryphodon,13,Cimolesta,Coryphodontidae,1.0,250.0,19.474841669993218,500.0,2,1,1,0,0,1,0,0,0,0,0
+Costa’s Hummingbird,4,Apodiformes,Trochilidae,0.0,8.255,19.474841669993218,3000.0,4,0,0,0,0,1,0,0,0,0,0
+Cotton-top Tamarin,13,Primates,Callitrichidae,1.0,2400.0,11.5,19.753086419753085,4,0,0,0,1,0,0,0,0,0,0
+Cottonmouth,16,Squamata,Viperidae,0.0,91.44,10.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Cougar,13,Carnivora,Felidae,0.0,212.5,15.0,59.5,0,0,0,0,0,1,0,0,0,0,0
+Cow,13,Artiodactyla,Bovidae,0.0,165.0,16.0,600.0,2,1,1,1,1,1,1,0,1,1,1
+Coyote,13,Carnivora,Canidae,0.0,8250.0,12.5,14.0,0,0,0,0,0,1,1,0,0,0,0
+Crab,12,Decapoda,Brachyura,0.0,20050.0,50.5,1.7989417989417988,0,1,1,1,1,1,1,0,1,1,1
+Crab Spider,3,Araneae,Thomisidae,0.0,15.4432,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Crab-Eating Macaque,13,Primates,Cercopithecidae,0.0,1114.242495994122,22.5,6.0,0,1,0,0,0,0,0,0,0,0,0
+Crabeater Seal,13,Carnivora,Pinnipedia,0.0,225.552,40.0,272.15574566138383,0,0,0,0,0,0,0,1,0,0,0
+Crane,4,Gruiformes,Gruidae,0.0,120.0,22.5,6.85,4,1,1,1,0,1,0,0,1,1,1
+Crappie Fish,0,Perciformes,Centrarchidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Crested Gecko,16,Squamata,Diplodactglidae,1.0,25.4,15.0,0.0324601689629755,4,0,0,0,0,0,0,0,1,1,0
+Crested Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,17.5,4.5,0,0,0,0,0,0,0,0,1,1,0
+Cricket,11,Orthoptera,Gryllidae,1.0,2.7940000000000005,19.474841669993218,0.0005,4,1,1,1,1,1,1,0,1,1,1
+Crocodile,16,Crocodilia,Crocodylidae,0.0,435.0,45.0,9.5,0,1,0,1,1,1,1,0,1,1,0
+Crocodile Monitor,16,Squamata,Varanidae,0.0,162.5,15.0,5.5,1,1,0,0,0,0,0,0,1,1,0
+Cross Fox,13,Carnivora,Canidae,0.0,2650.0,12.5,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Cross River Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,150.0,2,0,0,1,0,0,0,0,0,0,0
+Crucian Carp,0,Cypriniformes,Cyprinidae,0.0,405.0,10.0,2.5,4,1,1,0,0,0,0,0,0,0,1
+Cuban Cockroach,11,Blattodea,Blaberidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,1,0,0,0,0
+Curly Hair Tarantula,3,Araneae,Theraphosidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,1,0,0,0,0
+Cuscus,13,Marsupialia,Phalangeridae,0.0,3750.0,10.0,4.5,2,1,0,0,0,0,0,0,1,1,0
+Cuttlefish,7,Decapodiformes,Sepiida,0.0,3250.0,19.474841669993218,6.75,0,0,0,0,0,0,0,0,0,1,0
+Danios,0,Cypriniformes,Cyprinidae,0.0,1114.242495994122,5.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Darkling Beetle,11,Coleoptera,Tenebrionidae,0.0,2.54,19.474841669993218,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Darwin’s fox,13,Carnivora,Canidae,1.0,52.8066,19.474841669993218,2.8803149749163124,4,0,0,0,1,0,0,0,0,0,0
+Darwin’s Frog,2,Anura,Rhinodermatidae,1.0,300.0,12.5,0.1234567901234567,0,0,0,0,1,0,0,0,0,0,0
+De Brazza’s Monkey,13,Primates,Cercopithecidae,0.0,1114.242495994122,26.0,5.216318458509857,4,0,0,1,0,0,0,0,0,0,0
+Deathwatch Beetle,11,Coleoptera,Ptinidae,0.0,700.0,6.0,3e-06,2,0,1,1,0,1,0,0,1,1,0
+Deer,13,Artiodactyla,Cervidae,0.0,1114.242495994122,15.0,230.0,2,1,1,0,0,1,0,0,0,0,1
+Deinosuchus,16,Crocodilia,Alligatoroidea,1.0,899.16,19.474841669993218,8267.34090909091,0,0,0,0,0,1,0,0,0,0,0
+Desert Ghost Ball Python,16,Squamata,Pythonidae,0.0,152.4,25.0,2.948353911331658,4,0,0,1,0,0,0,0,0,0,0
+Desert Kingsnake,16,Squamata,Colubridae,0.0,106.68,16.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Desert Locust,11,Orthoptera,Acrididae,0.0,800.0,0.4166666666666667,2000.0,2,1,1,1,0,0,0,0,0,0,0
+Desert Rain Frog,2,Anura,Brevicipitidae,1.0,5.715,8.5,0.0141093474426807,4,0,0,1,0,0,0,0,0,0,0
+Desert Tortoise,16,Testudines,Testudinidae,0.0,3050.0,42.5,5.5,2,0,0,0,0,1,1,0,0,0,0
+Desert Wolf,13,Carnivora,Canidae,1.0,1114.242495994122,5.5,20.41168092460379,0,1,0,1,0,0,0,0,0,0,0
+Desmostylus,13,Desmostylia,Desmostylidae,1.0,274.32,19.474841669993218,1285.9090909090908,2,1,0,0,1,1,0,0,0,0,0
+Dhole,13,Carnivora,Canidae,1.0,9250.0,11.5,16.0,0,1,0,0,0,0,0,0,0,0,0
+Diamondback Moth,11,Lepidoptera,Plutellidae,0.0,600.0,0.0383561643835616,1601.274827419837,2,0,1,1,0,1,0,0,1,1,0
+Dik-Dik,13,Artiodactyla,Bovidae,0.0,60.96,7.5,4.7727272727272725,2,0,0,1,0,0,0,0,0,0,0
+Dilophosaurus,16,Saurischia,Dilophosauridae,1.0,701.04,19.474841669993218,400.0,0,0,0,0,0,1,0,0,0,0,0
+Dingo,13,Carnivora,Canidae,0.0,11250.0,11.0,16.5,0,0,0,0,0,0,0,0,1,1,0
+Dinocrocuta,13,Carnivora,Percrocutidae,1.0,131.064,19.474841669993218,299.8249131369579,0,1,0,1,0,0,0,0,0,0,0
+Dinofelis,13,Carnivora,Felidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Dinopithecus,13,Primates,Cercopithecidae,1.0,1114.242495994122,19.474841669993218,37.5,4,0,0,1,0,0,0,0,0,0,0
+Dinosaur Shrimp,6,Notostraca,Triopsidae,0.0,4.064,0.1506849315068493,1601.274827419837,4,1,1,1,1,1,0,0,1,1,0
+Diplodocus,16,Saurischia,Diplodocidae,1.0,3200.4,75.0,0.125,2,0,0,0,0,1,0,0,0,0,0
+Diprotodon,13,Diprotodontia,Diprotodontidae,1.0,365.76,19.474841669993218,2721.5574566138384,2,0,0,0,0,0,0,0,1,1,0
+Discus,0,Perciformes,Cichlidae,0.0,1375.0,12.5,200.0,4,0,0,0,1,0,0,0,0,0,0
+Dodo,4,Columbiformes,Columbidae,1.0,1114.242495994122,20.0,32.0,4,1,1,1,1,1,1,1,1,1,1
+Doedicurus,13,Cingulata,Chlamyphoridae,1.0,360.0,19.474841669993218,704.5,2,0,0,0,1,1,0,0,0,0,0
+Dolphin,13,Cetacean,Delphinidae,0.0,300.0,32.5,200.0,0,0,0,0,0,0,0,0,0,1,0
+Donkey,13,Perissodactyla,Equidae,0.0,1114.242495994122,22.5,229.0,2,1,1,1,1,1,1,0,1,1,1
+Dormouse,13,Rodentia,Gliridae,0.0,1250.0,3.5,107.5,4,1,1,1,0,0,0,0,0,0,1
+Douc,13,Primates,Cercopithecidae,1.0,2275.0,24.0,9.525451098148434,2,1,0,0,0,0,0,0,0,0,0
+Downy Woodpecker,4,Piciformes,Picidae,0.0,15.748,19.474841669993218,0.0245223110506321,4,0,0,0,0,1,0,0,0,0,0
+Doxle,13,Carnivora,Canidae,0.0,27.94,12.5,10.205840462301897,0,0,0,0,0,1,0,0,0,0,0
+Draco Volans Lizard,16,Squamata,Agamidae,0.0,819.9999999999999,19.474841669993218,0.0206951295571809,0,1,0,0,0,0,0,0,0,0,0
+Dragon Eel,0,Anguilliformes,Muraenidae,0.0,91.44,10.0,1601.274827419837,0,1,0,0,0,1,0,0,0,1,0
+Dragonfly,11,Odonata,Anisoptera,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,1,1,1,0,1,1,1
+Duck,4,Anseriformes,Anatidae,0.0,4000.0,6.0,1.0499999999999998,4,1,1,1,1,1,1,0,1,1,1
+Dugong,13,Sirenia,Dugongidae,0.0,285.0,60.0,275.0,2,0,0,0,0,0,0,0,0,1,0
+Dunkleosteus,18,Arthodira,Dunkleosteidae,1.0,667.512,19.474841669993218,183.25153541199845,0,0,1,1,0,1,0,0,0,0,0
+Dunnock,4,Passeriformes,Prunellidae,0.0,1114.242495994122,11.0,0.7583774250440917,4,1,1,0,0,0,0,0,1,1,0
+Dusky Shark,8,Carcharhiniformes,Carcharhinidae,1.0,365.76,50.0,181.4371637742559,0,1,1,1,1,1,1,0,1,1,0
+Dwarf Hamster,13,Rodentia,Cricetidae,0.0,800.0,2.5,0.0225378465725463,4,1,1,0,0,0,0,0,0,0,0
+Eagle,4,Falconiformes,Accipitridae,0.0,1114.242495994122,22.5,3.75,0,1,1,1,1,1,1,0,0,0,1
+Eared Grebe,4,Podicipediformes,Podicipedidae,0.0,30.48,19.474841669993218,0.3572036060554516,0,1,1,1,0,1,0,0,0,0,1
+Earless Monitor Lizard,16,Squamata,Lanthanotidae,1.0,40.64,19.474841669993218,0.1133979701763338,0,1,0,0,0,0,0,0,0,0,0
+Eastern Barred Bandicoot,13,Peramelemorphia,Peramelidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Eastern Bluebird,4,Passeriformes,Turdidae,0.0,18.542,10.0,0.0304757044848897,4,0,0,0,0,1,1,0,0,0,0
+Eastern Box Turtle,16,Testudines,Emydidae,1.0,13.97,62.5,0.6818181818181818,4,0,0,0,0,1,0,0,0,0,0
+Eastern Brown Snake,16,Squamata,Elapidae,0.0,182.88,15.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Eastern Chipmunk,13,Rodentia,Sciuridae,0.0,27.94,19.474841669993218,0.1081533140556783,2,0,0,0,0,1,0,0,0,0,0
+Eastern Coral Snake,16,Squamata,Elapidae,0.0,76.2,7.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Eastern Fence Lizard,16,Squamata,Phyrnosomatidae,0.0,13.97,3.5,15.0,0,0,0,0,0,1,1,0,0,0,0
+Eastern Glass Lizard,16,Squamata,Anguidae,0.0,77.47,20.0,0.4535918807053353,0,0,0,0,0,1,0,0,0,0,0
+Eastern Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,215.5,4,0,0,1,0,0,0,0,0,0,0
+Eastern Gray Squirrel,13,Rodentia,Sciuridae,0.0,26.67,12.0,0.3968928956171684,4,0,0,0,0,1,0,0,0,0,0
+Eastern Indigo Snake,16,Squamata,Colubridae,0.0,259.08,19.474841669993218,4.989522003792037,0,0,0,0,0,1,0,0,0,0,0
+Eastern Kingbird,4,Passeriformes,Tyrannidae,0.0,21.336,19.474841669993218,0.0368543403073085,4,0,0,0,1,1,1,0,0,0,0
+Eastern Lowland Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,215.5,4,0,0,1,0,0,0,0,0,0,0
+Eastern Meadowlark,4,Passeriformes,Icteridae,0.0,827.0,19.474841669993218,1601.274827419837,4,0,0,0,1,1,1,0,0,0,0
+Eastern Phoebe,4,Passeriformes,Tyrannidae,0.0,15.494,10.0,0.0184271701536542,4,0,0,0,0,1,1,0,0,0,0
+Eastern Racer,16,Squamata,Colubridae,0.0,139.7,10.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Eastern Rat snake,16,Squamata,Colubridae,0.0,137.16,12.5,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Eastern Tiger Snake,16,Scaled Reptiles,Elapid snakes,0.0,1114.242495994122,10.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Eastern Turkey (Wild Turkey),4,Galliformes,Phasianidae,0.0,100.33,7.0,6.690495414175686,4,0,0,0,0,1,0,0,0,0,0
+Echidna,13,Monotremata,Tachyglossidae,0.0,4350.0,27.5,5.5,0,0,0,0,0,0,0,0,1,1,0
+Eclectus Parrot,4,Psittaciformes,Psittacidae,0.0,33.655,30.0,0.4535918807053353,2,0,0,0,0,0,0,0,1,1,0
+Edible Frog,2,Anura,Ranidae,0.0,800.0,10.0,0.2998236331569665,4,0,1,0,0,0,0,0,0,0,0
+Eel catfish,0,Siluriformes,Clariidae,0.0,50.038,15.0,1.818181818181818,4,0,0,1,0,0,0,0,0,0,0
+Egret,4,Pelecaniformes,Ardeidae,0.0,91.44,7.5,2.5174406473678004,0,1,1,1,1,1,1,0,1,1,1
+Egyptian Cobra (Egyptian Asp),16,squamata,Elapidae,0.0,243.84,25.0,9.09090909090909,0,0,0,1,0,0,0,0,0,0,0
+Egyptian Goose,4,Anseriformes,Anatidae,0.0,68.58,20.0,2.5,4,0,0,1,0,0,0,0,0,0,0
+Egyptian Tortoise,16,Testudines,Testudinidae,1.0,8.89,85.0,0.2272727272727272,2,1,0,1,0,0,0,0,0,0,0
+Egyptian Vulture,4,Accipitriformes,Accipitridae,1.0,57.15,37.0,2.154566319819289,0,1,1,1,0,0,0,0,0,0,1
+Eider,4,Anseriformes,Anatidae,0.0,60.96,9.0,1.587575183024739,4,1,1,0,0,1,0,0,0,0,0
+Eland,13,Artiodactyla,Bovidae,0.0,1114.242495994122,17.5,150.45454545454544,2,0,0,1,0,0,0,0,0,0,0
+Elasmosaurus,16,Plesiosauria,Elasmosauridae,1.0,1371.6,19.474841669993218,363.6363636363636,0,0,0,0,0,1,0,0,0,0,0
+Elasmotherium,13,Perissodactyla,Rhinocerotidae,1.0,457.2,40.0,0.004,4,1,1,0,0,0,0,0,0,0,1
+Electric Catfish,0,Siluriformes,Malapteruridae,0.0,260.0,10.0,3.2,0,0,0,1,0,0,0,0,0,0,0
+Electric Eel,0,Gymnotiformes,Gymnotidae,0.0,243.84,16.0,20.454545454545453,0,0,0,0,1,0,0,0,0,0,0
+Elegant Tern,4,Charadriiformes,Laridae,0.0,40.64,21.0,0.3350970017636684,0,0,0,0,1,1,1,0,0,0,0
+Elephant,13,Proboscidea,Elephantidae,0.0,1114.242495994122,62.5,1.5,2,1,0,1,0,0,0,0,0,0,0
+Elephant Beetle,11,Coleoptera,Scarabaeidae,0.0,24.13,3.0,100000.0,2,0,0,0,1,1,1,0,0,0,0
+Elephant Fish,8,Holocephali,Chimaeriformes,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Elephant Seal,13,Carnivora,Phocidae,0.0,400.0,20.0,451.5,0,0,0,0,0,0,0,0,0,1,0
+Elephant Shrew,13,Macroscelidea,Macroscelididae,0.0,2000.0,3.5,9.700176366843031,4,0,0,1,0,0,0,0,0,0,0
+Elf Owl,4,Strigiformes,Strigidae,0.0,13.462000000000002,10.0,0.0396892895617168,0,0,0,0,0,1,0,0,0,0,0
+Elk,13,Artiodactyla,Cervidae,0.0,215.00000000000003,12.5,385.5,4,1,0,0,0,1,0,0,0,0,1
+Embolotherium,13,Perissodactyla,Brontoteriidae,1.0,487.68,19.474841669993218,1995.8088015168148,2,1,0,0,0,0,0,0,0,0,0
+Emerald Toucanet,4,Piciformes,Ramphastidae,0.0,33.02,13.0,0.1743493791461133,4,0,0,0,0,1,1,0,0,0,0
+Emerald Tree Monitor,16,Squamata,Varanidae,0.0,1114.242495994122,12.5,0.3118444179849181,0,1,0,0,0,0,0,0,1,1,0
+Emperor Angelfish,0,Perciformes,Pomacanthidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Emperor Goose,4,Anseriformes,Anatidae,0.0,67.31,9.0,2.4947610018960185,4,1,0,0,0,1,0,0,0,0,1
+Emperor Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,32.5,33.5,0,0,0,0,0,0,0,1,0,1,0
+Emperor Tamarin,13,Primates,Callitrichidae,0.0,2400.0,11.5,19.753086419753085,4,0,0,0,1,0,0,0,0,0,0
+Emu,4,Casuariiformes,Casuariidae,0.0,1114.242495994122,16.0,39.0,4,0,0,0,0,0,0,0,1,1,0
+Enchi Ball Python,16,Squamata,Pythonidae,0.0,167.64,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+English Crested Guinea Pig,13,Rodentia,Caviidae,0.0,1114.242495994122,6.0,1601.274827419837,2,0,1,0,0,1,0,0,0,0,0
+English Longhorn Cattle,13,Artiodactyla,Bovidae,0.0,1114.242495994122,20.0,704.5454545454545,2,0,1,0,0,1,0,0,1,1,0
+Epicyon haydeni,13,Carnivora,Canidae,1.0,243.84,19.474841669993218,118.18181818181816,4,0,0,0,0,1,0,0,0,0,0
+Equatorial Spitting Cobra,16,Squamata,Elapidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Equus giganteus,13, Perissodactyla,Equidae,1.0,1114.242495994122,19.474841669993218,1340.9090909090908,2,0,0,0,0,1,0,0,0,0,0
+Ermine,13,Carnivora,Mustelidae,0.0,2700.0,10.0,2.998236331569665,0,1,1,0,0,1,0,0,1,1,1
+Eryops,2,Temnospondyli,Eryopidae,1.0,224.028,19.474841669993218,199.5808801516815,0,0,0,0,0,1,0,0,0,0,0
+Escolar,0,Scombriformes,Gempylidae,0.0,213.36,11.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Eurasian Beaver,13,Rodentia,Castoridae,0.0,106.68,19.474841669993218,22.226052562346347,2,1,1,0,0,0,0,0,0,0,0
+Eurasian Bullfinch,4,Passeriformes,Fringillidae,0.0,16.51,3.5,0.0239553211997505,2,1,1,1,0,1,0,0,0,0,1
+Eurasian Collared Dove,4,Columbiformes,Columbidae,0.0,33.02,17.8,0.1791691992270777,2,1,1,0,0,1,1,0,0,0,1
+Eurasian Jay,4,Passeriformes,Corvidae,0.0,1114.242495994122,19.474841669993218,3.1040564373897706,4,1,1,1,0,0,0,0,0,0,1
+Eurasian Lynx,13,Carnivora,Felidae,0.0,99.06,19.474841669993218,27.27272727272727,0,1,1,0,0,0,0,0,0,0,1
+Eurasian Nuthatch,4,Passeriformes,Sittidae,0.0,14.732,7.0,0.0226795940352667,4,1,1,0,0,0,0,0,0,0,1
+Eurasian Sparrowhawk,4,Accipitriformes,Accipitridae,0.0,34.29,5.0,0.2253784657254635,0,1,1,1,0,0,0,0,0,0,0
+European Bee-Eater,4,Coraciiformes,Meropidae,0.0,27.94,19.474841669993218,0.0637863582241877,4,1,1,1,0,0,0,0,0,0,1
+European Goldfinch,4,Passeriformes,Fringillidae ,0.0,12.446000000000002,2.4,0.0155922208992459,2,1,1,1,0,0,0,0,0,0,1
+European Polecat,13,Carnivora,Mustelidae,0.0,30.48,14.0,1601.274827419837,0,0,1,1,0,0,0,0,0,0,1
+European Robin,4,Passeriformes,Muscicapidae,0.0,13.208,1.0833333333333333,0.0189941600045359,4,1,1,1,0,0,0,0,0,0,1
+European Starling,4,Passeriformes,Tyrannidae,0.0,21.59,2.5,0.0779611044962295,4,0,0,1,0,1,1,0,1,1,0
+European Wildcat,13,Carnivora,Felidae,0.0,1114.242495994122,14.0,8.164672369841515,4,0,1,0,0,0,0,0,0,0,0
+Evening Bat,13,Chiroptera,Vespertilionidae,0.0,376.0,19.474841669993218,0.0099223223904292,0,0,0,0,0,1,0,0,0,0,0
+Evening Grosbeak,4,Passeriformes,Fringillidae,1.0,17.017999999999997,16.0,0.0637863582241877,4,0,0,0,0,1,0,0,0,0,0
+Executioner Wasp ,11,Hymenoptera,Vespidae,0.0,300.0,1.0,1601.274827419837,4,0,0,0,1,1,0,0,0,0,0
+Eyelash Viper,16,Squamata,Viperidae,0.0,68.58,10.0,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Fairy-Wren,4,Passeriformes,Maluridae,0.0,13.97,12.5,0.008504847763225,3,0,0,0,0,0,0,0,1,1,0
+Falcon,4,Falconiformes,Falconidae,0.0,1114.242495994122,15.0,0.95,0,1,1,1,1,1,1,0,1,1,1
+Fallow deer,13,Artiodactyla,Cervidae,0.0,152.5524,22.5,54.88474204171241,2,1,1,1,1,1,0,0,1,1,0
+False Cobra,16,Squamata,Lamprophiidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+False coral snake,16,Squamata,Aniliidae,0.0,71.12,8.5,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+False Killer Whale,13,Artiodactyla,Delphinidae,0.0,609.6,60.0,0.9071858188712796,0,0,0,0,0,0,0,0,0,1,0
+False Water Cobra,16,Squamata,Colubridae,0.0,213.36,16.0,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+False Widow Spider,3, Araneae,Theridiidae,0.0,21.500000000000004,1.0,0.0850484776322503,0,1,1,1,1,1,1,0,1,1,1
+Fangtooth,0,Beryciformes,Anoplogastridae,0.0,162.5,19.474841669993218,34.090909090909086,0,0,0,0,0,0,0,0,0,1,0
+Fennec Fox,13,Carnivora,Canidae,0.0,3250.0,12.0,1.25,4,1,0,1,0,0,0,0,0,0,0
+Ferret,13,Carnivora,Mustelidae,0.0,4500.0,8.5,1.35,0,0,1,0,0,0,0,0,0,0,0
+Ferruginous Hawk,4,Accipitriformes,Accipitridae,0.0,62.23,19.474841669993218,1.477272727272727,0,0,0,0,0,1,1,0,0,0,0
+Fiddler Crab,12,Decapoda,Ocypodidae,0.0,2.0,1.0,1800.0,4,1,1,1,1,1,1,0,1,1,0
+Fierce Snake,16,Squamata,Elapidae,0.0,152.4,12.5,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Fin Whale,13,Cetacea,Balaenopteridae,1.0,1525.0,55.0,400.5,0,0,0,0,0,0,0,0,0,1,0
+Fire Ball Python,16,Squamata,Pythonidae,0.0,121.92,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Fire Eel,0,Synbranchiformes,Mastacembelidae,0.0,76.2,15.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Fire salamander,2,Urodela,Salamandridae,0.0,2250.0,19.474841669993218,9.111363636363636,0,0,1,0,0,0,0,0,0,0,0
+Fire-Bellied Toad,2,Anura,Bombinatoridae,0.0,550.0,12.5,1.763668430335097,0,1,1,0,0,0,0,0,0,0,0
+Firefly,11,Coleoptera,Lampyridae,0.0,1114.242495994122,1.5,2e-05,4,1,1,1,1,1,1,0,1,1,1
+Fisher Cat,13,Carnivora,Mustelidae,0.0,62.23,10.0,3.855539730202938,4,0,0,0,0,1,0,0,0,0,0
+Fishing Cat,13,Carnivora,Felidae,1.0,7100.0,11.0,6.75,0,1,0,0,0,0,0,0,0,0,0
+Flamingo,4,Phoenicopteriformes,Phoenicopteridae,0.0,1114.242495994122,22.5,3.0,4,1,1,1,1,1,1,0,0,0,1
+Flathead Catfish,0,Siluriformes,Ictaluridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Flea Beetle,11,Coleoptera,Chrysomelidae,0.0,21.59,0.125,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Florida Gar,0,Lepisosteiformes,Lepisosteidae,0.0,2665.0,19.474841669993218,4.545454545454545,0,0,0,0,0,1,0,0,0,0,0
+Florida Panther,13,Carnivora,Felidae,1.0,205.0,19.474841669993218,59.0,0,0,0,0,0,1,0,0,0,0,0
+Flounder,0,Pleuronectiformes,Paralichthyidae,0.0,41.021,10.0,9.979044007584074,0,0,0,0,0,0,0,0,0,1,0
+Fluke Fish (summer flounder),0,Pleuronectiformes,Paralichthyidae,0.0,300.0,14.0,9.071858188712795,4,0,0,0,0,0,0,0,0,1,0
+Flying Fish,0,Beloniformes,Exocoetidae,0.0,3300.0,5.0,0.9090909090909092,4,0,0,0,0,0,0,0,0,1,0
+Flying Lemur,13,Dermoptera,Cynocephalidae,0.0,59.7535,16.25,1.474176955665829,2,1,0,0,0,0,0,0,0,0,0
+Flying Snake,16,Squamata,Colubridae,0.0,91.44,10.0,0.7257486550970236,4,1,0,0,0,0,0,0,0,0,0
+Flying Squirrel,13,Rodentia,Sciuridae,0.0,1114.242495994122,6.5,4.0740740740740735,4,1,1,0,1,1,1,0,0,0,1
+Football Fish,0,Lophiiformes,Himantolophidae,0.0,3175.0,30.0,17.5,0,0,0,0,0,0,0,0,0,1,0
+Fossa,13,Carnivora,Eupleridae,1.0,7050.0,17.5,9.5,0,0,0,1,0,0,0,0,0,0,0
+Fox,13,Carnivora,Canidae,0.0,6150.0,7.0,41.0305,4,1,1,1,0,1,0,0,0,0,1
+Fox Snakes,16,Squamata,Colubridae,0.0,1114.242495994122,20.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Fox Squirrel,13,Rodentia,Sciuridae,0.0,53.34,9.3,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Freeway Ball Python,16,Squamata,Pythonidae,0.0,152.4,19.474841669993218,2.948353911331658,4,0,0,1,0,0,0,0,0,0,0
+Freshwater Crocodile,16,Crocodilia,Crocodylidae,0.0,862.5,50.0,56.01872431530151,0,0,0,0,0,0,0,0,1,1,0
+Freshwater Eel,0,Anguilliformes,Anguillidae,1.0,62.23,37.5,1.1363636363636362,0,1,0,1,1,1,0,0,0,1,0
+Freshwater Sunfish,0,Perciformes,Percoidea,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Frigatebird,4,Pelecaniformes,Fregatidae,0.0,1114.242495994122,20.0,1.4,0,0,0,0,0,0,0,0,0,1,0
+Frilled Lizard,16,Squamata,Agamidae,0.0,8000.0,15.0,0.75,4,0,0,0,0,0,0,0,1,1,0
+Frilled Shark,8,Hexanchiformes,Chlamydoselachidae,0.0,340.00000000000006,25.0,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Frogfish,0,Lophiformes,Antennariidae,0.0,22.86,20.0,0.0317514316493734,0,0,0,0,0,0,0,0,0,1,0
+Fruit Bat,13,Chiroptera,Pteropodidae,0.0,2250.0,30.0,2.25,2,1,0,1,1,0,0,0,1,1,0
+Fruit Fly,11,Diptera,Drosophilidae,0.0,0.381,0.125,3e-06,4,1,1,1,1,1,1,0,1,1,1
+Fulvous Whistling Duck,4,Anseriformes,Anatidae ,0.0,49.53,5.0,0.8788342688665872,4,1,0,1,1,1,1,0,0,0,0
+Fur Seal,13,Carnivora,Otariidae,0.0,175.0,15.0,202.5,0,0,0,0,0,0,0,0,0,1,0
+Gaboon Viper,16,Squamata,Viperidae,1.0,167.64,20.0,14.741769556658292,0,0,0,1,0,0,0,0,0,0,0
+Galapagos Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,17.5,3.0,0,0,0,0,0,0,0,0,0,1,0
+Galapagos Shark,8,Carcharhiniformes,Carcharhinidae,0.0,219.456,22.5,195.04495105732508,0,0,1,1,1,1,1,0,1,1,0
+Galapagos Tortoise,16,Testudines,Testudinidae,1.0,1114.242495994122,125.0,250.0,2,0,0,0,0,0,0,0,0,1,0
+Gar,0,Lepisosteiformes,Lepisosteidae,0.0,304.8,15.0,158.7575183024739,0,0,0,0,0,1,1,0,0,0,0
+Garden Eel,0,Anguilliformes,Congridae,0.0,7700.0,37.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Gargoyle Gecko,16,Squamata,Diplodactylidae,0.0,20.32,15.0,1.1339822735890994,4,0,0,0,0,0,0,0,1,1,0
+Garter Snake,16,Squamata,Colubridae,1.0,76.2,4.5,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Gastornis,4,Gastornithiformes,Gastornithidae,1.0,1114.242495994122,19.474841669993218,145.14973101940473,2,1,1,0,0,1,0,0,0,0,0
+Gazelle,13,Artiodactyla,Bovidae,1.0,1386.84,11.0,43.40909090909091,2,1,0,1,0,0,0,0,0,0,0
+Genet,13,Carnivora,Viverridae,0.0,1114.242495994122,17.5,1601.274827419837,4,0,1,1,0,0,0,0,0,0,0
+Gentoo Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,17.5,6.0,0,0,0,0,0,0,0,1,0,1,0
+Geoffroys Tamarin,13,Primates,Callitrichidae,0.0,2400.0,11.5,19.753086419753085,4,0,0,0,1,0,1,0,0,0,0
+Gerbil,13,Rodentia,Muridae,0.0,27.94,19.474841669993218,0.1183591313715484,4,1,0,1,0,0,0,0,0,0,1
+Gharial,16,Crocodilia,Gavialidae,1.0,505.0,40.0,200.0,0,1,0,0,0,0,0,0,0,0,0
+Ghost Catfish,0,Silurormes,Siluridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Ghost Crab,12,Decapoda,Ocypodidae,0.0,250.0,19.474841669993218,0.0429494812042864,4,0,0,0,0,0,0,0,0,1,0
+Giant African Land Snail,10,Achatinoidea,Achatinidae,0.0,1114.242495994122,6.5,12.34567901234568,2,0,0,1,0,0,0,0,0,0,0
+Giant Armadillo,13,Cingulata,Chlamyphoridae,1.0,89.61120000000001,13.5,25.47831372299989,0,0,0,0,1,0,0,0,0,0,0
+Giant Clam,5,Cardiida,Cardiidae,1.0,1114.242495994122,19.474841669993218,150.0,4,0,0,0,0,0,0,0,0,1,0
+Giant Panda Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,27.5,180.0,4,1,0,0,0,0,0,0,0,0,0
+Giant Salamander,2,Urodela,Cryptobranchidae,0.0,198.12,61.0,29.68538795801544,4,1,0,0,0,1,0,0,0,0,0
+Gibbon,13,Primates,Hylobatidae,0.0,1114.242495994122,32.5,7.5,4,1,0,0,0,0,0,0,0,0,0
+Gigantopithecus,13,Primates,Hominidae,1.0,1114.242495994122,19.474841669993218,300.0,2,1,0,0,0,0,0,0,0,0,1
+Gila Monster,16,Squamata,Helodermatidae,0.0,1114.242495994122,25.0,1.75,0,0,0,0,0,1,0,0,0,0,0
+Giraffe,13,Artiodactyla,Giraffidae,1.0,1114.242495994122,22.5,275.5,2,0,0,1,0,0,0,0,0,0,0
+Glass Frog,2,Anura,Centrolenidae,0.0,525.0,12.0,9500.0,0,0,0,0,0,0,1,0,0,0,0
+Glass Lizard,16,Squamata,Anguidae,0.0,9050.0,20.0,15.873015873015872,0,1,1,1,0,1,0,0,0,0,1
+Glow Worm,11,Coleoptera,Lampyridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Goat,13,Artiodactyla,Bovidae,0.0,1114.242495994122,11.0,65.5,2,1,1,1,0,0,0,0,0,0,1
+Goblin Shark,8,Lamniformes,Mitsukurinidae,0.0,348.996,60.0,179.1691992270777,0,1,1,1,1,1,1,1,1,1,1
+Goby Fish,0,Gobiiformes,Gobiidae,1.0,27.94,10.0,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Goldcrest,4,Passeriformes,Regulidae,0.0,8.89,4.5,0.0072310405643738,3,1,1,1,0,1,0,0,0,0,1
+Golden Eagle,4,Accipitriformes,Accipitridae,0.0,74.93,25.0,4.550093553325396,0,1,1,1,0,1,0,0,0,0,1
+Golden Lancehead,16,Squamata,Viperidae,1.0,91.44,19.474841669993218,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Golden Lion Tamarin,13,Primates,Callitrichidae,1.0,1114.242495994122,11.5,22.045855379188712,4,0,0,0,1,0,0,0,0,0,0
+Golden Masked Owl,4,Strigiformes,Tytonidae,1.0,1114.242495994122,4.0,0.5909090909090908,0,0,0,0,0,0,0,0,1,1,0
+Golden Oriole,4,Passeriformes,Oriolidae,0.0,1114.242495994122,10.0,0.6172839506172839,4,1,1,1,0,0,0,0,0,0,1
+Golden-Crowned Flying Fox,13,Chiroptera,Pteropodidae,1.0,1114.242495994122,19.474841669993218,1.406138019250483,2,1,0,0,0,0,0,0,0,0,0
+Golden-Crowned Kinglet,4,Passeriformes,Regulidae,0.0,9.398,6.0,0.0056698985088166,3,0,0,0,0,1,1,0,0,0,0
+Goldfish,0,Cypriniformes,Cyprinidae,0.0,3.81,41.0,2.267964547178199,4,1,0,0,0,0,0,0,0,0,0
+Goliath Frog,2,Anura,Conrauidae,1.0,2350.0,15.0,1.9318181818181817,0,0,0,1,0,0,0,0,0,0,0
+Goliath Tigerfish,0,Characiformes,Alestidae,0.0,137.16,19.474841669993218,43.091326396385774,0,0,0,1,0,0,0,0,0,0,0
+Gomphotherium,13,Proboscidea,Gomphotheriidae,1.0,499.872,19.474841669993218,1601.274827419837,4,1,1,1,1,1,0,0,0,0,1
+Goonch Catfish,0,Siluriformes,Sisoridae,1.0,106.68,19.474841669993218,90.9090909090909,0,1,0,0,0,0,0,0,0,0,0
+Goose,4,Anseriformes,Anatidae,0.0,9000.0,19.0,4.75,4,1,1,0,0,1,0,0,0,1,1
+Gooty Sapphire Tarantula,3,Araneae,Theraphosidae,1.0,6.985,8.0,0.0425242388161251,0,1,0,0,0,0,0,0,0,0,0
+Gopher,13,Rodentia,Geomyidae,0.0,1114.242495994122,4.0,3.897707231040564,4,0,0,0,0,1,1,0,0,0,0
+Gopher Tortoise,16,Testudines,Testudinidae,1.0,25.4,50.0,5.227272727272727,2,0,0,0,0,1,0,0,0,0,0
+Gorgosaurus,16,Saurischia,Tyrannosauridae,1.0,853.44,19.474841669993218,0.0025,0,0,0,0,0,1,0,0,0,0,0
+Gorilla,13,Primates,Hominidae,0.0,1114.242495994122,42.5,150.0,4,0,0,1,0,0,0,0,0,0,0
+Goshawk,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,30.0,1.15,0,0,0,1,1,1,1,0,0,1,1
+Gouldian Finch,4,Passeriformes,Estrildidae,0.0,14.605,8.0,14.0,2,0,0,0,0,0,0,0,1,1,0
+Grass Carp,0,Cypriniformes,Cyprinidae,0.0,200.66,20.0,44.905698034128335,4,1,0,0,0,0,0,0,0,0,1
+Grasshopper,11,Orthoptera,Caelifera,0.0,1114.242495994122,19.474841669993218,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Grasshopper Mouse,13,Rodentia,Cricetidae,0.0,10.795,19.474841669993218,35000.0,0,0,0,0,0,1,1,0,0,0,0
+Gray Catbird,4,Passeriformes,Mimidae,0.0,22.225,6.3,0.0396892895617168,4,0,1,0,1,1,1,0,0,0,0
+Gray Fox,13,Carnivora,Canidae,0.0,9700.0,9.0,4.800000000000001,4,0,0,0,1,1,1,0,0,0,0
+Gray Tree Frog,2,Anura,Hylidae,0.0,162.5,8.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Great Blue Heron,4,Pelecaniformes,Ardeidae,0.0,96.52,19.474841669993218,2.4947610018960185,0,0,0,0,1,1,1,0,0,0,0
+Great Crested Flycatcher,4,Passeriformes,Tyrannidae,0.0,1114.242495994122,14.0,1.181657848324515,4,0,0,0,1,1,1,0,0,0,0
+Great Hammerhead Shark,8,Carcharhiniformes,Sphyrnidae,1.0,365.76,25.0,494.4162712848473,0,0,0,0,0,0,0,0,0,1,0
+Great Plains Rat Snake,16,Squamata,Colubridae,0.0,106.68,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Great Potoo Bird,4,Nyctibiiformes,Nyctibiidae,0.0,54.61,19.474841669993218,0.5102908657935022,4,0,0,0,1,0,1,0,0,0,0
+Great White Shark,8,Lamniformes,Lamnidae,1.0,675.0,35.0,55.5,0,0,0,0,0,0,0,0,0,1,0
+Grebe,4,Podicipediformes,Podicipedidae,0.0,46.99,9.0,0.7937875915123696,0,1,1,1,1,1,1,0,0,0,0
+Green Anole,16,Squamata,Dactyloidae,0.0,600.0,2.5,4.0,0,0,0,0,0,1,0,0,0,0,0
+Green Bee-Eater,4,Coraciiformes,Meropidae,0.0,1114.242495994122,15.0,0.6172839506172839,4,1,0,1,0,0,0,0,0,0,1
+Green Frog,2,Anura,Ranidae,0.0,750.0,6.0,1.99294532627866,0,0,0,0,0,1,0,0,0,0,0
+Green Mamba,16,Squamata,Elapidae,0.0,5.5,13.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Green Rat Snake,16,Squamata,Colubridae,0.0,177.8,15.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Green Snake,16,Squamata,Colubridae,0.0,1114.242495994122,6.5,1601.274827419837,3,0,0,0,0,1,1,0,0,0,0
+Green Tree Python,16,Squamata,Pythonidae,0.0,610.0,17.0,1601.274827419837,0,1,0,0,0,0,0,0,1,1,0
+Greenland Shark,8,Squaliformes,Somniosidae,1.0,640.08,375.0,997.9044007584074,0,0,0,0,0,0,0,0,0,1,0
+Grey Heron,4,Ciconiiformes,Ardeidae,0.0,92.71,14.0,12.247008554762273,4,1,1,1,0,1,0,0,0,0,1
+Grey Mouse Lemur,13,Primates,Cheirogaleidae,0.0,2650.0,5.5,2.204585537918871,4,0,0,1,0,0,0,0,0,0,0
+Grey Reef Shark,8,Carcharhiniformes,Carcharhinidae,0.0,1114.242495994122,25.0,25.0,0,0,0,0,0,0,0,0,0,1,0
+Grey Seal,13,Carnivora,Phocidae,0.0,1114.242495994122,21.5,225.0,0,0,0,0,0,0,0,0,0,1,0
+Griffon Vulture,4,Accipitriformes,Accipitridae,0.0,107.95,37.0,8.409090909090908,0,1,1,1,0,0,0,0,0,0,1
+Grizzly Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,20.0,249.5,4,0,0,0,0,1,0,0,0,0,0
+Ground Snake,16,Squamat,Colubridae,0.0,35.56,17.5,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Groundhog (Woodchuck),13,Rodentia,Sciuridae,0.0,60.96,10.0,5.216318458509857,4,0,0,0,0,1,0,0,0,0,0
+Grouse,4,Galliformes,Phasianidae,0.0,6300.0,5.5,3.4,4,0,1,0,0,0,0,0,0,0,0
+Guinea Fowl,4,Galliformes,Numididae,0.0,5550.0,15.0,1.15,4,0,0,1,0,0,0,0,0,0,0
+Guinea Pig,13,Rodentia,Caviidae,0.0,3000.0,5.5,1.0,2,0,0,0,1,0,0,0,0,0,0
+Gulper Eel ,0,Anguilliformes,Eurypharyngidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Guppy,0,Cyprinodontiformes,Poeciliidae,0.0,3.81,2.0,1000.0,4,0,0,0,1,1,1,0,0,0,0
+Gypsy Moth,11,Lepidoptera,Erebidae,0.0,3.4925,1.0,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Haast’s Eagle,4,Accipitriformes,Accipitridae,1.0,1114.242495994122,19.474841669993218,4.535929094356398,0,0,0,0,0,0,0,0,1,1,0
+Habu Snake,16,Squamata,Viperidae,0.0,182.88,8.5,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Haddock,0,Gadiformes,Gadidae,1.0,6050.0,10.0,9.525451098148434,0,0,0,0,0,0,0,0,0,1,0
+Hainosaurus,16,Squamata,Mosasauroidea,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,0,0,0,0,0,0,0,0
+Hairy Frogfish,0,Lophiiformes,Antennariidae,0.0,20.32,20.0,0.0283494925440834,0,0,0,0,0,0,0,0,0,1,0
+Hairy Woodpecker,4,Piciformes,Picidae,0.0,21.59,15.0,0.0680387821058003,3,0,0,0,0,1,1,0,0,0,0
+Halibut,1,Pleuronectiformes,Pleuronectidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Hallucigenia,19,Hallucishaniids,Hallucigeniidae,1.0,3.0480000000000005,19.474841669993218,1601.274827419837,0,1,0,0,0,1,0,0,0,0,0
+Hammerhead Shark,8,Carcharhiniformes,Sphyrnidae,0.0,350.0,25.0,295.45454545454544,0,0,0,0,0,0,0,0,0,1,0
+Hamster,13,Rodentia,Cricetidae,0.0,1114.242495994122,2.5,17.636684303350968,4,1,1,1,1,1,1,0,1,1,1
+Harbor Seal,13,Carnivora,Phocidae,0.0,185.928,32.5,167.8293764911867,0,0,0,0,0,0,0,0,0,1,0
+Hardhead Catfish,0,Siluriformes,Ariidae,0.0,49.53,6.5,2.948353911331658,4,0,0,0,0,0,0,0,0,1,0
+Hare,13,Lagomorpha,Leporidae,0.0,1114.242495994122,5.0,3.25,2,1,1,1,1,1,1,0,1,1,1
+Harlequin Snake,16,Squamata,Elapidae,0.0,63.5,12.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Harp Seal,13,Carnivora,Phocidae,0.0,175.0,19.474841669993218,127.5,0,0,0,0,0,0,0,0,0,1,0
+Harpy Eagle,4,Accipitriformes,Accipitridae,0.0,9550.0,30.0,7.0,0,0,0,0,1,0,1,0,0,0,0
+Harris Hawk,4,Accipitriformes,Accipitridae,0.0,2401.5,11.0,0.8913100670410321,0,0,0,0,1,1,1,0,0,0,0
+Hawaiian Goose (Nene),4,Anseriformes,Anatidae,0.0,59.499500000000005,35.0,2.047971986101914,2,0,0,0,0,1,0,0,0,0,0
+Hawaiian Monk Seal,13,Carnivora,Phocidae,1.0,228.6,30.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Hawk Moth Caterpillar,11,Lepidoptera,Sphingidae,0.0,10.16,19.474841669993218,7500.0,2,1,1,1,1,1,1,0,1,1,1
+Hedgehog,13,Erinaceomorpha,Erinaceidae,0.0,1114.242495994122,4.5,1.5,4,1,1,1,0,0,0,0,0,0,1
+Helicoprion,8,Eugeneodontida,Helicoprionidae,1.0,685.8,19.474841669993218,113.62502381362776,0,1,1,0,0,1,0,0,1,1,0
+Hellbender,2,Urodela,Cryptobranchidae,0.0,53.34,19.474841669993218,1.995808801516815,0,0,0,0,0,1,0,0,0,0,0
+Hepatic Tanager (Red Tanager),4,Passeriformes,Cardinalidae,0.0,14.478000000000002,5.0,0.0354368656801043,3,0,0,0,1,1,1,0,0,0,0
+Hercules Beetle,11,Coleoptera,Scarabaeidae,0.0,271.5,19.474841669993218,0.0250893009015138,2,0,0,0,1,1,1,0,0,0,0
+Hermit Crab,12,Decapoda,Paguroidea,0.0,1114.242495994122,19.474841669993218,12.34567901234568,4,0,0,0,0,0,0,0,0,1,0
+Heron,4,Ciconiiformes,Ardeidae,0.0,1114.242495994122,17.5,2.25,0,1,1,1,1,1,1,0,1,1,1
+Herrerasaurus,16, Dinosauria,Herrerasauridae,1.0,609.6,19.474841669993218,350.0,0,1,1,1,1,1,1,1,1,1,1
+Herring,0,Clupeiformes,Clupeidae,1.0,3525.0,15.0,0.73,0,0,0,0,0,0,0,0,0,1,0
+Herring Gull,4,Charadriiformes,Laridae,0.0,59.69,50.0,1.1113026281173175,0,1,1,0,0,1,1,0,0,0,1
+Highland Cattle,13,Artiodactyla,Bovidae,0.0,1114.242495994122,18.5,200.5,2,0,1,0,0,1,0,0,1,1,0
+Hippopotamus,13,Artiodactyla,Hippopotamidae,1.0,350.0,45.0,1.25,2,0,0,1,0,0,0,0,0,0,0
+Hippopotamus gorgops,13,Artiodactyla,Hippopotamidae,1.0,426.72,19.474841669993218,137.89224446843448,2,0,1,1,0,0,0,0,0,0,0
+Hoary Bat,13,Chiroptera,Vespertilionidae,0.0,3000.0,6.5,0.9700176366843032,0,0,0,0,0,1,0,0,0,0,0
+Holy Cross Frog,2,Anura,Limnodynastidae,0.0,550.0,0.1346153846153846,1601.274827419837,3,0,0,0,0,0,0,0,1,1,0
+Honduran White Bat,13,Chiroptera,Phyllostomidae,0.0,4.2037,18.0,0.5669898508816692,4,0,0,0,0,0,1,0,0,0,0
+Honey Badger,13,Carnivora,Mustelidae,0.0,66.04,7.5,10.432636917019714,4,1,0,1,0,0,0,0,0,0,0
+Honey Bee,11,Hymenoptera,Apidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Honey Buzzard,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,9.0,1601.274827419837,0,1,1,0,0,0,0,0,1,1,1
+Hooded Seal,13,Carnivora,Phocidae,1.0,228.6,35.0,229.74480862915152,4,0,1,0,0,1,0,0,0,0,0
+Hook-Nosed Sea Snake,16,Squamata,Serpentes,0.0,5550.0,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Hoopoe,4,Bucerotiformes,Upupidae,0.0,2850.0,10.0,2.380952380952381,4,1,1,1,0,0,0,0,0,0,0
+Horned Frog,2,Anura,Leptodactylidae,0.0,1114.242495994122,6.5,14.109347442680775,0,0,0,0,1,0,0,0,0,0,0
+Horned Grebe,4,Podicipediformes,Podicipedidae,1.0,34.417,19.474841669993218,0.4337472359244769,0,1,1,0,0,1,0,0,0,0,1
+Hornet,11,Hymenoptera,Vespidae,0.0,3.81,19.474841669993218,1601.274827419837,4,1,1,0,0,1,0,0,0,0,0
+Horsefly,11,Diptera,Tabanidae,0.0,1.8415,0.1232876712328767,12000.0,4,1,1,1,1,1,1,0,1,1,1
+Horseshoe Crab,12,Xiphosurida,Limulidae,0.0,3125.0,30.0,4.082336184920758,4,1,0,0,0,1,1,0,0,1,1
+Houdan Chicken,4,Galliformes,Phasianidae,1.0,1114.242495994122,7.5,3.288548593408388,4,0,1,0,0,1,0,0,0,0,0
+House Finch,4,Passeriformes,Fringillidae,0.0,13.97,11.0,20.5,2,0,0,0,0,1,1,0,0,0,0
+House Sparrow (English Sparrow),4,Passeriformes,Passeridae,0.0,1114.242495994122,13.0,0.5114638447971781,4,1,1,1,1,1,1,0,1,1,1
+House wren,4,Passeriformes,Troglodytidae,0.0,11.938,19.474841669993218,0.0109145546294721,0,0,0,0,1,1,1,0,0,0,0
+Howler Monkey,13,Primates,Atelidae,0.0,1114.242495994122,17.5,8.772727272727272,4,0,0,0,1,0,1,0,0,0,0
+Human,13,Primates,Hominidae,0.0,1114.242495994122,70.0,68.5,4,1,1,1,1,1,1,0,1,1,1
+Humboldt Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,17.5,3.5,0,0,0,0,1,0,0,0,0,1,0
+Hummingbird,4,Apodiformes,Trochilidae,1.0,1114.242495994122,4.0,0.3915343915343915,4,0,0,0,1,1,1,0,0,0,0
+Humpback Whale,13,Cetacea,Balaenopteridae,0.0,1680.0,47.5,18.0,4,0,0,0,0,0,0,0,0,1,0
+Huntsman Spider,3,Araneae,Sparassidae,0.0,330.5,2.5,0.089357803158821,0,1,1,1,1,1,1,0,1,1,1
+Hyacinth Macaw,4,Psittaciformes,Psittacidae,1.0,100.33,60.0,1.4174778419863745,4,0,0,0,1,0,0,0,0,0,0
+Hyaenodon,13,creodonta,Hyaenodontidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,1
+Hyena,13,Carnivora,Hyaenidae,0.0,1114.242495994122,22.5,63.5,0,1,1,1,0,0,0,0,0,0,0
+Ibex,13,Artiodactyla,Bovidae,1.0,118.872,20.0,105.5,2,1,1,1,1,1,0,0,0,0,0
+Ibis,4,Ciconiiformes,Threskiornithidae,0.0,1114.242495994122,11.5,1.15,4,1,0,1,1,0,1,0,1,1,1
+Icadyptes,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,19.474841669993218,64.86378604929648,0,0,0,0,1,0,0,0,0,0,0
+Ichthyosaurus,16,Ichthyosauria,Ichthyosauridae,1.0,335.28000000000003,19.474841669993218,1601.274827419837,0,0,1,0,0,0,0,0,0,1,0
+Iguana,16,Squamata,Iguanidae,0.0,1114.242495994122,17.5,6.0,4,0,0,0,1,1,1,0,0,0,0
+IMG Boa Constrictor,16,Squamata,Boidae,0.0,396.24,20.0,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Impala,13,Artiodactyla,Bovidae,0.0,1114.242495994122,13.5,56.0,2,0,0,1,0,0,0,0,0,0,0
+Imperial Moth,11,Lepidoptera,Saturniidae,0.0,12.7254,19.474841669993218,1601.274827419837,2,0,0,0,1,1,1,0,0,0,0
+Indian Cobra,16,Squamata,Elapidae,0.0,1114.242495994122,32.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Indian Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,62.5,1.5,2,1,0,0,0,0,0,0,0,0,0
+Indian Giant Squirrel,13,Rodentia,Sciuridae,0.0,3554.9999999999995,20.0,1.75,4,1,0,0,0,0,0,0,0,0,0
+Indian Palm Squirrel,13,Rodentia,Sciuridae,0.0,1114.242495994122,3.0,3.880070546737213,4,1,0,0,0,0,0,0,0,1,0
+Indian python,16,Squamata,Pythonidae,0.0,950.0,25.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Indian Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,185.0,47.5,101.0,2,1,0,0,0,0,0,0,0,0,0
+Indian Star Tortoise,16,Testudines,Testudinidae,1.0,2500.0,55.0,1.75,2,1,0,0,0,0,0,0,0,0,0
+Indianmeal Moth,11,Lepidoptera,Pyralidae,0.0,900.0,0.136986301369863,1601.274827419837,4,1,1,1,1,1,1,1,1,1,1
+Indochinese Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,147.5,0,1,0,0,0,0,0,0,0,0,0
+Indri,13,Primates,Indriidae,1.0,1114.242495994122,18.5,7.75,2,0,0,1,0,0,0,0,0,0,0
+Inland Taipan,16,Squamata,Elapidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Irish Elk,13,Artiodactyla,Cervidae,1.0,309.372,19.474841669993218,72.80166196442018,2,0,0,1,0,1,0,0,0,0,1
+Ivory-billed woodpecker,4,Piciformes,Picidae,1.0,50.8,20.0,510.0,4,0,0,0,0,1,1,0,0,0,0
+Jabiru,4,Ciconiiformes,Ciconiidae,0.0,129.54,36.0,6.645136123232122,0,0,0,0,1,1,1,0,0,0,0
+Jacana,4,Charadriiformes,Jacanidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,0,1,1,0,1,0,1,1,0
+Jackal,13,Carnivora,Canidae,0.0,1114.242495994122,11.5,8.9,0,1,1,1,0,0,0,0,0,0,0
+Jackdaw,4,Passeriformes,Corvidae,0.0,1114.242495994122,5.0,0.2267959403526676,4,1,1,0,0,0,0,0,0,0,1
+Jackrabbit,13,Lagomorpha,Leporidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,2,0,0,0,0,1,1,0,0,0,0
+Jackson’s Chameleon,16,Squamata,Chamaeleonidae,0.0,27.94,7.5,120000.0,0,0,0,1,0,1,0,0,0,0,0
+Jaguar,13,Carnivora,Felidae,0.0,150.0,13.5,98.0,0,0,0,0,1,1,1,0,0,0,0
+Jaguarundi Cat,13,Carnivora,Felidae,0.0,106.68,15.0,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Jamaican Iguana,16,Squamata,Iguanidae,1.0,40.386,20.0,1.995808801516815,2,0,0,0,0,0,1,0,0,0,0
+Japanese Bantam Chicken,4,Galliformes,Phasianidae,0.0,1114.242495994122,13.0,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Japanese Beetle,11,Coleoptera,Scarabaeidae,0.0,1500.0,1.0,82.5,2,1,1,0,0,1,0,0,0,0,0
+Japanese Macaque,13,Primates,Cercopithecidae,0.0,1114.242495994122,28.5,9.5,4,1,0,0,0,0,0,0,0,0,0
+Japanese rat snake,16,Squamata,Colubridae,0.0,1114.242495994122,13.1,1601.274827419837,0,1,0,0,0,0,0,0,0,0,1
+Japanese Squirrel,13,Rodentia,Sciuridae,0.0,1900.0,15.0,9.876543209876544,4,1,0,0,0,0,0,0,0,0,0
+Javan Leopard,13,Carnivora,Felidae,1.0,130.556,20.0,59.87426404550445,0,1,0,0,0,0,0,0,0,0,0
+Javan Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,315.00000000000006,37.5,451.0,2,1,0,0,0,0,0,0,0,0,0
+Jellyfish,17,Semaeostomeae,Cyaneidae,0.0,20.955,19.474841669993218,7.407407407407407,0,0,0,0,0,0,0,0,0,1,0
+Jerboa,13,Rodentia,Dipodidae,0.0,1114.242495994122,19.474841669993218,0.0297669671712876,4,1,0,1,0,0,0,0,0,0,0
+Joro Spider,3,Araneae,Araneidae,0.0,160.0,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Josephoartigasia monesi,13,Rodentia,Dinomyidae,1.0,580.0,19.474841669993218,250.5,2,0,0,0,1,0,0,0,0,0,0
+Jumping Spider,3,Araneae,Salticidae,1.0,1.4986,19.474841669993218,1601.274827419837,0,1,1,1,1,1,1,0,0,0,0
+Jungle Carpet Python,16,Squamata,Pythonidae,0.0,213.36,20.0,13.607787283069191,4,0,0,0,0,0,0,0,1,1,0
+Junglefowl,4,Galliformes,Phasianidae,0.0,2800.0,8.5,1.3227513227513228,4,1,0,0,0,0,0,0,0,0,0
+Kagu,4,Eurypygiformes,Rhynochetidae,1.0,54.61,25.0,0.9071837614106708,0,0,0,0,0,0,0,0,1,1,0
+Kakapo,4,Psittaciformes,Nestoridae,1.0,1114.242495994122,57.5,3.0,2,0,0,0,0,0,0,0,1,1,0
+Kaluga Sturgeon,0,Acipenseriformes,Acipenseridae,1.0,566.928,55.0,46.94686612658872,0,1,0,0,0,0,0,0,0,0,1
+Kangaroo,13,Diprotodontia,Macropodidae,0.0,1114.242495994122,7.0,56.5,2,0,0,0,0,0,0,0,1,1,0
+Kangaroo Mouse,13,Rodentia,Heteromyidae,0.0,7.4295,5.0,0.0141747462720417,2,0,0,0,0,1,0,0,0,0,0
+Kangaroo Rat,13,Rodentia,Heteromyidae,1.0,1100.0,3.5,0.1275727164483755,4,0,0,0,0,1,1,0,0,0,0
+Katydid,11,Orthoptera,Tettigoniidae,0.0,8.89,1.0,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Kaua’i ‘Ō‘ō,4,Passeriformes,Mohoidae,1.0,20.32,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Kea,4,Psittaciformes,Nestoridae,1.0,50.8,12.0,0.8618265279277155,4,0,0,0,0,0,0,0,1,1,0
+Keel-Billed Toucan,4,Piciformes,Ramphastidae,0.0,1114.242495994122,17.5,3.05,4,0,0,0,1,1,1,0,0,0,0
+Keelback,16,Squamata,Colubridae,0.0,6.35,10.0,1601.274827419837,4,1,0,0,0,0,0,0,1,1,0
+Kelp Greenling,0,Scorpaeniformes,Hexagrammidae,0.0,1114.242495994122,21.5,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Kentucky Warbler,4,Passeriformes,Parulidae,0.0,13.1445,7.25,0.0141747462720417,4,0,0,0,1,1,1,0,0,0,0
+Kenyan Sand Boa,16,Squamata,Boidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Kermode Bear (Spirit Bear),13,Carnivora,Ursidae,1.0,97.155,25.0,169.87054458364707,4,0,0,0,0,1,0,0,0,0,0
+Kestrel,4,Falconiformes,Falconidae,0.0,30.099,11.0,0.164021164021164,0,1,1,1,1,1,0,0,0,0,0
+Key Deer,13,Artiodactyla,Cervidae,1.0,1114.242495994122,8.0,29.256742658598764,2,0,0,0,0,1,0,0,0,0,0
+Khao Manee,13,Carnivora,Felidae,1.0,1114.242495994122,10.5,3.855539730202938,0,1,1,0,0,1,0,0,0,0,0
+Killer Clown Ball Python,16,Squamata,Pythonidae,0.0,182.88,25.0,1601.274827419837,4,1,0,1,0,0,0,0,0,0,0
+King Cobra,16,Squamata,Elapidae,1.0,1114.242495994122,20.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+King Crab,12,Decapoda,Lithodidae,0.0,1114.242495994122,22.5,5.0,0,0,0,0,0,0,0,0,0,1,0
+King Eider,4,Anseriformes,Anatidae,0.0,60.96,9.0,1.587575183024739,4,1,1,0,0,1,0,0,0,0,1
+King Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,17.5,13.5,0,0,0,0,0,0,0,1,0,1,0
+King Quail,4,Galliformes,Phasianidae,0.0,13.208,2.8,0.0338776435901797,4,1,0,0,0,1,0,0,1,1,0
+King Rat Snake,16,Squamata,Colubridae,0.0,243.84,17.5,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+King Salmon,0,Salmoniformes,Salmonidae,0.0,1114.242495994122,5.0,58.96707822663317,0,1,0,0,0,1,0,0,0,1,1
+King Vulture,4,Accipitriformes,Cathartidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,1,1,1,0,0,0,0
+Kingfisher,4,Coraciiformes,Alcedines,0.0,1114.242495994122,8.0,3.1746031746031744,4,1,1,1,1,1,1,0,0,1,1
+Kinkajou,13,Carnivora,Procyonidae,0.0,58.42,23.0,2.948353911331658,4,0,0,0,1,0,1,0,0,0,0
+Kirtland’s snake,16,Squamata,Colubridae,0.0,53.34,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Kit Fox,13,Carnivora,Canidae,0.0,40.64,12.0,2.041168092460379,4,0,0,0,0,1,1,0,0,0,0
+Kitefin Shark,8,Squaliformes,Dalatiidae,1.0,120.0,17.5,8.181818181818182,4,1,1,1,1,1,1,0,1,1,0
+Kiwi,4,Struthioniformes,Apterygidae,0.0,1114.242495994122,10.0,2.3,4,0,0,0,0,0,0,0,1,1,0
+Klipspringer,13,Cetartiodactyla,Bovidae,0.0,94.615,15.0,14.09090909090909,2,0,0,1,0,0,0,0,0,0,0
+Knight Anole,16,Squamata,Dactyloidae,0.0,41.91,9.0,0.0764018824063049,4,0,0,0,0,1,1,0,0,0,0
+Koala,13,Diprotodontia,Phascolarctidae,0.0,1114.242495994122,17.5,9.5,2,0,0,0,0,0,0,0,1,1,0
+Kodiak Bear,13,Carnivora,Ursidae,0.0,243.84,22.5,136.5909090909091,4,0,0,0,0,1,0,0,0,0,0
+Kodkod,13,Carnivora,Felidae,1.0,4600.0,11.0,2.25,0,0,0,0,1,0,0,0,0,0,0
+Komodo Dragon,16,Squamata,Varanidae,1.0,255.0,32.5,110.0,0,1,0,0,0,0,0,0,0,0,0
+Kookaburra,4,Coraciiformes,Alcedinidae,0.0,4000.0,19.474841669993218,6.59090909090909,0,0,0,0,0,0,0,0,1,1,0
+Kori Bustard,4,Otidiformes,Otididae,0.0,16.51,27.0,10.522727272727272,4,0,0,1,0,0,0,0,0,0,0
+Kouprey,13,Artiodactyla,Bovidae,1.0,219.456,20.0,113.62502381362776,2,1,0,0,0,0,0,0,0,0,0
+Kowari,13,Dasyuromorphia,Dasyuridae,1.0,15.621,1.5,0.1043263691701971,0,0,0,0,0,0,0,0,1,1,0
+Kudu,13,Artiodactyla,Bovidae,0.0,1114.242495994122,11.0,188.0,2,0,0,1,0,0,0,0,0,0,0
+Labout’s Fairy Wrasse,0,Labriformes,Labridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Labrottie,13,Carnivora,Canidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Lace Bug,11,Hemiptera,Tingidae,0.0,0.5969000000000001,0.0890410958904109,1601.274827419837,2,1,1,1,1,1,0,0,1,1,0
+Lace Monitor,16,Squamata,Varanidae,0.0,167.64,12.5,19.958088015168148,0,0,0,0,0,0,0,0,1,1,0
+Ladybug,11,Coleoptera,Coccinellidae,0.0,10.668,1.5,0.0001984464478085,0,1,1,1,1,1,1,0,1,1,1
+Ladyfish,0,Elopiformes,Elopidae,0.0,91.44,6.0,3.855539730202938,0,0,0,0,0,1,0,0,0,0,0
+Landseer Newfoundland,13,Carnivora,Canidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Lappet-faced Vulture,4,Accipitriformes,Accipitridae,1.0,104.14,45.0,6.894612223421724,0,1,0,1,0,0,0,0,0,0,0
+Lawnmower Blenny,0,Blenniiformes,Blenniidae,0.0,1400.0,3.5,1601.274827419837,2,0,0,1,0,0,0,0,1,1,0
+Lazarus Lizard,16,Squamata,Lacertidae,0.0,20.32,8.5,0.0141747462720417,0,0,1,0,0,1,0,0,0,0,0
+Leaf-Tailed Gecko,16,Squamata,Gekkonidae,0.0,2000.0,5.5,0.7054673721340388,0,0,0,1,0,0,0,0,0,0,0
+Leatherback Sea Turtle,16,Testudines,Dermochelyidae,1.0,228.6,50.0,113.62502381362776,4,1,0,1,0,1,1,0,0,0,0
+Leedsichthys,0,Pachycormiformes,Pachycormidae,1.0,1750.0,19.474841669993218,22557.5,4,0,1,0,1,0,0,0,0,0,0
+Lemming,13,Rodentia,Cricetidae,0.0,1114.242495994122,2.0,2.504409171075838,2,0,1,0,0,1,0,0,0,0,0
+Lemon Blast Ball Python,16,Squamata,Pythonidae,0.0,1114.242495994122,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Lemon Shark,8,Carcharhiniformes,Carcharhinidae,0.0,274.32,27.0,99.79044007584076,4,0,0,0,0,0,0,0,0,1,0
+Lemur,13,Primates,Lemuridae,0.0,1114.242495994122,12.0,5.015,4,0,0,1,0,0,0,0,0,0,0
+Leopard,13,Carnivora,Felidae,0.0,14500.0,12.5,60.0,0,1,0,1,0,0,0,0,0,0,0
+Leopard Cat,13,Carnivora,Felidae,0.0,5550.0,11.5,4.85,0,1,0,0,0,0,0,0,0,0,0
+Leopard Frog,2,Anura,Ranidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Leopard Gecko,16,Squamata,Eublepharidae,0.0,22.86,11.5,65000.0,0,1,0,0,0,0,0,0,0,0,0
+Leopard Seal,13,Carnivora,Phocidae,0.0,1114.242495994122,22.0,395.5,0,0,0,0,0,0,0,1,0,1,0
+Leopard Shark,8,Carcharhiniforme,Triakidae,0.0,137.16,19.474841669993218,13.607787283069191,0,0,0,0,0,0,0,0,0,1,0
+Leopard Tortoise,16,Testudines,Testudinidae,0.0,5500.0,75.0,36.0,2,0,0,1,0,0,0,0,0,0,0
+Lesser Jacana,4,Charadriiformes,Jacanidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Lineback Cattle,13,Artiodactyla,Bovidae,1.0,1114.242495994122,12.5,545.4545454545454,2,0,0,0,0,1,0,0,0,0,0
+Linnet,4,Passeriformes,Fringillidae,0.0,12.7,5.0,0.0177184328400521,4,1,1,1,0,0,0,0,0,0,1
+Lion,13,Carnivora,Felidae,1.0,195.0,11.5,184.5,0,1,0,1,0,0,0,0,0,0,0
+Lionfish,0,Scorpaeniformes,Scorpaenidae,0.0,3250.0,14.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Liopleurodon,16,Plesiosauria,Pliosauridae,1.0,594.36,19.474841669993218,45.90909090909091,0,0,1,0,0,0,0,0,0,0,0
+Little Brown Bat,13,Chiroptera,Vespertilionidae,1.0,2450.0,6.5,0.3350970017636684,0,0,0,0,0,1,0,0,0,0,0
+Little Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,15.0,2.0,0,0,0,0,0,0,0,0,1,1,0
+Livyatan,13,Artiodactyla,incertae sedis,1.0,1550.0,19.474841669993218,0.0595,0,0,0,0,1,0,0,0,0,1,0
+Lizard,16,Squamata,Lacertidae,0.0,1114.242495994122,15.5,150.005,4,1,1,1,1,1,1,0,1,1,1
+Lizardfish,0,Aulopiformes,Synodontidae,0.0,76.2,8.0,6.8038936415345965,0,0,0,0,1,1,1,0,0,0,0
+Llama,13,Artiodactyla,Camelidae,0.0,1114.242495994122,17.5,167.0,2,0,0,0,1,0,0,0,0,0,0
+Locust,11,Orthoptera,Acrididae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Long-Eared Owl,4,Casuariiformes,Casuariidae,0.0,1114.242495994122,50.0,7.054673721340388,0,1,1,0,0,1,0,0,0,0,1
+Long-Tailed Tit,4,Passeriformes,Aegithalidae,0.0,13.97,2.5,9500.0,4,1,1,0,0,0,0,0,0,0,0
+Longfin Mako Shark,8,Lamniformes,Lamnidae,1.0,1114.242495994122,31.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Longnose Gar,0,Lepisosteiformes,Lepisosteidae,0.0,198.12,20.0,12.727272727272728,0,0,0,0,0,1,0,0,0,0,0
+Lorikeet,4,Psittaciformes,Psittaculidae,0.0,22.86,19.474841669993218,150.0,4,1,0,0,0,0,0,0,1,1,0
+Loris,13,Primate,Lorisidae,1.0,29.21,17.5,1.1704545454545452,4,1,0,0,0,0,0,0,0,0,0
+Lumpfish,0,Scorpaeniformes,Cyclopteridae,0.0,3150.0,9.5,15.25,0,0,0,0,0,0,0,0,0,1,0
+Lynx,13,Carnivora,Felidae,0.0,1114.242495994122,16.0,17.5,0,0,1,0,0,1,0,0,0,0,1
+Lyrebird,4,Passeriformes,Menuridae,0.0,218.44,30.0,0.9525451098148436,0,0,0,0,0,0,0,0,1,1,0
+Macaque,13,Primates,Cercopithecidae,0.0,71.12,40.0,18.18181818181818,0,1,0,1,0,0,0,0,0,0,0
+Macaroni Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,17.5,4.800000000000001,0,0,0,0,0,0,0,1,0,1,0
+Macaw,4,Psittaciformes,Psittacidae,1.0,1114.242495994122,55.0,1.45,4,0,0,0,1,1,1,0,0,0,0
+Machaeroides,13,Oxyaenodonta,Oxyaenidae,1.0,121.92,19.474841669993218,11.339822735890994,0,0,0,0,0,1,0,0,0,0,0
+Mackenzie Wolf,13,Carnivora,Canidae,1.0,1114.242495994122,7.0,54.090909090909086,0,0,0,0,0,1,0,0,0,0,0
+Macrauchenia,13,Litopterna,Macraucheniidae,1.0,298.704,19.474841669993218,21.9,4,0,0,0,1,0,0,0,0,0,0
+Madagascar Hissing Cockroach,11,Blattodea,Blaberidae,0.0,7.62,3.5,17.5,4,0,0,1,0,0,0,0,0,0,0
+Madagascar Jacana,4,Charadriiformes,Jacanidae,1.0,26.67,10.0,0.1984464478085842,4,0,0,1,0,0,0,0,0,0,0
+Magellanic Penguin,4,Sphenisciformes,Spheniscidae,0.0,6850.0,17.5,4.6,0,0,0,0,1,0,0,0,0,1,0
+Maggot,11,Diptera,Anthomyiidae,0.0,1300.0,0.0821917808219178,2450.0,4,0,0,1,1,1,1,0,0,0,0
+Magnolia Warbler,4,Passeriformes,Parulidae,0.0,11.938,4.0,0.0107728071667517,3,0,0,0,0,1,1,0,0,0,0
+Magpie,4,Passeriformes,Corvidae,0.0,4300.0,27.5,7.936507936507936,4,1,1,1,0,0,0,0,1,1,1
+Magyarosaurus,16,Dinosauria,Sauropoda,1.0,609.6,19.474841669993218,147.64449202130075,2,0,1,0,0,0,0,0,0,0,0
+Mahi Mahi (Dolphin Fish),0,Carangiformes,Coyphaenidae,0.0,99.822,4.5,9.979044007584074,4,0,0,0,0,1,1,0,0,1,0
+Malayan Civet,13,Carnivora,Viverridae,1.0,1114.242495994122,17.5,2.95,0,1,0,0,0,0,0,0,0,0,0
+Malayan Krait,16,squamata,elapidae,0.0,109.728,19.474841669993218,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Malayan Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,115.0,0,1,0,0,0,0,0,0,0,0,0
+Mallard,4,Anseriformes,Anatidae,0.0,58.42,7.5,27.669167475574024,4,1,1,1,1,1,1,0,1,1,0
+Mamushi Snake,16,Squamata,Viperidae,0.0,46.99,14.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Manatee,13,Sirenia,Trichechidae,1.0,1114.242495994122,60.0,475.0,2,0,0,0,0,0,0,0,0,1,0
+Mandarin Rat Snake,16,Squamata,Colubridae,0.0,114.3,18.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Mandrill,13,Primates,Cercopithecidae,0.0,1114.242495994122,24.0,20.75,4,0,0,1,0,0,0,0,0,0,0
+Maned Wolf,13,Carnivora,Canidae,0.0,72.39,13.5,23.133238381217627,4,0,0,0,1,0,0,0,0,0,0
+Manta Ray,8,Myliobatiformes,Mobulidae,1.0,701.04,50.0,69.17291868893506,0,0,0,0,0,0,0,0,0,1,0
+Mantella Frog,2,Anura,Mantellidae,1.0,96.5,7.5,0.0705467372134038,0,0,0,1,0,0,0,0,0,0,0
+Marble Fox,13,Carnivora,Canidae,0.0,4400.0,15.0,5.5,4,0,0,0,0,1,0,0,0,0,0
+Marine Iguana,16,Squamata,Iguanidae,1.0,2900.0,60.0,38.0,2,0,0,0,1,0,0,0,0,0,0
+Marine Toad,2,Anura,Bufonidae,0.0,1250.0,12.5,17.636684303350968,0,0,0,0,1,0,1,0,1,1,0
+Markhor,13,Artiodactyla,Bovidae,1.0,15900.0,11.5,71.0,2,1,0,0,0,0,0,0,0,0,0
+Marmoset,13,Primates,Callitrichidae,1.0,53.34,14.0,0.2338833134886885,4,0,0,0,1,0,1,0,0,0,0
+Marmot,13,Rodentia,Sciuridae,0.0,58.42,14.0,6.249999999999999,2,1,1,0,0,1,0,0,0,0,1
+Marsh Frog,2,Anura,Ranidae,0.0,1450.0,7.5,0.4761904761904761,0,1,1,0,0,0,0,0,0,0,1
+Marsican Brown Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,22.5,216.8174107102358,4,0,1,0,0,0,0,0,0,0,0
+Masiakasaurus,16,Dinosauria,Noasauridae,1.0,201.168,19.474841669993218,19.958088015168148,0,0,0,1,0,0,0,0,0,0,0
+Masked Angelfish,0,Perciformes,Pomacanthidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Masked Palm Civet,13,Carnivora,Viverridae,0.0,1114.242495994122,17.5,2.95,0,1,0,0,0,0,0,0,0,0,0
+Massasauga,16,Squamata,Viperidae,0.0,68.58,11.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Mealybug,11,Hemiptera,Pseudococcidae,0.0,300.0,0.1027397260273972,1601.274827419837,2,1,1,1,1,1,1,0,1,1,1
+Meerkat,13,Carnivora,Herpestidae,0.0,1114.242495994122,12.0,357.95454545454544,0,0,0,1,0,0,0,0,0,0,0
+Megalania,16,Squamata,Varanidae,1.0,579.12,19.474841669993218,159.66470412134518,0,0,0,0,0,0,0,0,1,1,0
+Megalochelys,16,Testudines,Testudinidae,1.0,580.0000000000001,19.474841669993218,3300.0,4,1,0,0,0,0,0,0,0,0,0
+Megamouth Shark,8,Lamniformes,Megachasmidae,0.0,472.44,19.474841669993218,172.95454545454544,0,0,0,0,0,0,0,0,0,1,0
+Meganeura,11,Meganisoptera,Meganeuridae,1.0,5.08,19.474841669993218,102.5,0,1,1,1,1,1,1,1,1,1,1
+Meiolania,16,Testudines,Meiolaniidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,2,0,0,0,0,0,0,0,1,1,0
+Mekong Giant Catfish,0,Siluriformes,Pangasiidae,1.0,304.8,60.0,293.6363636363636,2,1,0,0,0,0,0,0,0,0,0
+Merganser,4,Anseriformes,Anatidae,0.0,62.23,13.0,1.5166978511084652,0,1,1,0,0,1,0,0,0,0,0
+Mexican Alligator Lizard,16,Squamata,Anguidae,1.0,24000.0,10.0,0.3835978835978836,0,0,0,0,0,0,1,0,0,0,0
+Mexican Eagle (Northern crested caracara),4,Falconiformes,Falconidae,0.0,1114.242495994122,26.0,2.15,0,0,0,0,1,1,1,0,0,0,0
+Mexican Fireleg Tarantula,3,Araneae,Theraphosidae,1.0,6.35,7.5,0.0566989850881669,0,0,0,0,0,1,0,0,0,0,0
+Mexican Free-Tailed Bat,13,Chiroptera,Molossidae,0.0,1114.242495994122,18.0,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Mexican Mole Lizard,16,Squamata,Bipedidae,0.0,2100.0,1.5,0.1058201058201058,0,0,0,0,0,1,1,0,0,0,0
+Milk Snake,16,Squamata,Colubridae,0.0,96.52,22.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Milkfish,0,Gonorhynchiformes,Chanidae,0.0,600.0,15.0,15.87575183024739,4,1,0,0,0,0,0,0,0,1,0
+Minke Whale,13,Cetacea,Balaenopteridae,0.0,1114.242495994122,40.0,270.0,0,0,0,0,0,0,0,0,0,1,0
+Cottonmouth,16,Squamata,Viperidae,0.0,91.44,10.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Mojarra,0,Perciformes,Gerreidae,0.0,35.56,19.474841669993218,0.9071858188712796,4,0,0,0,1,0,1,0,0,1,0
+Mojave Ball Python,16,Squamata,Pythonidae,0.0,167.64,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Mojave Rattlesnake,16,Squamata,Viperidae,0.0,137.16,16.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Mola mola (Ocean Sunfish),0,Tetraodontiformes,Molidae,1.0,655.0,19.474841669993218,101.0,0,0,0,0,0,0,0,0,0,1,0
+Mole,13,Soricomorpha,Talpidae,0.0,1114.242495994122,4.5,14.109347442680775,4,1,1,1,1,1,1,0,1,1,1
+Mole Cricket,11,Orthoptera,Gryllotalpidae,0.0,2.54,1.0,500.0,4,1,1,1,1,1,1,0,1,1,0
+Mole Snake,16,Squamata,Pseudaspididae,0.0,207.264,9.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Molly,0,Cyprinodontiformes,Poeciliidae,0.0,750.0,4.0,1601.274827419837,4,0,0,0,1,0,1,0,0,0,0
+Monarch Butterfly,11,Lepidoptera,Nymphalidae,1.0,1114.242495994122,4.0,500.0,2,1,1,1,1,1,1,0,1,1,0
+Mongoose,13,Carnivora,Herpestidae,1.0,1114.242495994122,12.5,2.65,4,1,0,1,0,0,0,0,0,0,0
+Monitor Lizard,16,Squamata,Varanidae,0.0,1114.242495994122,19.0,83.5,0,1,0,1,0,0,0,0,1,1,0
+Monkey,13,Primates,Cebidae,0.0,1114.242495994122,20.0,15.05,4,1,0,1,1,1,1,0,1,1,0
+Monocled Cobra,16,Squamata,Elapidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Monte Iberia Eleuth,2,Anura,Leptodactylidae,1.0,970.0,2.0,0.0617283950617283,0,0,0,0,0,0,1,0,0,0,0
+Moonglow Boa,16,Squamata,Boidae,0.0,396.24,20.0,1601.274827419837,4,0,0,0,1,1,1,0,0,0,0
+Moorhen,4,Gruiformes,Rallidae,0.0,3150.0,2.0,8.289241622574956,4,1,1,1,1,1,1,0,1,1,1
+Moose,13,Artiodactyla,Cervidae,0.0,1114.242495994122,13.0,495.0,2,0,1,0,0,1,0,0,0,0,1
+Moray Eel,0,Anguilliformes,Muraenidae,0.0,22.225,20.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Mosasaurus,16,Squamata,Mosasauridae,1.0,1234.44,42.0,0.078,0,1,1,1,0,0,0,1,0,1,0
+Mountain Bluebird,4,Passeriformes,Turdidae,0.0,1114.242495994122,8.0,0.0269320179168792,4,0,0,0,0,1,1,0,0,0,0
+Mountain Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,215.5,4,0,0,1,0,0,0,0,0,0,0
+Mountain Lion,13,Carnivora,Felidae,0.0,1114.242495994122,15.0,59.5,0,0,0,0,1,1,1,0,0,0,0
+Mourning Dove,4,Columbiformes,Columbidae,0.0,2925.0,3.25,4.6913580246913575,2,0,0,0,0,1,1,0,0,0,0
+Mouse,13,Rodentia,Muridae,0.0,1114.242495994122,3.5,68.18181818181817,2,1,1,1,1,1,1,1,1,1,1
+Mozambique Spitting Cobra,16,Squamata,Elapidae,0.0,97.536,20.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Mud Snake,16,Squamata,Colubridae,0.0,78.94319999999999,19.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Mudpuppy,2,Urodela,Proteidae,0.0,26.67,15.5,0.1591824006350286,4,0,0,0,0,1,0,0,0,0,0
+Mule,13,Perissodactyla,Equidae,0.0,1114.242495994122,17.5,400.0,2,1,1,1,1,1,1,0,0,0,1
+Mule Deer,13,Artiodactyla,Cervidae,0.0,164.592,10.0,136.07787283069192,2,0,0,0,0,1,0,0,0,0,0
+Mulga Snake,16,Squamata,Elapidae,0.0,228.6,25.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Mullet Fish,0,Perciformes,Mugilidae,0.0,60.96,19.474841669993218,1.1339822735890994,2,0,0,0,0,1,1,0,0,1,0
+Muntjac,13,Artiodactyla,Cervidae,0.0,9250.0,15.0,25.0,4,1,1,0,0,0,0,0,0,0,0
+Muscovy Duck,4,Anseriformes,Anatidae,0.0,76.2,10.0,4.762725549074217,4,0,0,0,1,1,1,0,1,1,0
+Muskox,13,Artiodactyla,Artiodactyla,0.0,182.88,20.0,295.45454545454544,2,0,1,0,0,1,0,0,0,0,1
+Muskrat,13,Rodentia,Cricetidae,0.0,5200.0,5.5,1.25,4,1,1,0,0,1,1,0,0,0,1
+Mussurana Snake,16,Squamata,Colubridae,0.0,199.644,11.75,1601.274827419837,0,0,0,0,1,0,1,0,0,0,0
+Muttaburrasaurus,16,Ornithischia,Ornithopoda,1.0,746.76,19.474841669993218,0.0028,4,0,0,0,0,0,0,0,1,1,0
+Myna Bird,4,Passeriformes,Sturnidae,0.0,36.195,19.474841669993218,0.2409706866247094,0,1,0,1,0,1,0,0,1,1,0
+Nabarlek,13,Diprotodontia,Macropodidae,1.0,33.782000000000004,17.0,1.4016020901561268,2,0,0,0,0,0,0,0,1,1,0
+Naked Mole Rat,13,Rodentia,Heterocephalidae,0.0,8.89,32.0,0.0326019164256959,4,0,0,1,0,0,0,0,0,0,0
+Narwhal,13,Cetacea,Monodontidae,0.0,500.0,50.0,400.5,0,1,1,1,1,1,1,1,1,1,1
+Nautilus,7,Nautilida,Nautilidae,0.0,17.78,17.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Neanderthal,13,Primates,Hominidae,1.0,1114.242495994122,32.5,177.5,4,1,1,0,0,0,0,0,0,0,1
+Needlefish,0,Beloniformes,Belonidae,0.0,7.62,19.474841669993218,2.2727272727272725,0,1,0,1,1,1,1,0,1,1,0
+Neon Tetra,0,Characiformes,Characidae,0.0,1114.242495994122,7.5,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Neptune Grouper,0,Perciformes,Serranidae,0.0,35.56,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,1,1,0
+Newt,2,Caudata,Salamandridae,0.0,1114.242495994122,8.5,1.058201058201058,4,1,1,0,0,1,0,0,0,0,1
+Nicobar pigeon,4,Columbiformes,Columbidae,0.0,1570.0,10.0,0.5298520156489198,4,1,0,0,0,0,0,0,1,1,0
+Night Adder,16,Squamata,Viperidae,0.0,100.584,10.0,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Night Heron,4,Pelecaniformes,Ardeidae,0.0,62.23,12.5,0.8788342688665872,4,1,1,1,1,1,0,0,0,0,0
+Night Snake,16,Squamata,Colubridae,0.0,40.64,12.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Nightingale,4,Passeriformes,Muscicapidae,0.0,1525.0,2.0,0.6525573192239859,4,1,1,1,0,0,0,0,0,0,1
+Nile Crocodile,16,Crocodilia,Crocodylidae,0.0,548.64,45.0,113.86363636363636,0,0,0,1,0,0,0,0,0,0,0
+Nilgai,13,Artiodactyla,Bovidae,0.0,190.5,21.0,203.66321633660223,2,1,0,0,0,1,0,0,0,0,0
+No See Ums,11,Diptera,Ceratopogonidae,0.0,200.0,0.0769230769230769,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+North American Black Bear,13,Carnivora,Ursidae,0.0,1114.242495994122,22.5,185.0,4,0,0,0,0,1,0,0,0,0,0
+Northern Alligator Lizard,16,Squamata,Anguidae,0.0,8.89,10.0,0.0283494925440834,4,0,0,0,0,1,0,0,0,0,0
+Northern Cardinal,4,Passeriformes,Cardinalidae,0.0,22.352000000000004,3.0,0.055731922398589,4,0,0,0,0,1,1,0,0,0,0
+Northern Flicker,4,Piciformes,Picidae,0.0,31.75,7.5,0.1261552418211714,4,0,0,0,0,1,1,0,0,0,0
+Northern Fur Seal,13,Carnivora,Pinnipedia,1.0,228.6,22.5,179.1691992270777,0,0,0,0,0,0,0,0,0,1,0
+Northern Harrier,4,Accipitriformes,Accipitridae,0.0,45.72,16.0,0.5102908657935022,0,0,0,0,1,1,1,0,0,0,0
+Northern Jacana,4,Charadriiformes,Jacanidae,0.0,20.32,6.5,0.1133979701763338,0,0,0,0,0,1,1,0,0,0,0
+Northern Parula,4,Passeriformes,Parulidae,0.0,11.43,4.5,0.008504847763225,3,0,0,0,0,1,1,0,0,0,0
+Northern Potoo,4,Nyctibiiformes,Nyctibiidae,0.0,43.18,13.0,0.4961161195214605,3,0,0,0,0,0,1,0,0,0,0
+Northern Screamer,4,Anseriformes,Anhimidae,0.0,83.82000000000001,25.0,1601.274827419837,2,0,0,0,1,0,0,0,0,0,0
+Northern Water Snake,16,Squamata,Serpentes,0.0,6.985,9.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Norway Rat,13,Rodentia,Muridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Nose-horned viper,16,Squamata,Viperidae,0.0,83.82000000000001,22.0,1601.274827419837,0,0,1,0,0,0,0,0,0,0,0
+Numbat,13,Dasyuromorphia,Myrmecobiidae,1.0,1114.242495994122,6.0,14.638447971781304,4,0,0,0,0,0,0,0,1,1,0
+Nurse Shark,8,Orectolobiformes,Ginglymostomatidae,0.0,1114.242495994122,22.5,120.0,0,0,0,0,0,0,0,0,0,1,0
+Nutria,13,Rodentia,Echimyidae,0.0,53.34,19.474841669993218,8.391468824559336,2,0,1,1,1,1,0,0,0,0,0
+Nyala,13,Artiodactyla,Bovidae,0.0,165.1,18.5,111.49313713928024,2,0,0,1,0,0,0,0,0,0,0
+Oak Toad,2,Anura,Bufonidae,0.0,3.302,1.9,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Oarfish,0,Lampriformes,Regalecidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Ocean Whitefish,0,Perciformes,Malacanthidae,0.0,66.04,13.0,5.896707822663316,0,0,0,0,0,0,0,0,0,1,0
+Oceanic Whitetip Shark,8,Carcharhiniformes,Carcharhinidae,1.0,396.24,25.0,90.9090909090909,4,0,0,0,0,0,0,0,0,1,0
+Ocellated Turkey,4,Galliformes,Phasianidae,0.0,96.52,4.5,3.855539730202938,4,0,0,0,0,1,1,0,0,0,0
+Ocelot,13,Carnivora,Felidae,0.0,7750.0,10.0,13.75,0,0,0,0,1,0,1,0,0,0,0
+Octopus,7,Octopoda,Octopodidae,0.0,1114.242495994122,5.5,40.0,4,0,0,0,0,0,0,0,0,1,0
+Okapi,13,Artiodactyla,Giraffidae,0.0,175.0,25.0,250.0,2,0,0,1,0,0,0,0,0,0,0
+Old House Borer,11,Coleoptera,Cerambycidae,0.0,2.54,6.0,1601.274827419837,4,0,1,0,0,0,0,0,0,0,1
+Oleander Hawk Moth,11,Lepidoptera,Sphingidae,0.0,900.0,0.0547945205479452,1601.274827419837,2,1,1,1,0,1,0,0,0,0,0
+Olive Baboon,13,Primates,Cercopithecidae,0.0,62.23,25.0,19.27769865101469,4,0,0,1,0,0,0,0,0,0,0
+Olive python,16,Squamata,Pythonidae,0.0,396.24,40.0,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Olive Sea Snake,16,Squamata,Elapidae,0.0,137.16,15.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Olm,2,Caudata,Proteidae,0.0,1000.0,100.0,0.0174349379146113,0,0,1,0,0,0,0,0,0,0,0
+Onagadori Chicken,4,Galliformes,Phasianidae,1.0,1114.242495994122,6.5,1.587575183024739,4,1,0,0,0,0,0,0,0,0,0
+Onager,13,Perissodactyla,Equidae,1.0,230.124,20.0,244.94017109524543,2,1,0,0,0,0,0,0,0,0,1
+Opah,0,Lampriformes,Lampridae,0.0,137.16,3.5,158.7575183024739,0,0,0,0,0,0,0,0,0,1,0
+Opossum,13,Didelphimorphia,Didelphidae,0.0,1114.242495994122,4.5,3.25,4,0,0,0,0,1,0,0,0,0,0
+Oranda Goldfish,0,Cypriniformes,Cyprinidae,0.0,1114.242495994122,15.0,1601.274827419837,4,1,0,1,1,1,0,0,1,1,0
+Orangutan,13,Primates,Hominidae,1.0,1114.242495994122,35.0,60.0,4,1,0,0,0,0,0,0,0,0,0
+Orange Dream Ball Python,16,Squamata,Pythonidae,0.0,152.4,25.0,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Orange Roughy ,0,Trachichthyiformes,Trachichthyidae,1.0,76.2,250.0,6.8038936415345965,0,0,0,0,0,0,0,0,0,1,0
+Orange Tanager (Orange-Headed Tanager),4,Passeriformes,Thraupidae,0.0,12.954,3.7,0.0164427056755684,4,0,0,0,1,0,0,0,0,0,0
+Orange-Crowned Warbler,4,Passeriformes,Parulidae,0.0,12.827,7.0,9000.0,4,0,0,0,0,1,1,0,0,0,0
+Orchard Oriole,4,Passeriformes,Icteridae,0.0,16.51,5.0,0.0226795940352667,4,0,0,0,1,1,1,0,0,0,0
+Oregon Spotted Frog,2,Anura,Ranidae,1.0,7.3025,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Oribi,13,Artiodactyla,Bovidae,0.0,1114.242495994122,10.0,13.834583737787012,2,0,0,1,0,0,0,0,0,0,0
+Oriental Cockroach,11,Blattodea,Blattidea,0.0,2.3368,0.2931506849315068,1601.274827419837,4,1,1,0,1,1,0,0,1,1,0
+Oriental Dwarf Kingfisher,4,Coraciiformes,Alcedinidae,0.0,12.7,4.0,0.0155922208992459,0,1,0,0,0,0,0,0,0,0,0
+Orinoco Crocodile,16,Crocodylia,Crocodylidae,1.0,441.96,75.0,312.0719216917201,0,0,0,0,1,0,0,0,0,0,0
+Ornate Box Turtle,16,Testudines,Emydidae,0.0,1114.242495994122,35.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Ortolan Bunting,4,Passeriformes,Emberizidae,0.0,16.51,19.474841669993218,0.0198446447808584,4,1,1,1,0,0,0,0,0,0,1
+Ostrich,4,Struthioniformes,Struthionidae,0.0,1114.242495994122,60.0,96.5,4,0,0,1,0,0,0,0,0,0,0
+Otter,13,Carnivora,Mustelidae,0.0,1114.242495994122,14.0,52.5,0,1,1,1,1,1,1,0,1,1,1
+Ovenbird,4,Passeriformes,Parulidae,1.0,13.081,6.85,0.0236718262743096,4,0,0,0,1,1,1,0,0,0,0
+Ox,13,Artiodactyla,Bovidae,0.0,1114.242495994122,20.0,113.62502381362776,2,1,0,0,1,1,1,0,0,0,0
+Oxpecker,4,Passeriformes,Buphagidae,0.0,20.32,15.0,0.0566989850881669,4,0,0,1,0,0,0,0,0,0,0
+Oyster,5,Ostreoida,Ostreidae,0.0,6300.0,20.0,50000.0,4,0,0,0,0,0,0,0,0,1,0
+Oyster Toadfish,0,Batrachoidiformes,Batrachoididae,0.0,43.18,24.0,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Ozark Bass,0,Perciformes,Centrarchidae,0.0,1114.242495994122,19.474841669993218,1.6737578358175107,4,0,0,0,0,1,0,0,0,0,0
+Pacific Sleeper Shark,8,Squaliformes,Somniosidae,0.0,782.5,375.0,750.5,0,0,0,0,0,0,0,0,0,1,0
+Paddlefish,0,Acipenseriformes,Polyodontidae,1.0,149.352,30.0,27.215574566138383,0,1,0,0,0,1,0,0,0,0,0
+Pademelon,13,Diprotodontia,Macropodidae,0.0,1114.242495994122,6.0,7.75,2,0,0,0,0,0,0,0,1,1,0
+Painted Turtle,16,Testudines,Emydidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Palaeoloxodon namadicus,13,Proboscidea,Elephantidae,1.0,1114.242495994122,19.474841669993218,9.979044007584074,2,1,0,0,0,0,0,0,0,0,0
+Paleoparadoxia,13,Desmostylia,Paleoparadoxiidae,1.0,214.884,19.474841669993218,64.54545454545455,2,1,1,1,1,1,1,1,1,1,1
+Panda Pied Ball Python,16,Squamata,Pythonidae,0.0,121.92,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Panther,13,Carnivora,Felidae,0.0,150.0,13.5,98.0,0,0,0,0,1,1,1,0,0,0,0
+Panthera atrox (American Lion),13,Carnivora,Felidae,1.0,205.74,19.474841669993218,338.8339033484229,0,0,0,0,1,1,0,0,0,0,0
+Paradise Flying Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Parakeet,4,Psittaciformes,Psittacidae,0.0,24.765,18.0,0.0575494698644894,4,1,1,1,1,1,0,0,1,1,0
+Parrot,4,Psittaciformes,Psittacidae,1.0,1114.242495994122,60.0,3.1818181818181817,4,1,0,1,1,1,1,0,1,1,1
+Parrot Snake,16,Squamata,Colubridae,0.0,172.72,7.5,1601.274827419837,0,0,0,0,1,0,1,0,0,0,0
+Parrotfish,0,Labriformes,Scaridae,1.0,76.2,20.0,1601.274827419837,2,0,0,0,0,0,0,0,0,1,0
+Parrotlet,4,Psittaciformes,Psittacidae,0.0,12.065,30.0,0.0283494925440834,4,0,0,0,1,0,1,0,0,0,0
+Patas Monkey,13,Primates,Cercopithecidae,0.0,1114.242495994122,16.0,8.5,4,0,0,1,0,0,0,0,0,0,0
+Pea Puffer,0,Tetraodontiformes,Tetraodontidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Peacock,4,Galliformes,Phasianidae,0.0,9650.0,16.0,4.35,4,1,0,1,0,0,0,0,0,0,0
+Peacock Butterfly,11,Lepidoptera,Nymphalidae,0.0,3.81,1.0,1601.274827419837,2,1,1,0,0,0,0,0,0,0,1
+Peacock Spider,3,Araneae,Salticidae,1.0,450.0,1.0,1601.274827419837,0,1,0,0,0,0,0,0,1,1,0
+Pelagornithidae,4,Odontopterygiformes,Pelagornithidae ,1.0,1114.242495994122,19.474841669993218,22.452849017064167,0,1,1,1,1,1,1,0,1,1,1
+Pelican,4,Pelecaniformes,Pelecanidae,0.0,1114.242495994122,19.5,8.85,4,0,0,0,0,0,0,0,0,1,0
+Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,16.0,50.5,0,0,0,0,0,0,0,1,0,1,0
+Peppered Moth,11,Lepidoptera,Geometridae,0.0,2.0,0.7083333333333334,1601.274827419837,2,1,1,0,0,1,0,0,0,0,1
+Peppermint Angelfish,0,Perciformes,Pomacanthidae,0.0,450.0,20.0,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Perch Fish,0,Perciformes,Percidae,0.0,43.18,8.0,2.041168092460379,4,1,1,1,0,1,0,0,1,1,1
+Peregrine Falcon,4,Falconiformes,Falconidae,0.0,75.0,15.0,0.9,0,1,1,1,1,1,1,0,1,1,1
+Peringuey’s Adder,16,Squamata,Viperidae,0.0,22.86,19.474841669993218,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Pheasant,4,Galliformes,Phasianidae,0.0,6850.0,8.5,1.2,4,1,1,1,1,1,1,0,1,1,1
+Pheasant-tailed Jacana,4,Charadriiformes,Jacanidae,0.0,49.53,4.8,0.155922208992459,0,1,0,0,0,0,0,0,1,1,0
+Philippine Cobra,16,Squamata,Elapidae,0.0,126.49200000000002,20.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Phorusrhacos,4,Cariamiformes ,Phorusrhacidae ,1.0,1114.242495994122,19.474841669993218,136.36363636363637,0,0,0,0,1,0,0,0,0,0,0
+Phytosaurs,16,Phytosauria,Phytosauridae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,1,1,0,0,0,0,0
+Pied Tamarin,13,Primates,Callitrichidae,1.0,2400.0,11.5,19.753086419753085,4,0,0,0,1,0,0,0,0,0,0
+Pied-Billed Grebe,4,Podicipediformes,Podicipedidae,0.0,34.29,10.0,0.409650167262006,4,0,0,0,1,1,0,0,0,0,0
+Pig,13,Artiodactyla,Suidae,0.0,1114.242495994122,11.5,190.0,4,1,1,0,0,1,0,0,0,0,1
+Pigeon,4,Columbiformes,Columbidae,0.0,33.02,6.0,0.400352733686067,4,1,1,1,1,1,1,0,1,1,1
+Pika,13,Lagomorpha,Ochotonidae,0.0,1114.242495994122,4.5,6.437389770723104,2,1,1,0,0,1,0,0,0,0,0
+Pike Fish,0,Esociformes,Esocidae,0.0,115.0,13.5,1601.274827419837,0,1,1,0,0,1,0,0,0,0,1
+Pileated Woodpecker,4,Piciformes,Picidae,0.0,44.45,12.0,0.2990871463400805,4,0,0,0,0,1,0,0,0,0,0
+Pinacate Beetle,11,Coleoptera,Tenebrionidae,0.0,2250.0,19.5,1601.274827419837,2,0,0,0,0,1,0,0,0,0,0
+Pine Marten,13,Carnivora,Mustelidae,0.0,56.388000000000005,9.0,0.9090909090909092,4,1,1,0,0,1,0,0,0,0,1
+Pine Siskin,4,Passeriformes,Fringillidae,0.0,12.446000000000002,5.5,0.0176366843033509,4,0,0,0,0,1,1,0,0,0,0
+Pine Snake,16,Squamata,Colubridae,0.0,152.4,17.5,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Pine Snake,16,Squamata,Colubridae,0.0,152.4,17.5,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Pink Fairy Armadillo,13,Cingulata,Dasypodidae,0.0,10250.0,7.5,2.1904761904761902,4,0,0,0,1,0,0,0,0,0,0
+Pink-Necked Green Pigeon,4,Columbiformes,Columbidae,0.0,27.432,4.5,0.1318251403299881,2,1,0,0,0,0,0,0,0,0,0
+Piranha,0,Characiformes,Characidae,0.0,17.78,10.0,2.267964547178199,4,0,0,0,1,0,0,0,0,0,0
+Plains Hognose Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Platinum Arowana,0,Osteoglossiformes,Osteoglossidae,1.0,121.92,17.5,11.339822735890994,0,1,0,0,1,0,0,0,1,1,0
+Platypus,13,Monotremata,Ornithorhynchidae,0.0,1114.242495994122,17.0,1.5499999999999998,0,0,0,0,0,0,0,0,1,1,0
+Plesiosaur,16,Plesiosauria,Plesiosauridae,1.0,1575.0,19.474841669993218,342.5,0,0,0,0,0,0,0,0,0,1,0
+Poison Dart Frog,2,Anura,Dendrobatidae,0.0,1114.242495994122,3.0,0.1587301587301587,0,0,0,0,1,1,1,0,0,0,0
+Polacanthus,16,Ornithischia,Nodosauridae,1.0,320.04,19.474841669993218,1601.274827419837,2,0,1,0,0,0,0,0,0,0,0
+Polar Bear,13,Carnivora,Ursidae,1.0,225.0,25.0,375.0,0,0,1,0,0,1,0,0,0,1,1
+Polecat,13,Carnivora,Mustelidae,0.0,43.18,10.0,1.2473805009480092,0,1,1,1,0,1,0,0,0,0,0
+Pollock Fish,0,Gadiformes,Gadidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Polyphemus moth,11,Lepidoptera,Saturniidae,0.0,12.7,19.474841669993218,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Pond Skater,11,Hemiptera,Gerridae,0.0,260.0,19.474841669993218,0.0105820105820105,2,1,1,0,0,0,0,0,0,0,1
+Pool Frog,2,Anura,Ranidae,0.0,700.0,3.5,1.763668430335097,0,0,1,0,0,0,0,0,0,0,0
+Porbeagle Shark,8,Lamniformes,Lamnidae,1.0,255.0,19.474841669993218,227.27272727272725,0,0,0,0,0,0,0,0,0,1,0
+Porcupine,13,Rodentia,Erethizontidae,0.0,1114.242495994122,10.0,10.7,4,1,1,0,1,1,1,0,0,0,1
+Porpoise,13,Artiodactyla,Phocoenidae,0.0,5.5,19.474841669993218,136.36363636363637,0,0,1,0,0,1,0,0,0,1,0
+Possum,13,Diprotodontia,Phalangeriformes,0.0,1114.242495994122,6.5,7.3,4,0,0,0,0,0,0,0,1,1,0
+Potoo,4,Nyctibiiformes,Nyctibiidae,0.0,39.497,10.0,0.5046209672846856,0,0,0,0,1,0,1,0,0,0,0
+Potoroo,13,Diprotodontia,Potoroidae,1.0,35.56,6.0,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Prairie Chicken,4,Galliformes,Phasianidae,0.0,43.18,3.5,0.949708000226796,4,0,0,0,0,1,0,0,0,0,0
+Prairie Dog,13,Rodentia,Sciuridae,0.0,3500.0,3.5,1.15,4,0,0,0,0,1,1,0,0,0,0
+Proboscis Monkey,13,Primates,Cercopithecidae,1.0,1114.242495994122,17.5,14.5,4,1,0,0,0,0,0,0,0,0,0
+Procoptodon,13,Diprotodontia,Macropodidae,1.0,1114.242495994122,19.474841669993218,220.45454545454544,2,0,0,0,0,0,0,0,1,1,0
+Pronghorn,13,Artiodactyla,Antilocapridae,0.0,295.0,10.0,54.5,2,0,0,0,0,1,1,0,0,0,0
+Psittacosaurus,16,Ornithischia,Psittacosauridae,1.0,425.0,19.474841669993218,32.0,2,1,0,0,0,0,0,0,0,0,1
+Pterodactyl,16,Pterodactylus,Azhdarchidae,1.0,103.632,25.0,2.727272727272727,0,1,1,1,1,1,0,0,1,1,1
+Puff Adder,16,Squamata,Viperidae,0.0,1114.242495994122,14.5,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Pufferfish,0,Tetraodontiformes,Tetraodontidae,0.0,3.81,10.0,11.363636363636363,0,0,0,0,0,0,0,0,0,1,0
+Puffin,4,Charadriiformes,Alcidae,0.0,1114.242495994122,22.5,14.998236331569665,0,0,1,0,0,1,0,0,0,1,1
+Puma,13,Carnivora,Felidae,0.0,1114.242495994122,12.5,86.0,0,0,0,0,1,1,1,0,0,0,0
+Purple Emperor Butterfly,11,Lepidoptera,Nymphalidae,0.0,680.0000000000001,19.474841669993218,1601.274827419837,4,1,1,0,0,0,0,0,0,0,1
+Purple Finch,4,Passeriformes,Fringillidae,0.0,15.24,14.0,25.0,4,0,0,0,0,1,0,0,0,0,0
+Purple Gallinule,4,Gruiformes,Rallidae,0.0,35.052,6.0,0.2480580597607302,4,0,0,0,1,1,1,0,0,0,0
+Purussaurus,16,Crocodilia,Alligatoridae,1.0,1280.16,19.474841669993218,0.0084,0,0,0,0,1,0,1,0,0,0,0
+Puss Moth,11,Lepidoptera,Notodontidae,0.0,650.0,19.474841669993218,1601.274827419837,4,0,1,1,0,0,0,0,0,0,0
+Pygmy Hippopotamus,13,Artiodactyla,Hippopotamidae,1.0,160.0,35.0,215.0,2,0,0,1,0,0,0,0,0,0,0
+Pygmy Marmoset (Finger Monkey),13,Primates,Callitrichidae,0.0,1114.242495994122,10.0,4.585537918871252,4,0,0,0,1,0,0,0,0,0,0
+Pygmy Shark,8,Squaliformes,Dalatiidae,0.0,24.892000000000003,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Pyjama Shark,8,Carcharhiniformes,Scyliorhinidae,0.0,106.68,19.474841669993218,7.257486550970236,0,0,0,1,0,0,0,0,0,0,0
+Quagga,13,Perissodactyla,Equidae,1.0,17900.0,19.474841669993218,275.0,2,0,0,1,0,0,0,0,0,0,0
+Quail,4,Galliformes,Phasianidae,0.0,1114.242495994122,4.0,3.703703703703704,4,1,1,1,1,1,1,0,1,1,1
+Quetzal,4,Trogoniformes,Trogonidae,0.0,1114.242495994122,22.5,7.495590828924162,4,0,0,0,1,1,1,0,0,0,0
+Quokka,13,Diprotodontia,Macropodidae,1.0,4700.0,7.5,3.0,2,0,0,0,0,0,0,0,1,1,0
+Quoll,13,Dasyuromorphia,Dasyuridae,0.0,1114.242495994122,4.5,4.15,4,0,0,0,0,0,0,0,1,1,0
+Rabbit,13,Lagomorpha,Leporidae,0.0,1114.242495994122,6.5,1.75,2,1,1,1,0,1,0,0,0,0,1
+Raccoon,13,Carnivora,Procyonidae,0.0,1114.242495994122,14.0,6.25,4,0,1,0,1,1,1,0,0,0,0
+Raccoon Dog,13,Carnivora,Canidae,0.0,5750.0,5.5,6.5,0,1,1,0,0,0,0,0,0,0,1
+Racer Snake,16,Squamata,Colubridae,0.0,101.6,10.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Radiated Tortoise,16,Testudines,Testudinidae,1.0,3550.0,55.0,9.1,2,0,0,1,0,0,0,0,0,0,0
+Rainbow Boa,16,Squamata,Boidae,0.0,152.4,20.0,1601.274827419837,0,0,0,0,1,0,1,0,0,0,0
+Rainbow Kribs (Kribensis),0,Perciformes,Cichlidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Rainbow Shark,0,Cypriniformes,Cyprinidae,0.0,1050.0,7.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Rat,13,Rodentia,Muridae,0.0,1114.242495994122,3.5,250.0,4,1,1,1,1,1,1,1,1,1,1
+Rat Snakes,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,0,1,1,1,0,1,1,1
+Rattlesnake,16,Squamata,Viperidae,0.0,243.84,12.5,1601.274827419837,4,0,0,0,1,1,1,0,0,0,0
+Red Deer,13,Artiodactyla,Cervidae,0.0,205.74,20.0,198.86363636363637,2,1,1,1,0,0,0,0,0,0,1
+Red Diamondback Rattlesnake,16,Squamata,Viperidae,0.0,1114.242495994122,14.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Red Finch,4,Passeriformes,Fringillidae,0.0,5.5,11.583333333333334,0.0255731922398589,2,0,0,0,0,1,1,0,0,0,0
+Red Kite,4,Accipitriformes,Accipitridae,0.0,63.5,25.0,1.0205840462301894,4,1,1,1,0,0,0,0,0,0,0
+Red Knee Tarantula,3,Araneae,Theraphosidae,0.0,1114.242495994122,25.0,0.54673721340388,0,0,0,0,0,1,1,0,0,0,0
+Red Panda,13,Carnivora,Ailuridae,1.0,9000.0,10.0,4.6,4,1,0,0,0,0,0,0,0,0,0
+Red Paper Wasp,11,Hymenoptera,Vespidae,0.0,2.8448,0.0465753424657534,1601.274827419837,2,0,0,0,0,1,0,0,0,0,0
+Red Spitting Cobra,16,Squamata,Elapidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Red Squirrel,13,Rodentia,Sciuridae,0.0,3150.0,5.0,8.818342151675484,4,0,0,0,0,1,0,0,0,0,0
+Red Tail Boa (common boa),16,Squamata,Boidae,0.0,1114.242495994122,25.0,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+Red Wolf,13,Carnivora,Canidae,1.0,10750.0,11.0,29.5,0,0,0,0,0,1,0,0,0,0,0
+Red-Bellied Black Snake,16,Squamata,Elapidae,0.0,160.02,12.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Red-Bellied Woodpecker,4,Piciformes,Picidae,0.0,24.7777,12.1,73500.0,4,0,0,0,0,1,0,0,0,0,0
+Red-Billed Quelea Bird,4,Passeriformes,Ploceidae,0.0,27.94,2.0,0.0283494925440834,4,0,0,1,0,0,0,0,0,0,0
+Red-Eared Slider,16,Testudines,Emydidae,0.0,650.0,30.0,0.2409706866247094,4,1,1,1,0,1,1,0,1,1,0
+Red-Eyed Tree Frog,2,Hylidae or Anura,Phyllomedusidae,0.0,6.35,19.474841669993218,0.0099223223904292,0,0,0,0,1,0,1,0,0,0,0
+Red-handed Tamarin,13,Primates,Callitrichidae,0.0,2400.0,11.5,19.753086419753085,4,0,0,0,1,0,0,0,0,0,0
+Red-Headed Vulture,4,Accipitriformes,Accipitridae,1.0,76.2,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Red-Lipped Batfish,0,Lophiiformes,Ogcocephalidae,0.0,20.32,12.0,0.9071858188712796,0,0,0,0,1,0,0,0,0,0,0
+Red-Shouldered Hawk,4,Accipitriformes,Accipitridae,0.0,49.53,20.0,0.6818181818181818,0,0,0,0,0,1,1,0,0,0,0
+Red-winged blackbird,4,Passeriformes,Icteridae,0.0,20.32,19.474841669993218,56.0,4,0,0,0,0,1,1,0,0,0,0
+Redback Spider,3,aranae,Theridiidae,0.0,0.6477,4.5,0.0009922322390429,0,1,1,0,0,0,0,0,1,1,0
+Redstart,4,Passeriformes,Muscicapidae,0.0,13.97,3.5,0.0163009582128479,4,1,1,1,0,0,0,0,0,0,1
+Reef Shark,8,Carcharhiniformes,Carcharhinidae,1.0,20.574,19.0,104.32636917019714,0,0,0,0,0,0,0,0,0,1,0
+Reindeer,13,Artiodactyla,Cervidae,0.0,1114.242495994122,13.5,190.0,2,0,1,0,0,1,0,0,0,1,1
+Repenomamus,13,Gobiconodonta, Gobiconodontidae,1.0,100.584,28.0,12.954545454545451,4,1,0,0,0,0,0,0,0,0,0
+Reticulated python,16,Squamata,Pythonidae,0.0,1650.0,25.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Rhamphosuchus,16,Crocodilia,Gavialidae,1.0,950.0,19.474841669993218,0.0025,0,1,0,0,0,0,0,0,0,0,0
+Rhesus Macaque,13,Primate,Old-world monkeys,0.0,1114.242495994122,30.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Rhino Viper,16,Squamata,Viperidae,1.0,121.92,8.0,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,1114.242495994122,42.5,401.5,2,1,0,1,0,0,0,0,0,0,0
+Rhombic Egg-Eater Snake,16,Squamata,Colubridae,0.0,109.22,17.5,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Ribbon Eel,0,Anguilliformes,Muraenidae,0.0,1114.242495994122,20.0,1601.274827419837,0,1,0,1,0,0,0,0,1,1,0
+Ring-billed Gull,4,Charadriiformes,Laridae,0.0,1114.242495994122,23.0,500.0,4,0,0,0,0,1,1,0,0,0,0
+Ringed Kingfisher,4,Coracliformes,Alcedinidae,0.0,35.56,7.5,0.3118444179849181,0,0,0,0,0,1,0,0,0,0,0
+Rinkhals Snake,16,Squamata,Elapidae,0.0,99.06,22.5,1601.274827419837,4,0,0,1,0,0,0,0,0,0,0
+River Otter,13,Carnivora,Musteliodae,0.0,106.68,19.474841669993218,8.164672369841515,0,0,0,0,0,1,0,0,0,0,0
+Roadrunner,4,Cuculiformes,Cuculidae,0.0,58.42,3.5,0.3260191642569598,4,0,0,0,0,1,1,0,0,0,0
+Robin,4,Passeriformes,Muscicapidae,0.0,1325.0,2.0,0.6701940035273368,4,1,1,1,0,1,1,0,1,1,1
+Rock Crab,12,Decapoda,Cancridae,0.0,1114.242495994122,8.0,0.368543403073085,4,0,0,0,0,0,0,0,0,1,0
+Rock Hyrax,13,Hyracoidea,Procaviidae,0.0,5000.0,8.5,3.5,4,1,0,1,0,0,0,0,0,0,0
+Rock Python,16,Squamata,Pythonidae,0.0,24.13,24.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Rockhopper Penguin,4,Sphenisciformes,Spheniscidae,0.0,1114.242495994122,17.5,3.5,0,0,0,0,1,0,0,1,1,1,0
+Roe Deer,13,Artiodactyla,Cervidae,0.0,11250.0,12.5,26.0,2,1,1,0,0,0,0,0,0,0,1
+Rose-breasted Grosbeak,4,Passeriformes,Carinalidae,0.0,20.32,15.65,0.0439417134433293,4,0,0,0,1,1,1,0,0,0,0
+Roseate Spoonbill,4,Ciconiiformes,Threskiornithidae,0.0,1114.242495994122,12.5,1.5,4,0,0,0,1,1,1,0,0,0,0
+Rough Earth Snake,16,Squamata,Colubridae,0.0,21.59,6.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Rough Green Snake,16,Squamata,Colubridae,0.0,83.82000000000001,8.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Rough-Legged Hawk (Rough-Legged Buzzard),4,Accipitriformes,Accipitridae,0.0,53.34,7.5,1.1294463444947431,0,1,1,0,0,1,0,0,0,0,1
+Royal Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,17.5,4.5,0,0,0,0,0,0,0,1,0,1,0
+Ruby-Crowned Kinglet,4,Passeriformes,Regulidae,0.0,9.906,5.0,0.0084656084656084,4,0,0,0,0,1,0,0,0,0,0
+Ruby-Throated Hummingbird,4,Apodiformes,Trochilidae,0.0,7.366,4.0,0.0031184441798491,2,0,0,0,0,1,1,0,0,0,0
+Rufous Hummingbird,4,Apodiformes,Trochilidae,0.0,6.35,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Russel’s Viper,16,Squamata,Viperidae,0.0,152.4,19.474841669993218,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Russian Tortoise,16,Testudines,Testudinidae,1.0,19.05,60.0,0.6818181818181818,2,1,0,0,0,0,0,0,0,0,1
+Saanen Goat,13,Artiodactyla,Bovidae,0.0,1114.242495994122,10.0,1601.274827419837,4,0,1,0,0,0,0,0,0,0,0
+Saber-Toothed Tiger,13,Carnivora,Felidae,1.0,225.0,30.0,480.5,0,0,0,0,1,1,1,0,0,0,0
+Sable,13,Carnivora,Mustelidae,0.0,3550.0,20.0,1.3607787283069193,4,1,0,0,0,0,0,0,0,0,1
+Sable Ferret,13,Carnivora,Mustelidae,0.0,2000.0,10.0,1.4991245656847894,0,1,1,1,1,1,1,0,1,1,1
+Saiga,13,Artiodactyla,Bovidae,1.0,125.0,11.0,37.5,2,1,0,0,0,0,0,0,0,0,0
+Salamander,2,Caudata,Salamandroidea,0.0,1114.242495994122,12.5,32.55,0,1,1,0,1,1,1,0,0,0,1
+Salmon,0,Salmoniformes,Salmonidae,0.0,147.32,7.0,10.454545454545451,0,0,0,0,1,1,0,0,0,1,0
+Salmon Shark,8,Lamniformes,Lamnidae,0.0,240.0,23.5,197.72727272727272,0,0,0,0,0,0,0,0,0,1,0
+Sambar,13,Artiodactyla,Cervidae,1.0,195.0,26.0,326.5,2,1,0,0,0,1,0,0,1,1,0
+San Francisco Garter Snake,16,Squamata,Colubridae,0.0,92.71,10.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Sand Cat,13,Carnivora,Felidae,0.0,44.45,18.0,2.4545454545454546,0,1,0,1,0,0,0,0,0,0,1
+Sand Lizard,16,Squamata,Lacertidae,0.0,1650.0,6.5,0.4409171075837742,0,1,1,0,0,0,0,0,0,0,1
+Sand Tiger Shark,8,Lamniformes,Odontaspididae,1.0,260.60400000000004,24.0,174.81243933194838,0,0,0,0,0,0,0,0,0,1,0
+Sand Viper,16,Squamata,Viperidae,0.0,40.64,16.5,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Sandhill Crane,4,Gruiformes,Gruidae,0.0,1114.242495994122,20.0,4.10501583039254,2,0,0,0,0,1,1,0,0,0,1
+Saola,13,Artiodactyla,Bovidae,1.0,17500.0,10.0,90.0,2,1,0,0,0,0,0,0,0,0,0
+Sarcosuchus,16,Pseudosuchia,Pholidosauridae,1.0,925.068,19.474841669993218,160.68181818181816,0,0,0,1,1,0,0,0,0,0,0
+Sardines,0,Clupeiformes,Clupeidae,0.0,22.86,13.0,2.267964547178199,4,0,0,0,0,0,0,0,0,1,0
+Sarkastodon,13,Oxyaenodonta,Oxyaenidae,1.0,274.32,19.474841669993218,400.5,0,1,0,0,0,0,0,0,0,0,0
+Sarus Crane,4,Gruiformes,Gruidae,1.0,147.066,15.6,8.391468824559336,0,1,0,0,0,0,0,0,1,1,0
+Satanic leaf-tailed gecko,16,Squamata,Gekkonidae,0.0,8.89,19.474841669993218,0.0065203832851391,0,0,0,1,0,0,0,0,0,0,0
+Saturniidae Moth,11,Lepidoptera,Saturniidae,0.0,10.16,1.0,1601.274827419837,2,1,1,1,0,1,1,0,1,1,0
+Savannah Monitor,16,Squamata,Varanidae,0.0,91.44,20.0,5.896707822663316,4,0,0,1,0,0,0,0,0,0,0
+Savannah Sparrow,4,Passeriformes,Passerellidae,0.0,13.97,4.0,0.9523809523809524,4,0,0,0,0,1,1,0,0,0,0
+Savu Python,16,Squamata,Pythonidae,1.0,121.92,20.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Sawfish,8,Rhinopristiformes,Pristidae,1.0,655.32,30.0,113.86363636363636,0,0,0,0,0,0,0,0,0,1,0
+Scallops,5,Pectinida,Pectinidae,0.0,1114.242495994122,20.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Scarlet Kingsnake,16,Squamata,Colubridae,0.0,60.96,21.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Scarlet Macaw,4,Psittaciformes,Psittacidae,0.0,82.55,75.0,0.9090909090909092,4,0,0,0,1,1,1,0,0,0,0
+Scorpion,3,Scorpiones,Scorpionoidea,0.0,1114.242495994122,14.5,1.9400352733686064,0,1,1,1,1,1,1,0,1,1,1
+Scrotum Frog,2,Anura,Telmatobiidae,1.0,1600.0,15.0,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Sculpin,0,Scorpaeniformes,Cottidae,0.0,29.972,7.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Scutosaurus,16,Procolophonomorpha,Pareiasaur,1.0,259.08,19.474841669993218,1161.1978481552378,2,0,1,0,0,0,0,0,0,0,0
+Sea Dragon,0,Syngnathiformes,Syngnathidae,0.0,2200.0,6.0,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Sea Eagle,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,20.0,9.071858188712795,0,1,1,1,0,1,1,1,1,1,1
+Sea Lion,13,Carnivora,Otariidae,0.0,1114.242495994122,18.5,25.5,4,0,0,0,0,0,0,0,0,1,0
+Sea Otter,13,Carnivora,Mustelidae,1.0,1114.242495994122,13.5,29.5,4,0,0,0,0,0,0,0,0,1,0
+Sea Roach,12,Isopoda,Ligiidae,0.0,2.54,2.5,1601.274827419837,4,0,1,0,0,1,0,0,0,0,0
+Sea Slug,10,Nudibranchia,Opistobranches,0.0,11.43,2.5,1.4999999999999998,2,0,0,0,0,0,0,0,0,1,0
+Sea Turtle,16,Testudines,Chelonioidea,1.0,1114.242495994122,70.0,279.0,4,0,0,0,0,0,0,0,0,1,0
+Seagull,4,Charadriiformes,Laridae,0.0,1114.242495994122,49.0,1601.274827419837,0,1,1,1,1,1,1,1,1,1,1
+Seahorse,0,Syngnathiformes,Syngnathidae,1.0,1875.0,4.0,1601.274827419837,4,1,1,1,1,1,1,0,1,1,1
+Seal,13,Carnivora,Pinnipedia,0.0,1114.242495994122,20.0,54.0,0,0,0,0,0,0,0,0,0,1,0
+Sedge Warbler,4,Passeriformes,Acrocephalidae,0.0,12.192,6.0,0.011906786868515,3,1,1,1,0,0,0,0,0,0,0
+Sei Whale,13,Cetacea,Balaenopteridae,1.0,6400.0,70.0,0.031,0,0,0,0,0,0,0,0,0,1,0
+Senegal Parrot,4,Psittaciformes,Psittacidae,0.0,24.13,19.474841669993218,120.0,2,0,0,1,0,0,0,0,0,0,0
+Serval,13,Carnivora,Felidae,0.0,8000.0,15.0,11.25,0,0,0,1,0,0,0,0,0,0,0
+Sharp-Shinned Hawk,4,Accipitriformes, Accipitridae,0.0,30.48,8.0,0.1940035273368606,0,0,0,0,1,1,1,0,0,0,0
+Sharp-Tailed Snake,16,Reptilia Order:	Squamata,Colubridae,0.0,39.37,10.0,0.1417474627204173,0,0,0,0,0,1,0,0,0,0,0
+Shastasaurus,16,Ichthyosauria,Shastasauridae,1.0,1402.08,19.474841669993218,0.04125,0,1,0,0,0,1,0,0,0,0,0
+Sheep,13,Artiodactyla,Bovidae,0.0,1114.242495994122,7.5,85.0,2,1,1,1,1,1,1,0,1,1,1
+Shoebill Stork,4,Pelecaniformes,Balaenicipitidae,1.0,1114.242495994122,35.0,5.454545454545454,0,0,0,1,0,0,0,0,0,0,0
+Short-Eared Owl,4,Strigiformes,Strigidae,0.0,38.1,4.8,0.3416113851562057,0,1,1,1,1,1,1,0,0,0,1
+Shortfin Mako Shark,8,Lamniformes,Lamnidae,1.0,396.24,30.0,56.92591013417279,0,0,0,0,0,0,0,0,0,1,0
+Shrew,13,Insectivora,Soricidae,0.0,9.398,1.75,0.0575494698644894,4,1,1,1,1,1,1,0,1,1,1
+Siberian Ibex,13,Cetartiodactyla,Bovidae,0.0,147.32,16.0,64.86378604929648,2,1,0,0,0,0,0,0,0,0,1
+Siberian Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,225.0,0,1,0,0,0,0,0,0,0,0,1
+Sidewinder,16,Squamata,Viperidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Sika Deer,13,Artiodactyla,Cervidae,0.0,133.35,16.5,95.45454545454544,2,1,0,0,0,0,0,0,0,0,1
+Silkie Chicken,4,Galliformes,Phasianidae,0.0,1114.242495994122,8.0,1.0205840462301894,4,1,0,0,0,0,0,0,0,0,0
+Silky Shark,8,Carcharhiniformes,Carcharhinidae,1.0,205.74,23.0,186.36363636363637,0,0,0,1,0,0,0,0,0,1,0
+Silver Dollar,0,Characiformes,Characidae,0.0,6.0,10.0,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Simbakubwa,13,Hyaenodonta,Hyainailouridae,1.0,83.82000000000001,19.474841669993218,1960.0,0,0,0,1,0,0,0,0,0,0,0
+Sivatherium,13,Artiodactyla,Giraffidae,1.0,396.24,19.474841669993218,1824.5,2,1,0,1,0,0,0,0,0,0,0
+Sixgill shark,8,Hexanchiformes,Hexanchidae,0.0,1300.0,80.0,136.5909090909091,0,0,0,0,0,0,0,0,0,1,0
+Skink Lizard,16,Squamata,Scincidae,0.0,4425.0,19.474841669993218,454000.0,0,1,1,1,1,1,1,0,1,1,1
+Skipjack Tuna,0,Scombriformes,Scombridae,0.0,5600.0,10.0,10.681818181818182,0,0,0,0,0,0,0,0,0,1,0
+Skua,4,Charadriiformes,Lari,0.0,55.88,35.0,0.9706888261922691,0,1,1,1,1,1,0,1,1,1,0
+Skunk,13,Carnivora,Mephitidae,0.0,1114.242495994122,6.5,3.4,4,1,0,0,1,1,0,0,0,0,0
+Sleeper Shark,8,Squaliformes,Somniosidae,0.0,609.6,500.0,0.4535929094356397,0,0,0,0,0,0,0,0,0,1,0
+Sloth,13,Pilosa,Bradypodidae,1.0,1114.242495994122,32.5,5.25,4,0,0,0,1,0,1,0,0,0,0
+Slow Worm,16,Squamata,Anguidae,0.0,3500.0,20.0,2.1164021164021163,0,1,1,0,0,0,0,0,0,0,1
+Smallmouth Bass,0,Perciformes,Centrarchidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,0,1,1,0,0,0,0
+Smilosuchus,16,Phytosauria,Parasuchidae,1.0,850.0,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Smooth Earthsnake,16,Squamata,Colubridae,0.0,21.336,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Smooth Green Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,1,0,0,0,0
+Smooth Hammerhead Shark,8,Carcharhiniformes,Sphyrnidae,1.0,487.68,20.0,399.161760303363,0,0,0,0,0,0,0,0,0,1,0
+Smooth Snake,16,Coronella,Coronella austriaca,0.0,76.2,30.0,1601.274827419837,4,1,1,0,0,0,0,0,0,0,0
+Snapping Turtle,16,Testudines,Chelydridae,0.0,1114.242495994122,37.5,76.0,4,0,0,0,1,1,1,0,0,0,0
+Snook Fish,0,Perciformes,Centropomidae,0.0,110.49,18.0,13.18181818181818,0,0,0,0,0,0,1,0,0,1,0
+Snorkie,13,Carnivora,Canidae,0.0,35.56,15.0,4.535929094356398,4,0,0,0,0,1,0,0,0,0,0
+Snouted Cobra,16,Squamata,Elapidae,0.0,182.88,20.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Snow Bunting,4,Passeriformes,Calcariidae,0.0,17.78,9.0,0.0425242388161251,4,0,0,0,0,1,0,0,0,0,0
+Snow Crab,12,Decapoda,Oregoniidae,0.0,12.954,19.474841669993218,2.7215574566138385,0,0,0,0,0,0,0,0,0,1,0
+Snow Leopard,13,Carnivora,Felidae,1.0,1114.242495994122,21.0,1601.274827419837,0,1,0,0,0,0,0,0,0,0,1
+Snowberry Clearwing Moth,11,Lepidoptera,Sphingidae,0.0,5.08,19.474841669993218,1601.274827419837,2,0,0,0,0,1,0,0,0,0,0
+Snowflake Eel,0,Anguilliformes,Muraenidae,0.0,76.2,10.0,1601.274827419837,0,0,0,1,1,1,1,0,0,0,0
+Snowy Owl,4,Strigiformes,Strigidae,1.0,1114.242495994122,13.5,1.55,0,0,1,0,0,1,0,0,0,1,1
+Sockeye Salmon,0,Salmoniformes,Salmonidae,0.0,60.96,5.0,4.21841405775145,0,0,0,0,0,1,0,0,0,1,0
+Song Sparrow,4,Passeriformes,Passerelidae,0.0,14.859,4.5,0.0326019164256959,4,0,0,0,0,1,1,0,0,0,0
+Song Thrush,4,Passeriformes,Turdidae,0.0,21.9964,19.474841669993218,0.0783863468843907,4,1,1,1,0,0,0,0,0,0,0
+South China Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,147.5,0,1,0,0,0,0,0,0,0,0,0
+Southern Black Racer,16,Squamata,Colubridae,0.0,106.68,7.5,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Southern Hognose Snake,16,Squamata,Colubridae,1.0,46.99,9.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Spadefoot Toad,2,Mesobatrachia,Pelobatidae,0.0,1114.242495994122,6.0,2.6455026455026456,4,0,1,0,0,1,0,0,0,0,0
+Spanish Goat,13,Artiodactyla,Calvo,0.0,50.8,6.5,102.27272727272728,2,0,1,0,0,1,1,0,0,0,0
+Spanish Water Dog,13,Carnivora,Canidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,1,0,0,0,0,0,0,0,0
+Sparrow,4,Passeriformes,Passeridae,0.0,1114.242495994122,5.5,0.9770723104056436,4,1,1,1,1,1,1,0,1,1,1
+Sparrowhawk,4,Accipitriformes,Accipitridae,0.0,1114.242495994122,15.0,1.75,0,1,1,1,0,0,0,0,1,1,0
+Speckled Kingsnake,16,Squamata,Colubridae,0.0,121.92,20.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Spectacled Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,25.0,165.0,4,0,0,0,1,0,0,0,0,0,0
+Sperm Whale,13,Cetacea,Physeteridae,1.0,1645.92,60.0,0.04,0,0,0,0,0,0,0,0,0,1,0
+Spider Ball Python,16,Squamata,Pythonidae,0.0,114.3,35.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Spider Monkey,13,Primates,Atelidae,0.0,1114.242495994122,21.0,9.2,4,0,0,0,1,0,1,0,0,0,0
+Spider Wasp,11,Hymenoptera,Pompilidae,0.0,1114.242495994122,19.474841669993218,1.45e-05,0,1,1,1,1,1,1,0,1,1,1
+Spinner Shark,8,Carcharhiniformes,Carcharhinidae,1.0,228.6,17.5,72.57486550970236,0,0,0,0,0,0,0,0,0,1,0
+Spiny Dogfish,8,Squaliformes,Squalidae,1.0,4400.0,22.0,3.628743275485118,0,0,0,0,0,0,0,0,0,1,0
+Spiny Hill Turtle,16,Testudines,Geoemydidae,1.0,19750.0,20.0,1.75,4,1,0,0,0,0,0,0,0,0,0
+Spitting Cobra,16,Squamata,Elapidae,0.0,170.53560000000002,20.0,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Spotted Gar,0,Lepisosteiformes,Lepisosteidae,0.0,124.46,18.0,4.545454545454545,0,0,0,0,0,1,1,0,0,0,0
+Springbok,13,Artiodactyla,Bovidae,0.0,125.0,8.0,37.5,2,0,0,1,0,0,0,0,0,0,0
+Squid,7,Teuthida,Oegopsina,0.0,1114.242495994122,17.5,250.15,0,0,0,0,0,0,0,0,0,1,0
+Squirrel,13,Rodentia,Sciuridae,0.0,1114.242495994122,5.0,57.04545454545454,4,1,1,1,1,1,1,0,0,0,1
+Squirrel Monkey,13,Primates,Cebidae,0.0,1114.242495994122,17.5,0.925,4,0,0,0,1,0,1,0,0,0,0
+Squirrelfish,0,Beryciformes,Holocentridae,0.0,20.32,3.0,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Sri Lankan Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,62.5,1.5,2,1,0,0,0,0,0,0,0,0,0
+Stag Beetle,11,Coleoptera,Lucanidae,1.0,665.0,5.0,500.0,2,0,1,0,0,1,0,0,0,0,0
+Star-nosed mole,13,Eulipotyphla,Talpidae,0.0,1750.0,3.5,1.0052910052910051,0,0,0,0,0,1,0,0,0,0,0
+Stargazer Fish,0,Trachiniformes,Uranoscopidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,1,1,0
+Steller’s Sea Cow,13,Sirenia,Dugongidae,1.0,850.0,65.0,4004.4,2,0,0,0,0,0,0,0,0,1,0
+Stiletto Snake,16,Squamata,Lamprophiidae,0.0,1400.0,17.0,1601.274827419837,0,1,0,1,0,0,0,0,0,0,0
+Stoat,13,Carnivora,Mustelidae,0.0,1114.242495994122,5.0,12.34567901234568,0,1,1,0,0,1,0,0,0,0,1
+Stonechat,4,Passeriformes,Muscicapidae ,0.0,11.43,6.0,0.01700969552645,3,1,1,1,0,0,0,0,0,0,0
+Stonefish,0,Scorpaeniformes,Scorpaenidae,0.0,48.26,7.5,2.267964547178199,0,0,0,0,0,0,0,0,0,1,0
+Stork,4,Ciconiiformes,Ciconiidae,0.0,106.68,28.5,3.068181818181818,0,1,1,1,1,1,1,0,1,1,1
+Striped Hyena,13,Carnivora,Hyaenidae,0.0,107.5,24.0,33.33907884351952,4,1,1,1,0,0,0,0,0,0,0
+Striped Rocket Frog,2,Anura,Hylidae,0.0,525.0,12.5,0.2292768959435626,0,0,0,0,0,0,0,0,1,1,0
+Stupendemys,16,Testudines,Podocnemididae,1.0,330.0,110.0,1145.0,4,0,0,0,1,0,0,0,0,0,0
+Sturgeon,0,Acipenseriformes,Acipenseridae,1.0,670.5600000000001,55.0,45.58608739828179,0,0,0,0,0,0,0,0,0,1,0
+Styracosaurus,16,Ornithischia,Ceratopsidae,1.0,548.64,19.474841669993218,2.7,2,0,0,0,0,1,0,0,0,0,0
+Sugar Glider,13,Diprotodontia,Petauridae,0.0,18.5,10.0,0.175,4,1,0,0,0,0,0,0,0,0,0
+Sulcata Tortoise,16,Testudines,Testudinidae,1.0,76.2,70.0,63.27621086627175,2,0,0,1,0,0,0,0,0,0,0
+Sumatran Elephant,13,Proboscidea,Elephantidae,1.0,1114.242495994122,62.5,1.5,2,1,0,0,0,0,0,0,0,0,0
+Sumatran Orang-utan,13,Primates,Hominidae,1.0,1114.242495994122,35.0,56.0,4,1,0,0,0,0,0,0,0,0,0
+Sumatran Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,225.0,37.5,650.0,2,1,0,0,0,0,0,0,0,0,0
+Sumatran Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,115.0,0,1,0,0,0,0,0,0,0,0,0
+Summer Tanager,4,Passeriformes,Cardinalidae,0.0,16.51,5.0,0.01700969552645,3,0,0,0,1,1,1,0,0,0,0
+Sun Bear,13,Carnivora,Ursidae,1.0,1114.242495994122,22.5,45.0,4,1,0,0,0,0,0,0,0,0,0
+Sunbeam Snake,16,Squamata,Xenopeltidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,0,0,0,0,0,0,0,0,0
+Sunset Ball Python,16,Squamata,Pythonidae,0.0,5.0,19.474841669993218,2.4947610018960185,4,0,0,1,0,0,0,0,0,0,0
+Super Pastel Ball Python,16,Squamata,Pythonidae,0.0,121.92,25.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Supersaurus,16,Dinosauria,Diplodocidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,1,0,0,1,0,0,0,0,0
+Swai Fish,0,Siluriformes,Pangasiidae,1.0,91.44,19.474841669993218,34.090909090909086,4,1,0,0,0,0,0,0,0,0,0
+Swainson’s Hawk,4,Accipitriformes,Accipitridae,0.0,49.53,10.0,1.0886229826455356,0,0,0,0,1,1,1,0,0,0,0
+Swan,4,Anseriformes,Anatidae,0.0,12050.0,10.0,12.5,4,1,1,1,1,1,1,0,1,1,1
+Syrian Hamster,13,Rodentia,Cricetidae,1.0,600.0,2.0,162500.0,4,1,1,0,0,0,0,0,0,0,0
+Taipan,16,Squamata,Elapidae,0.0,216.408,12.5,1601.274827419837,0,0,0,0,0,0,0,0,1,1,0
+Takin,13,Artiodactyla,Bovidae,1.0,185.0,20.0,560.0,2,1,0,0,0,0,0,0,0,0,0
+Tang,0,Perciformes,Acanthuridae,0.0,91.44,30.0,0.6803893641534596,4,0,0,0,0,0,0,0,0,1,0
+Tangerine Leopard Gecko,16,Squamata,Eublepharidae,0.0,22.86,17.5,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Tapanuli Orang-utan,13,Primates,Hominidae,1.0,1114.242495994122,35.0,56.0,4,1,0,0,0,0,0,0,0,0,0
+Tapir,13,Perissodactyla,Tapiridae,1.0,1114.242495994122,25.0,225.0,2,1,0,0,1,0,0,0,0,0,0
+Tarantula Hawk,11,Hymenoptera,Pompilidae,0.0,5.08,19.474841669993218,0.0144582411974825,4,1,0,1,1,1,1,0,1,1,0
+Tarbosaurus,16,Saurischia,Tyrannosauridae,1.0,1082.04,25.0,4500.0,0,1,0,0,0,0,0,0,0,0,0
+Tarpon,0,Elopiformes,Megalopidae,1.0,182.88,40.0,45.35929094356398,0,0,0,0,0,0,0,0,0,1,0
+Tarsier,13,Primates,Tarsiidae,1.0,1114.242495994122,16.0,4.320987654320987,0,1,0,0,0,0,0,0,1,1,0
+Tasmanian Devil,13,Dasyuromorphia,Dasyuridae,0.0,1114.242495994122,6.5,7.0,4,0,0,0,0,0,0,0,1,1,0
+Tasmanian Tiger,13,Dasyuromorphia,Thylacinidae,1.0,114.3,10.0,19.050902196296867,0,0,0,0,0,0,0,0,1,1,0
+Tasmanian Tiger Snake,16,Squamata,Elapidae,0.0,138.684,15.0,2.8576353294445305,4,0,0,0,0,0,0,0,1,1,0
+Tawny Frogmouth,4,Caprimulgiformes,Podargidae,0.0,43.18,14.0,0.5102908657935022,0,0,0,0,0,0,0,0,1,1,0
+Tawny Owl,4,Strigiformes,Strigidae,0.0,1114.242495994122,5.0,17.636684303350968,4,1,1,0,0,0,0,0,0,0,1
+Teddy Bear Hamster,13,Rodentia,Cricetidae,1.0,15.24,2.5,0.1247377671939672,2,1,1,0,0,0,0,0,0,0,0
+Telescope Fish,0,Aulopiformes,Giganturidae,0.0,12.7,15.5,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Tetra,0,Characiformes,Characidae,0.0,1114.242495994122,3.5,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Texas Blind Snake,16,Squamata,Leptotyphopidae,0.0,17.78,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Texas Coral Snake,16,Squamata,Elapidae,0.0,1114.242495994122,12.5,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Texas Garter Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Texas Indigo Snake,16,Squamata,Colubridae,0.0,1114.242495994122,15.0,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Texas Night Snake,16,Squamata,Colubridae,0.0,43.18,12.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Texas Rat Snake,16,Squamata,Colubridae,0.0,152.4,15.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Texas Spiny Lizard,16,Squamata,Phrynosomatidae,0.0,25.4,4.5,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Thalassomedon,16,Plesiosauria,Elasmosauridae,1.0,1100.0,19.474841669993218,0.0036,0,0,0,0,0,1,0,0,0,0,0
+Thanatosdrakon,16,Pterosauria,Azhdarchidae,1.0,792.48,19.474841669993218,250.0,0,0,0,0,1,0,0,0,0,0,0
+Thornback Ray,8,Rajiformes,Rajidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,1,1,1,0,0,0,0,0,1,1
+Thorny Devil,16,Squamata,Agamidae,0.0,1114.242495994122,16.0,2.91005291005291,4,0,0,0,0,0,0,0,1,1,0
+Thresher Shark,8,Lamniformes,Alopiidae,0.0,609.6,34.5,289.1654797652203,4,0,0,0,0,0,0,0,0,1,0
+Thrush,4,Passeriformes,Turdidae,0.0,22.479,7.0,0.0983727391279696,4,1,1,1,1,1,1,0,1,1,1
+Thylacoleo carnifex,13,Diprotodontia,Thylacoleonidae,1.0,149.86,19.474841669993218,146.056916838276,0,0,0,0,0,0,0,0,1,1,0
+Thylacosmilus,13,Sparassodonta,Thylacosimilidae,1.0,121.92,19.474841669993218,99.79044007584076,0,0,0,0,1,0,0,0,0,0,0
+Tibetan Fox,13,Carnivora,Canidae,0.0,2600.0,9.0,10.0,0,1,0,0,0,0,0,0,0,0,0
+Tiger,13,Carnivora,Felidae,1.0,1114.242495994122,21.5,283.5,0,1,0,0,0,0,0,0,0,0,1
+Tiger Beetle,11,Coleoptera,Carabidae,1.0,2.54,2.5,1000.0,0,1,1,1,1,1,1,1,1,1,1
+Tiger Rattlesnake,16,Squamata,Viperidae,0.0,76.2,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Tiger Salamander,2,Caudata,Ambystomatidae,0.0,1114.242495994122,12.5,5.99647266313933,0,0,0,0,0,1,0,0,0,1,0
+Tiger Shark,8,Carcharhiniformes,Carcharhinidae,0.0,1114.242495994122,27.0,510.0,0,0,0,0,0,0,0,0,0,1,0
+Tiger snake,16,Squamata,Elapidae,0.0,182.88,12.5,0.8391468824559336,0,0,0,0,0,0,0,0,1,1,0
+Timor python,16,Squamata,Pythonidae,1.0,198.12,20.0,9.071858188712795,4,1,0,0,0,0,0,0,0,0,0
+Tire Track Eel,0,Synbranchiformes,Mastacembelidae,0.0,44.196,13.0,1.814371637742559,0,1,0,0,0,0,0,0,0,0,0
+Titanoboa,16,Squamata,Boidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,1,1,1,1,1,1,1,1
+Toadfish,0,Batrachoidiformes,Batrachoididae,0.0,3225.0,13.5,2.675,0,0,0,0,0,0,0,0,0,1,0
+Torkie,13,Carnivora,Canidae,0.0,24.13,14.0,3.855539730202938,4,0,0,0,0,1,0,0,0,0,0
+Tortoise,16,Testudines,Testudinidae,1.0,1114.242495994122,90.0,150.05,2,1,1,1,1,1,1,0,1,1,1
+Toucan,4,Piciformes,Ramphastidae,0.0,1114.242495994122,16.0,14.285714285714285,4,0,0,0,1,1,1,0,0,0,0
+Tree Frog,2,Anura,Hylidae,0.0,1114.242495994122,3.0,0.3350970017636684,0,1,1,1,1,1,1,0,1,1,1
+Tree Kangaroo,13,Diprotodontia,Macropodidae,1.0,68.88480000000001,17.5,7.937875915123695,4,0,0,0,0,0,0,0,1,1,0
+Tree Snake,16,Squamata,Colubridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,0,0,0,1,1,0
+Tree swallow,4,Passeriformes,Hirundinidae,0.0,12.954,19.474841669993218,21.0,4,0,0,0,0,1,1,0,0,0,0
+Treecreeper,4,Passeriformes,Certhiidae,0.0,11.43,2.5,0.0082213528377842,4,1,1,0,0,0,0,0,1,1,0
+Triggerfish,0,Tetraodontiformes,Balistidae,0.0,13.97,14.0,1601.274827419837,4,0,0,0,0,0,1,0,0,1,0
+Tropicbird,4,Phaethontiformes,Phaethontidae,0.0,8750.0,13.0,0.5,0,0,0,0,0,0,0,0,0,1,0
+Trout,0,Salmoniformes,Salmonidae,0.0,45.72,29.0,9.071858188712795,0,1,1,0,0,1,0,0,0,0,0
+Tsetse Fly,11,Diptera,Glossinidae,0.0,0.9525,0.3333333333333333,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Tuatara,16,Sphenodontia,Sphenodontidae,0.0,1114.242495994122,75.0,340.9090909090909,0,0,0,0,0,0,0,0,1,1,0
+Tufted Coquette,4,Apodiformes,Trochilidae,0.0,6.604,4.0,0.0022963088960707,4,0,0,0,1,0,1,0,0,0,0
+Tufted Titmouse,4,Passeriformes,Paridae,0.0,14.986,2.1,0.0264550264550264,4,0,0,0,0,1,0,0,0,0,0
+Tuna,0,Scombriformes,Scombridae,0.0,900.0,40.0,0.4545454545454545,4,0,0,0,0,0,0,0,0,1,0
+Turkey,4,Galliformes,Phasianidae,0.0,1114.242495994122,5.5,7.0,4,0,0,0,0,1,1,0,0,0,0
+Turkey Vulture,4,Accipitriformes,Cathartidae,0.0,76.2,16.0,1.587575183024739,0,0,0,0,1,1,1,0,0,0,0
+Tusoteuthis,7,Octopoda,Muensterellidae,1.0,950.0,19.474841669993218,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Twig Snake,16,Squamata,Colubridae,0.0,121.92,10.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Tylosaurus,16,Squamata,Mosasauridae,1.0,1249.68,19.474841669993218,100.22727272727272,0,0,0,0,0,1,0,0,0,0,0
+Uakari,13,Primates,Pitheciidae,1.0,4750.0,19.0,3.25,4,0,0,0,1,0,0,0,0,0,0
+Uguisu,4,Passeriformes,Cettiidae,0.0,1525.0,3.5,0.6525573192239859,4,1,0,0,0,0,0,0,0,0,0
+Uinta Ground Squirrel,13,Rodentia,Sciuridae,0.0,29.21,19.474841669993218,0.3175143164937347,2,0,0,0,0,1,0,0,0,0,0
+Uintatherium,13,Dinocerata,Uintatheriidae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,2,1,0,0,0,1,0,0,0,0,0
+Umbrellabird,4,Passeriformes,Cotingidae,1.0,1114.242495994122,16.0,15.696649029982362,4,0,0,0,1,1,1,0,0,0,0
+Unau (Linnaeus’s Two-Toed Sloth),13,Pilosa,Choloepodidae,0.0,64.77,30.0,6.0,4,0,0,0,1,0,0,0,0,0,0
+Underwing Moth,11,Lepidoptera,Erebidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,0,0,1,0,0,0,0,0
+Upland Sandpiper,4,Charadriiformes,Scolopacidae,0.0,30.48,4.0,0.1700969552645007,3,0,0,0,1,1,1,0,0,0,0
+Ural owl,4,Strigiformes,Strigidae,0.0,1114.242495994122,24.0,102.5,0,1,1,0,0,0,0,0,0,0,1
+Urial,13,Artiodactyla,Bovidae,1.0,1114.242495994122,10.0,89.99283323203093,2,1,0,0,0,0,0,0,0,0,1
+Urutu Snake,16,Squamata,Serpentes,0.0,124.46,15.2,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Vampire Bat,13,Chiroptera,Phyllostomidae,0.0,1114.242495994122,10.0,1.3403880070546736,0,0,0,0,1,0,1,0,0,0,0
+Vaquita,13,Artiodactyla,Phocoenidae,1.0,137.16,20.0,40.90909090909091,4,0,0,0,0,1,0,0,0,1,0
+Vegavis,4,Vegaviiformes,Vegaviidae,1.0,60.96,19.474841669993218,2.267964547178199,0,0,0,0,0,0,0,1,0,0,0
+Vermilion Flycatcher,4,Passeriformes,Tyrannidae,0.0,13.462,4.5,0.0124737767193967,3,0,0,0,1,1,1,0,0,0,0
+Vervet Monkey,13,Primates,Cercopithecidae,0.0,5600.0,18.0,4.25,4,0,0,1,0,0,0,0,0,0,0
+Vicuña,13,Artiodactyla,Camelidae,0.0,149.352,17.5,49.99999999999999,2,0,0,0,1,0,0,0,0,0,0
+Vine Snake,16,Squamata,Colubridae,0.0,1114.242495994122,15.0,1601.274827419837,0,1,0,1,1,1,1,0,0,0,0
+Viper Shark (dogfish),8,Squaliformes,Etmopteridae,0.0,3700.0,19.474841669993218,0.7727272727272726,0,0,0,0,0,0,0,0,0,1,0
+Vole,13,Rodentia,Cricetidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,1,0,0,1,0,0,0,0,1
+Vulture,4,Cathartiformes,Cathartidae,1.0,1114.242495994122,25.0,1.525,0,1,1,1,1,1,1,0,0,0,1
+Wahoo Fish,0,Scombriformes,Scombridae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Walking Catfish,0,Siluriformes,Clariidae,0.0,2750.0,19.474841669993218,0.9090909090909092,4,1,0,0,0,0,0,0,0,0,0
+Wallaby,13,Diprotodontia,Macropodidae,0.0,1114.242495994122,13.5,10.5,2,0,0,0,0,0,0,0,1,1,0
+Walleye Fish,0,Perciformes,Percidae,0.0,80.0,20.0,9.09090909090909,0,0,0,0,0,1,0,0,0,0,0
+Walrus,13,Carnivora,Odobenidae,0.0,287.5,45.0,200.5,0,0,0,0,0,0,0,0,0,1,0
+Wandering Albatross,4,Procellariiforms,Diomedeidae,1.0,12100.0,50.0,4.21841405775145,0,0,0,0,0,0,0,0,0,1,0
+Warthog,13,Artiodactyla,Suidae,0.0,1114.242495994122,15.0,100.0,4,0,0,1,0,0,0,0,0,0,0
+Water Buffalo,13,Artiodactyla,Bovidae,1.0,1114.242495994122,20.0,650.0,2,1,1,1,0,1,0,0,1,1,1
+Water Dragon,16,Squamata,Agamidae,0.0,1114.242495994122,15.0,0.75,4,1,0,0,0,0,0,0,1,1,0
+Water Vole,13,Rodentia,Cricetidae,0.0,1800.0,1.25,8.994708994708994,2,0,1,0,0,0,0,0,0,0,0
+Wattled Jacana,4,Charadriiformes,Jacanidae,0.0,25.4,6.5,0.1133979701763338,0,0,0,0,1,0,1,0,0,0,0
+Weasel,13,Carnivora,Mustelidae,0.0,18.415,2.0,0.1389125134660089,0,1,1,0,0,1,0,0,0,0,1
+Wels Catfish,0,Siluriformes,Siluridae,0.0,304.8,80.0,227.27272727272725,4,0,1,0,0,0,0,0,0,0,0
+Welsh Black Cattle,13,Artiodactyla,Bovidae,1.0,1114.242495994122,15.0,22.90644192649981,2,1,1,1,0,1,1,0,1,1,0
+Western Blind Snake,16,Squamata,Leptotyphlopidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Western Diamondback Rattlesnake,16,Squamata,Viperidae,0.0,4.5,17.5,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Western Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,150.0,2,0,0,1,0,0,0,0,0,0,0
+Western Green Mamba,16,Squamata,Elapidae,0.0,192.024,11.5,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Western Hognose Snake,16,Squamata,Colubridae,0.0,76.2,15.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Western Lowland Gorilla,13,Primates,Hominidae,1.0,1114.242495994122,42.5,150.0,2,0,0,1,0,0,0,0,0,0,0
+Western Rat Snake,16,Squamata,Colubridae,0.0,1114.242495994122,20.0,1601.274827419837,0,0,0,0,0,1,0,0,0,0,0
+Western Tanager,4,Passeriformes,Cardinalidae,0.0,17.526,15.0,0.0297669671712876,3,0,0,0,0,1,1,0,0,0,0
+Whale Shark,8,Orectolobiformes,Rhincodontidae,0.0,1114.242495994122,65.0,310.0,0,0,0,0,0,0,0,0,0,1,0
+Whimbrel,4,Charadriiformes,Scolopacidae ,0.0,1114.242495994122,18.0,0.3813006747179225,4,1,1,1,0,1,0,0,0,0,0
+Whinchat,4,Passeriformes,Muscicapidae,0.0,12.954,4.5,0.0195611498554175,4,0,1,1,0,0,0,0,0,0,0
+Whiptail Lizard,16,Squamata,Teiidae,0.0,1.5,19.474841669993218,1601.274827419837,0,0,0,0,1,1,1,0,0,0,0
+White Ferret / Albino Ferrets,13,Carnivora,Mustelidae,0.0,6.0,7.5,1.3636363636363635,0,1,1,1,1,1,1,0,1,1,1
+White Rhinoceros,13,Perissodactyla,Rhinocerotidae,0.0,1114.242495994122,47.5,220.5,2,0,0,1,0,0,0,0,0,0,0
+White Shark,8,Lamniformes,Lamnidae,1.0,472.44,60.0,22.90644192649981,4,0,0,0,0,0,0,0,0,1,0
+White Sturgeon ,0,Acipenseriformes,Acipenseridae,1.0,1114.242495994122,19.474841669993218,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+White Tiger,13,Carnivora,Felidae,1.0,284.99999999999994,15.0,220.0,0,1,0,0,0,0,0,0,0,0,1
+White-Crowned Sparrow,4,Passeriformes,Passerellidae,0.0,15.494,13.0,0.0269320179168792,4,0,0,0,0,1,1,0,0,0,0
+White-Eyed Vireo,4,Passeriformes,Vireonidae,0.0,12.7,10.0,0.0113397970176333,4,0,0,0,0,1,1,0,0,0,0
+White-Faced Capuchin,13,Primates,Cebidae,0.0,1114.242495994122,28.0,3.4,4,0,0,0,1,0,1,0,0,0,0
+White-tail deer,13,Artiodactyla,Cervidae,0.0,160.0,6.0,136.0,2,0,0,0,1,1,1,0,0,0,0
+White-Tailed Eagle,4,Accipitriformes,Accipitridae,0.0,8000.0,22.5,4.886363636363636,0,1,1,0,0,1,0,0,0,0,1
+White-tail deer,13,Artiodactyla,Cervidae,0.0,160.0,6.0,136.0,2,0,0,0,1,1,1,0,0,0,0
+Whiting,0,Gadiformes,Gadidae,0.0,59.69,20.0,3.0909090909090904,0,0,1,0,0,0,0,0,0,1,0
+Whooping Crane,4,Gruiformes,Gruidae,1.0,1114.242495994122,26.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Wild Boar,13,Artiodactyla,Suidae,0.0,1114.242495994122,17.5,127.5,4,1,1,0,0,0,0,0,0,0,1
+Wildebeest,13,Artiodactyla,Bovidae,1.0,1114.242495994122,17.5,185.0,2,0,0,1,0,0,0,0,0,0,0
+Willow Warbler,4,Passeriformes,Phylloscopidae,0.0,1114.242495994122,5.0,1601.274827419837,0,0,1,1,0,0,0,0,0,0,0
+Winter Moth,11,Lepidoptera,Geometridae,0.0,13.97,0.2916666666666667,1601.274827419837,2,0,1,0,0,1,0,0,0,0,0
+Wolf,13,Carnivora,Canidae,0.0,1114.242495994122,11.0,52.27272727272727,0,1,1,1,1,1,1,0,0,0,1
+Wolf Snake,16,Squamata,Colubridae,0.0,50.8,10.0,1601.274827419837,4,1,0,0,0,0,0,0,0,0,0
+Wolf Spider,3,Araneae,Lycosidae,0.0,72.0,1.5,0.54673721340388,4,1,1,1,1,1,1,0,1,1,1
+Wolffish,0,Perciformes,Anarhichadidae,1.0,228.6,12.0,22.67964547178199,0,0,0,0,0,0,0,0,0,1,0
+Wolverine,13,Carnivora,Mustelidae,0.0,1114.242495994122,12.5,20.5,0,0,1,0,0,1,0,0,0,0,1
+Wombat,13,Diprotodontia,Vombatidae,1.0,1114.242495994122,23.0,27.5,2,0,0,0,0,0,0,0,1,1,0
+Wood Bison,13,Artiodactyla,Bovidae,0.0,650.0,20.0,725.5,2,0,0,0,0,1,0,0,0,0,1
+Wood Frog,2,Anura,Ranidae,0.0,3.81,19.474841669993218,0.0079378579123433,0,0,0,0,0,1,0,0,0,0,0
+Wood Turtle,16,Testudines,Geoemydidae,0.0,21.59,58.0,1.3607787283069193,4,1,0,0,1,1,1,0,0,0,0
+Woodlouse,12,Isopoda,Armadillidiidae,0.0,935.0,3.5,1000.0,2,1,1,1,1,1,1,0,1,1,1
+Woodlouse Spider,3,Araneae,Dysderidae,0.0,1.016,19.474841669993218,1601.274827419837,0,1,1,1,1,1,0,0,1,1,1
+Woodpecker,4,Piciformes,Picidae,0.0,1114.242495994122,8.5,10.705467372134038,4,1,1,1,1,1,1,0,0,0,1
+Woodrat,13,Rodentia,Cricetidae,0.0,36.195,19.474841669993218,0.3331065373929807,2,0,0,0,0,1,0,0,0,0,0
+Woolly Mammoth,13,Proboscidea,Elephantidae,1.0,6.0,70.0,6.0,2,1,1,0,0,1,0,0,0,1,0
+Woolly Monkey,13,Primates,Atelidae,0.0,1114.242495994122,8.5,6.5,4,0,0,0,1,0,0,0,0,0,0
+Woolly Rhinoceros,13,Perissodactyla,Rhinocerotidae,1.0,457.2,19.474841669993218,3181.818181818181,2,1,1,0,0,0,0,0,0,0,1
+Worm Snake,16,Squamata,Colubridae,0.0,23.495,4.0,1601.274827419837,4,0,0,0,0,1,0,0,0,0,0
+Wrasse,0,Perciformes,Labridae,0.0,13050.0,6.5,1601.274827419837,0,0,0,0,0,0,0,0,0,1,0
+Writing Spider,3,Araneae,Araneidae,0.0,105.0,19.474841669993218,1601.274827419837,0,0,0,0,0,1,1,0,0,0,0
+Wrought Iron Butterflyfish,0,Perciformes,Chaetodontidae,0.0,15.24,7.0,1601.274827419837,4,0,0,0,0,0,0,0,0,1,0
+Wryneck,4,Piciformes,Picidae,0.0,16.51,3.5,0.0379883200090718,3,1,1,1,0,1,0,0,0,0,1
+Xeme (Sabine’s Gull),4,Charadriiformes,Laridae,0.0,29.21,8.0,0.155922208992459,0,0,1,0,0,1,0,0,0,0,1
+Xenoceratops,16,Ornithischia,Ceratopsidae,1.0,597.408,19.474841669993218,0.9071858188712796,2,0,0,0,0,1,0,0,0,0,0
+Xerus,13,Rodentia,Sciuridae,0.0,44.45,11.5,0.6349206349206349,4,0,0,1,0,0,0,0,0,0,0
+Xiaotingia,16,Ornithischia,Anchiornithidae,1.0,4180.0,19.474841669993218,0.8181818181818181,0,1,0,0,0,0,0,0,0,0,0
+Yak,13,Artiodactyla,Bovidae,0.0,1114.242495994122,17.5,150.5,2,1,0,0,0,0,0,0,0,0,1
+Yarara,16,Squamata,Viperidae,0.0,100.584,15.0,1601.274827419837,0,0,0,0,1,0,0,0,0,0,0
+Yellow Bellied Sapsucker,4,Piciformes,Picidae,0.0,19.558,6.5,0.0501786018030277,4,0,0,0,1,1,1,0,0,0,0
+Yellow Belly Ball Python,16,Squamata,Pythonidae,0.0,152.4,25.0,3.175150366049478,4,0,0,1,0,0,0,0,0,0,0
+Yellow Cobra,16,Squamata,Elapidae,0.0,119.38,16.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Yellow Crazy Ant,11,Hymenoptera,Formicidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,4,1,0,1,1,1,0,0,1,1,0
+Yellow Perch,0,Perciformes,Percidae,0.0,22.86,9.5,1.1339822735890994,4,0,0,0,0,1,0,0,0,0,0
+Yellow Spotted Lizard,16,Squamata,Xantusiidae,0.0,9.525,12.5,1.4545454545454546,0,0,0,0,0,0,1,0,0,0,0
+Yellow Tanager (Black-and-Yellow Tanager),4,Thraupidae,Thraupidae,0.0,11.938,2.5,0.0124737767193967,4,0,0,0,1,0,1,0,0,0,0
+Yellow-Eyed Penguin,4,Sphenisciformes,Spheniscidae,1.0,1114.242495994122,15.0,6.5,0,0,0,0,0,0,0,0,1,1,0
+Yellowfin Tuna,0,Scombriformes,Scombridae,0.0,450.0,7.5,204.54545454545453,0,0,0,0,0,0,0,0,0,1,0
+Yellowhammer,4,Passeriformes,Emberizidae,0.0,16.256,3.7,0.0283494925440834,4,1,1,0,0,0,0,0,1,1,1
+Yellowthroat,4,Passeriformes,Parulidae,0.0,11.43,11.0,0.008504847763225,3,0,0,0,1,1,1,0,0,0,0
+Yokohama chicken,4,Galliformes,Phasianidae,1.0,1114.242495994122,7.0,1.814371637742559,4,1,1,0,0,1,0,0,1,1,0
+Yoranian,13,Carnivora,Canidae,0.0,27.94,13.5,2.267964547178199,4,0,0,0,0,1,0,0,0,0,0
+Zebra,13,Perissodactyla,Equidae,1.0,237.5,25.0,312.5,2,0,0,1,0,0,0,0,0,0,0
+Zebra Finch,4,Passeriformes,Estrildidae,0.0,10.16,19.474841669993218,12.0,4,1,0,0,0,0,0,0,1,1,0
+Zebra Mussels,5,Myida,Dreissenidae,0.0,2.54,3.5,1601.274827419837,2,0,1,0,0,1,0,0,0,1,1
+Zebra Pleco,0,Siluriformes,Loricariidae,1.0,1114.242495994122,12.5,1601.274827419837,4,0,0,0,1,0,0,0,0,0,0
+Zebra Shark,8,Orectolobiformes,Stegostomatidae,0.0,1114.242495994122,17.5,18.0,4,0,0,0,0,0,0,0,0,1,0
+Zebra Snake,16,Squamata,Elapidae,0.0,121.92,12.0,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Zebra Spitting Cobra,16,Squamata,Elapidae,0.0,1114.242495994122,19.474841669993218,1601.274827419837,0,0,0,1,0,0,0,0,0,0,0
+Zebu,13,Artiodactyla,Bovidae,0.0,1114.242495994122,14.0,175.0,2,1,0,1,0,0,0,0,0,0,0
+Zokor,13,Rodentia,Spalacidae,0.0,1114.242495994122,19.474841669993218,0.3543686568010432,4,1,0,0,0,0,0,0,0,0,1
