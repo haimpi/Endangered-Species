@@ -10,4 +10,4 @@ Step 3 - I cleaned the data and used mean function to fill the missed numeric da
 
 Step 4 - I analyzed and vizulazied the data to draw conclusions.
 
-Step 5 - I tested a few models and checks if I can predict if the animal is endangered and received accuracy of 83%
+Step 5 - I tested a few models and checked if I can predict if the animal is endangered and received accuracy of 83%
